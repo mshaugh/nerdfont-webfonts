@@ -5,6 +5,7 @@
 ## Included Fonts
 
 * [DejaVu Sans Mono](https://github.com/powerline/fonts/tree/master/DejaVuSansMono)
+* [Fira Code](https://github.com/tonsky/FiraCode)
 * [Inconsolata](https://github.com/powerline/fonts/tree/master/Inconsolata)
 * [Inconsolata-g](https://github.com/powerline/fonts/tree/master/Inconsolata-g)
 * [Source Code Pro](https://github.com/powerline/fonts/tree/master/SourceCodePro)
