@@ -1,0 +1,144 @@
+@font-face {
+    font-family: "BlexMono Nerd Font";
+    src:    local(Blex Mono Bold Italic Nerd Font Complete),
+            url("fonts/Blex Mono Bold Italic Nerd Font Complete.woff2") format("woff2"),
+            url("fonts/Blex Mono Bold Italic Nerd Font Complete.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "BlexMono Nerd Font";
+    src:    local(Blex Mono Bold Nerd Font Complete),
+            url("fonts/Blex Mono Bold Nerd Font Complete.woff2") format("woff2"),
+            url("fonts/Blex Mono Bold Nerd Font Complete.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "BlexMono Nerd Font";
+    src:    local(Blex Mono ExtraLight Italic Nerd Font Complete),
+            url("fonts/Blex Mono ExtraLight Italic Nerd Font Complete.woff2") format("woff2"),
+            url("fonts/Blex Mono ExtraLight Italic Nerd Font Complete.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 200;
+}
+@font-face {
+    font-family: "BlexMono Nerd Font";
+    src:    local(Blex Mono ExtraLight Nerd Font Complete),
+            url("fonts/Blex Mono ExtraLight Nerd Font Complete.woff2") format("woff2"),
+            url("fonts/Blex Mono ExtraLight Nerd Font Complete.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 200;
+}
+@font-face {
+    font-family: "BlexMono Nerd Font";
+    src:    local(Blex Mono Italic Nerd Font Complete),
+            url("fonts/Blex Mono Italic Nerd Font Complete.woff2") format("woff2"),
+            url("fonts/Blex Mono Italic Nerd Font Complete.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "BlexMono Nerd Font";
+    src:    local(Blex Mono Light Italic Nerd Font Complete),
+            url("fonts/Blex Mono Light Italic Nerd Font Complete.woff2") format("woff2"),
+            url("fonts/Blex Mono Light Italic Nerd Font Complete.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "BlexMono Nerd Font";
+    src:    local(Blex Mono Light Nerd Font Complete),
+            url("fonts/Blex Mono Light Nerd Font Complete.woff2") format("woff2"),
+            url("fonts/Blex Mono Light Nerd Font Complete.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "BlexMono Nerd Font";
+    src:    local(Blex Mono Medium Italic Nerd Font Complete),
+            url("fonts/Blex Mono Medium Italic Nerd Font Complete.woff2") format("woff2"),
+            url("fonts/Blex Mono Medium Italic Nerd Font Complete.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "BlexMono Nerd Font";
+    src:    local(Blex Mono Medium Nerd Font Complete),
+            url("fonts/Blex Mono Medium Nerd Font Complete.woff2") format("woff2"),
+            url("fonts/Blex Mono Medium Nerd Font Complete.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "BlexMono Nerd Font";
+    src:    local(Blex Mono Nerd Font Complete),
+            url("fonts/Blex Mono Nerd Font Complete.woff2") format("woff2"),
+            url("fonts/Blex Mono Nerd Font Complete.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "BlexMono Nerd Font";
+    src:    local(Blex Mono SemiBold Italic Nerd Font Complete),
+            url("fonts/Blex Mono SemiBold Italic Nerd Font Complete.woff2") format("woff2"),
+            url("fonts/Blex Mono SemiBold Italic Nerd Font Complete.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "BlexMono Nerd Font";
+    src:    local(Blex Mono SemiBold Nerd Font Complete),
+            url("fonts/Blex Mono SemiBold Nerd Font Complete.woff2") format("woff2"),
+            url("fonts/Blex Mono SemiBold Nerd Font Complete.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "BlexMono Nerd Font";
+    src:    local(Blex Mono Text Italic Nerd Font Complete),
+            url("fonts/Blex Mono Text Italic Nerd Font Complete.woff2") format("woff2"),
+            url("fonts/Blex Mono Text Italic Nerd Font Complete.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "BlexMono Nerd Font";
+    src:    local(Blex Mono Text Nerd Font Complete),
+            url("fonts/Blex Mono Text Nerd Font Complete.woff2") format("woff2"),
+            url("fonts/Blex Mono Text Nerd Font Complete.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "BlexMono Nerd Font";
+    src:    local(Blex Mono Thin Italic Nerd Font Complete),
+            url("fonts/Blex Mono Thin Italic Nerd Font Complete.woff2") format("woff2"),
+            url("fonts/Blex Mono Thin Italic Nerd Font Complete.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 100;
+}
+@font-face {
+    font-family: "BlexMono Nerd Font";
+    src:    local(Blex Mono Thin Nerd Font Complete),
+            url("fonts/Blex Mono Thin Nerd Font Complete.woff2") format("woff2"),
+            url("fonts/Blex Mono Thin Nerd Font Complete.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 100;
+}

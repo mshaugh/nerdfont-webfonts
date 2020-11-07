@@ -1,0 +1,36 @@
+@font-face {
+    font-family: "MesloLGL Nerd Font";
+    src:    local(Meslo LG L Bold Italic Nerd Font Complete),
+            url("fonts/Meslo LG L Bold Italic Nerd Font Complete.woff2") format("woff2"),
+            url("fonts/Meslo LG L Bold Italic Nerd Font Complete.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "MesloLGL Nerd Font";
+    src:    local(Meslo LG L Bold Nerd Font Complete),
+            url("fonts/Meslo LG L Bold Nerd Font Complete.woff2") format("woff2"),
+            url("fonts/Meslo LG L Bold Nerd Font Complete.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "MesloLGL Nerd Font";
+    src:    local(Meslo LG L Italic Nerd Font Complete),
+            url("fonts/Meslo LG L Italic Nerd Font Complete.woff2") format("woff2"),
+            url("fonts/Meslo LG L Italic Nerd Font Complete.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "MesloLGL Nerd Font";
+    src:    local(Meslo LG L Regular Nerd Font Complete),
+            url("fonts/Meslo LG L Regular Nerd Font Complete.woff2") format("woff2"),
+            url("fonts/Meslo LG L Regular Nerd Font Complete.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}

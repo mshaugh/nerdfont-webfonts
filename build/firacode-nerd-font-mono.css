@@ -1,0 +1,45 @@
+@font-face {
+    font-family: "FiraCode Nerd Font Mono";
+    src:    local(Fira Code Bold Nerd Font Complete Mono),
+            url("fonts/Fira Code Bold Nerd Font Complete Mono.woff2") format("woff2"),
+            url("fonts/Fira Code Bold Nerd Font Complete Mono.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "FiraCode Nerd Font Mono";
+    src:    local(Fira Code Light Nerd Font Complete Mono),
+            url("fonts/Fira Code Light Nerd Font Complete Mono.woff2") format("woff2"),
+            url("fonts/Fira Code Light Nerd Font Complete Mono.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "FiraCode Nerd Font Mono";
+    src:    local(Fira Code Medium Nerd Font Complete Mono),
+            url("fonts/Fira Code Medium Nerd Font Complete Mono.woff2") format("woff2"),
+            url("fonts/Fira Code Medium Nerd Font Complete Mono.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "FiraCode Nerd Font Mono";
+    src:    local(Fira Code Regular Nerd Font Complete Mono),
+            url("fonts/Fira Code Regular Nerd Font Complete Mono.woff2") format("woff2"),
+            url("fonts/Fira Code Regular Nerd Font Complete Mono.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "FiraCode Nerd Font Mono";
+    src:    local(Fira Code Retina Nerd Font Complete Mono),
+            url("fonts/Fira Code Retina Nerd Font Complete Mono.woff2") format("woff2"),
+            url("fonts/Fira Code Retina Nerd Font Complete Mono.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}

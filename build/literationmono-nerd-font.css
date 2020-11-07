@@ -1,0 +1,36 @@
+@font-face {
+    font-family: "LiterationMono Nerd Font";
+    src:    local(Literation Mono Bold Italic Nerd Font Complete),
+            url("fonts/Literation Mono Bold Italic Nerd Font Complete.woff2") format("woff2"),
+            url("fonts/Literation Mono Bold Italic Nerd Font Complete.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "LiterationMono Nerd Font";
+    src:    local(Literation Mono Bold Nerd Font Complete),
+            url("fonts/Literation Mono Bold Nerd Font Complete.woff2") format("woff2"),
+            url("fonts/Literation Mono Bold Nerd Font Complete.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "LiterationMono Nerd Font";
+    src:    local(Literation Mono Italic Nerd Font Complete),
+            url("fonts/Literation Mono Italic Nerd Font Complete.woff2") format("woff2"),
+            url("fonts/Literation Mono Italic Nerd Font Complete.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "LiterationMono Nerd Font";
+    src:    local(Literation Mono Nerd Font Complete),
+            url("fonts/Literation Mono Nerd Font Complete.woff2") format("woff2"),
+            url("fonts/Literation Mono Nerd Font Complete.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
