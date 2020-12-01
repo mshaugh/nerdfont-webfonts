@@ -110,7 +110,10 @@ _main() {
 						stretch="$(_get_stretch "$file")"
 						style="$(_get_style "$file")"
 						weight="$(_get_weight "$file")"
-						css="$(cat << EOF
+
+						awk_script="$(readlink -f "$BASEDIR/scripts/$(printf "$base" | tr '[:upper:] ' '[:lower:]-').awk")"
+						[ -f "$awk_script" ] && builder="awk -f $awk_script" || builder="cat"
+						css="$($builder << EOF
 @font-face {
     font-family: "$family";
     src:    local(${basen%.*}),
@@ -148,7 +151,8 @@ done
 
 if [ -d "$FONTDIR" ]
 then
-	BUILDDIR="$(readlink -f "$FONTDIR/../build")"
+	BASEDIR="$(dirname "$(readlink -f "$0")")"
+	BUILDDIR="$(readlink -f "$BASEDIR/build")"
 	cd "$FONTDIR"
 	_main
 else
