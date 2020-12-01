@@ -1,5 +1,5 @@
 @font-face {
-    font-family: "mplus Nerd Font";
+    font-family: "mplus 1c Nerd Font";
     src:    local(M+ 1c Nerd Font Complete),
             url("fonts/M+ 1c Nerd Font Complete.woff2") format("woff2"),
             url("fonts/M+ 1c Nerd Font Complete.ttf") format("truetype");
@@ -8,7 +8,7 @@
     font-weight: 400;
 }
 @font-face {
-    font-family: "mplus Nerd Font";
+    font-family: "mplus 1c Nerd Font";
     src:    local(M+ 1c black Nerd Font Complete),
             url("fonts/M+ 1c black Nerd Font Complete.woff2") format("woff2"),
             url("fonts/M+ 1c black Nerd Font Complete.ttf") format("truetype");
@@ -17,7 +17,7 @@
     font-weight: 400;
 }
 @font-face {
-    font-family: "mplus Nerd Font";
+    font-family: "mplus 1c Nerd Font";
     src:    local(M+ 1c bold Nerd Font Complete),
             url("fonts/M+ 1c bold Nerd Font Complete.woff2") format("woff2"),
             url("fonts/M+ 1c bold Nerd Font Complete.ttf") format("truetype");
@@ -26,7 +26,7 @@
     font-weight: 400;
 }
 @font-face {
-    font-family: "mplus Nerd Font";
+    font-family: "mplus 1c Nerd Font";
     src:    local(M+ 1c heavy Nerd Font Complete),
             url("fonts/M+ 1c heavy Nerd Font Complete.woff2") format("woff2"),
             url("fonts/M+ 1c heavy Nerd Font Complete.ttf") format("truetype");
@@ -35,7 +35,7 @@
     font-weight: 400;
 }
 @font-face {
-    font-family: "mplus Nerd Font";
+    font-family: "mplus 1c Nerd Font";
     src:    local(M+ 1c light Nerd Font Complete),
             url("fonts/M+ 1c light Nerd Font Complete.woff2") format("woff2"),
             url("fonts/M+ 1c light Nerd Font Complete.ttf") format("truetype");
@@ -44,7 +44,7 @@
     font-weight: 400;
 }
 @font-face {
-    font-family: "mplus Nerd Font";
+    font-family: "mplus 1c Nerd Font";
     src:    local(M+ 1c medium Nerd Font Complete),
             url("fonts/M+ 1c medium Nerd Font Complete.woff2") format("woff2"),
             url("fonts/M+ 1c medium Nerd Font Complete.ttf") format("truetype");
@@ -53,7 +53,7 @@
     font-weight: 400;
 }
 @font-face {
-    font-family: "mplus Nerd Font";
+    font-family: "mplus 1c Nerd Font";
     src:    local(M+ 1c thin Nerd Font Complete),
             url("fonts/M+ 1c thin Nerd Font Complete.woff2") format("woff2"),
             url("fonts/M+ 1c thin Nerd Font Complete.ttf") format("truetype");
@@ -62,7 +62,7 @@
     font-weight: 400;
 }
 @font-face {
-    font-family: "mplus Nerd Font";
+    font-family: "mplus 1m Nerd Font";
     src:    local(M+ 1m Nerd Font Complete),
             url("fonts/M+ 1m Nerd Font Complete.woff2") format("woff2"),
             url("fonts/M+ 1m Nerd Font Complete.ttf") format("truetype");
@@ -71,7 +71,7 @@
     font-weight: 400;
 }
 @font-face {
-    font-family: "mplus Nerd Font";
+    font-family: "mplus 1m Nerd Font";
     src:    local(M+ 1m bold Nerd Font Complete),
             url("fonts/M+ 1m bold Nerd Font Complete.woff2") format("woff2"),
             url("fonts/M+ 1m bold Nerd Font Complete.ttf") format("truetype");
@@ -80,7 +80,7 @@
     font-weight: 400;
 }
 @font-face {
-    font-family: "mplus Nerd Font";
+    font-family: "mplus 1m Nerd Font";
     src:    local(M+ 1m light Nerd Font Complete),
             url("fonts/M+ 1m light Nerd Font Complete.woff2") format("woff2"),
             url("fonts/M+ 1m light Nerd Font Complete.ttf") format("truetype");
@@ -89,7 +89,7 @@
     font-weight: 400;
 }
 @font-face {
-    font-family: "mplus Nerd Font";
+    font-family: "mplus 1m Nerd Font";
     src:    local(M+ 1m medium Nerd Font Complete),
             url("fonts/M+ 1m medium Nerd Font Complete.woff2") format("woff2"),
             url("fonts/M+ 1m medium Nerd Font Complete.ttf") format("truetype");
@@ -98,7 +98,7 @@
     font-weight: 400;
 }
 @font-face {
-    font-family: "mplus Nerd Font";
+    font-family: "mplus 1m Nerd Font";
     src:    local(M+ 1m thin Nerd Font Complete),
             url("fonts/M+ 1m thin Nerd Font Complete.woff2") format("woff2"),
             url("fonts/M+ 1m thin Nerd Font Complete.ttf") format("truetype");
@@ -107,7 +107,7 @@
     font-weight: 400;
 }
 @font-face {
-    font-family: "mplus Nerd Font";
+    font-family: "mplus 1mn Nerd Font";
     src:    local(M+ 1mn Nerd Font Complete),
             url("fonts/M+ 1mn Nerd Font Complete.woff2") format("woff2"),
             url("fonts/M+ 1mn Nerd Font Complete.ttf") format("truetype");
@@ -116,7 +116,7 @@
     font-weight: 400;
 }
 @font-face {
-    font-family: "mplus Nerd Font";
+    font-family: "mplus 1mn Nerd Font";
     src:    local(M+ 1mn bold Nerd Font Complete),
             url("fonts/M+ 1mn bold Nerd Font Complete.woff2") format("woff2"),
             url("fonts/M+ 1mn bold Nerd Font Complete.ttf") format("truetype");
@@ -125,7 +125,7 @@
     font-weight: 400;
 }
 @font-face {
-    font-family: "mplus Nerd Font";
+    font-family: "mplus 1mn Nerd Font";
     src:    local(M+ 1mn light Nerd Font Complete),
             url("fonts/M+ 1mn light Nerd Font Complete.woff2") format("woff2"),
             url("fonts/M+ 1mn light Nerd Font Complete.ttf") format("truetype");
@@ -134,7 +134,7 @@
     font-weight: 400;
 }
 @font-face {
-    font-family: "mplus Nerd Font";
+    font-family: "mplus 1mn Nerd Font";
     src:    local(M+ 1mn medium Nerd Font Complete),
             url("fonts/M+ 1mn medium Nerd Font Complete.woff2") format("woff2"),
             url("fonts/M+ 1mn medium Nerd Font Complete.ttf") format("truetype");
@@ -143,7 +143,7 @@
     font-weight: 400;
 }
 @font-face {
-    font-family: "mplus Nerd Font";
+    font-family: "mplus 1mn Nerd Font";
     src:    local(M+ 1mn thin Nerd Font Complete),
             url("fonts/M+ 1mn thin Nerd Font Complete.woff2") format("woff2"),
             url("fonts/M+ 1mn thin Nerd Font Complete.ttf") format("truetype");
@@ -152,7 +152,7 @@
     font-weight: 400;
 }
 @font-face {
-    font-family: "mplus Nerd Font";
+    font-family: "mplus 1p Nerd Font";
     src:    local(M+ 1p Nerd Font Complete),
             url("fonts/M+ 1p Nerd Font Complete.woff2") format("woff2"),
             url("fonts/M+ 1p Nerd Font Complete.ttf") format("truetype");
@@ -161,7 +161,7 @@
     font-weight: 400;
 }
 @font-face {
-    font-family: "mplus Nerd Font";
+    font-family: "mplus 1p Nerd Font";
     src:    local(M+ 1p black Nerd Font Complete),
             url("fonts/M+ 1p black Nerd Font Complete.woff2") format("woff2"),
             url("fonts/M+ 1p black Nerd Font Complete.ttf") format("truetype");
@@ -170,7 +170,7 @@
     font-weight: 400;
 }
 @font-face {
-    font-family: "mplus Nerd Font";
+    font-family: "mplus 1p Nerd Font";
     src:    local(M+ 1p bold Nerd Font Complete),
             url("fonts/M+ 1p bold Nerd Font Complete.woff2") format("woff2"),
             url("fonts/M+ 1p bold Nerd Font Complete.ttf") format("truetype");
@@ -179,7 +179,7 @@
     font-weight: 400;
 }
 @font-face {
-    font-family: "mplus Nerd Font";
+    font-family: "mplus 1p Nerd Font";
     src:    local(M+ 1p heavy Nerd Font Complete),
             url("fonts/M+ 1p heavy Nerd Font Complete.woff2") format("woff2"),
             url("fonts/M+ 1p heavy Nerd Font Complete.ttf") format("truetype");
@@ -188,7 +188,7 @@
     font-weight: 400;
 }
 @font-face {
-    font-family: "mplus Nerd Font";
+    font-family: "mplus 1p Nerd Font";
     src:    local(M+ 1p light Nerd Font Complete),
             url("fonts/M+ 1p light Nerd Font Complete.woff2") format("woff2"),
             url("fonts/M+ 1p light Nerd Font Complete.ttf") format("truetype");
@@ -197,7 +197,7 @@
     font-weight: 400;
 }
 @font-face {
-    font-family: "mplus Nerd Font";
+    font-family: "mplus 1p Nerd Font";
     src:    local(M+ 1p medium Nerd Font Complete),
             url("fonts/M+ 1p medium Nerd Font Complete.woff2") format("woff2"),
             url("fonts/M+ 1p medium Nerd Font Complete.ttf") format("truetype");
@@ -206,7 +206,7 @@
     font-weight: 400;
 }
 @font-face {
-    font-family: "mplus Nerd Font";
+    font-family: "mplus 1p Nerd Font";
     src:    local(M+ 1p thin Nerd Font Complete),
             url("fonts/M+ 1p thin Nerd Font Complete.woff2") format("woff2"),
             url("fonts/M+ 1p thin Nerd Font Complete.ttf") format("truetype");
@@ -215,7 +215,7 @@
     font-weight: 400;
 }
 @font-face {
-    font-family: "mplus Nerd Font";
+    font-family: "mplus 2c Nerd Font";
     src:    local(M+ 2c Nerd Font Complete),
             url("fonts/M+ 2c Nerd Font Complete.woff2") format("woff2"),
             url("fonts/M+ 2c Nerd Font Complete.ttf") format("truetype");
@@ -224,7 +224,7 @@
     font-weight: 400;
 }
 @font-face {
-    font-family: "mplus Nerd Font";
+    font-family: "mplus 2c Nerd Font";
     src:    local(M+ 2c black Nerd Font Complete),
             url("fonts/M+ 2c black Nerd Font Complete.woff2") format("woff2"),
             url("fonts/M+ 2c black Nerd Font Complete.ttf") format("truetype");
@@ -233,7 +233,7 @@
     font-weight: 400;
 }
 @font-face {
-    font-family: "mplus Nerd Font";
+    font-family: "mplus 2c Nerd Font";
     src:    local(M+ 2c bold Nerd Font Complete),
             url("fonts/M+ 2c bold Nerd Font Complete.woff2") format("woff2"),
             url("fonts/M+ 2c bold Nerd Font Complete.ttf") format("truetype");
@@ -242,7 +242,7 @@
     font-weight: 400;
 }
 @font-face {
-    font-family: "mplus Nerd Font";
+    font-family: "mplus 2c Nerd Font";
     src:    local(M+ 2c heavy Nerd Font Complete),
             url("fonts/M+ 2c heavy Nerd Font Complete.woff2") format("woff2"),
             url("fonts/M+ 2c heavy Nerd Font Complete.ttf") format("truetype");
@@ -251,7 +251,7 @@
     font-weight: 400;
 }
 @font-face {
-    font-family: "mplus Nerd Font";
+    font-family: "mplus 2c Nerd Font";
     src:    local(M+ 2c light Nerd Font Complete),
             url("fonts/M+ 2c light Nerd Font Complete.woff2") format("woff2"),
             url("fonts/M+ 2c light Nerd Font Complete.ttf") format("truetype");
@@ -260,7 +260,7 @@
     font-weight: 400;
 }
 @font-face {
-    font-family: "mplus Nerd Font";
+    font-family: "mplus 2c Nerd Font";
     src:    local(M+ 2c medium Nerd Font Complete),
             url("fonts/M+ 2c medium Nerd Font Complete.woff2") format("woff2"),
             url("fonts/M+ 2c medium Nerd Font Complete.ttf") format("truetype");
@@ -269,7 +269,7 @@
     font-weight: 400;
 }
 @font-face {
-    font-family: "mplus Nerd Font";
+    font-family: "mplus 2c Nerd Font";
     src:    local(M+ 2c thin Nerd Font Complete),
             url("fonts/M+ 2c thin Nerd Font Complete.woff2") format("woff2"),
             url("fonts/M+ 2c thin Nerd Font Complete.ttf") format("truetype");
@@ -278,7 +278,7 @@
     font-weight: 400;
 }
 @font-face {
-    font-family: "mplus Nerd Font";
+    font-family: "mplus 2m Nerd Font";
     src:    local(M+ 2m Nerd Font Complete),
             url("fonts/M+ 2m Nerd Font Complete.woff2") format("woff2"),
             url("fonts/M+ 2m Nerd Font Complete.ttf") format("truetype");
@@ -287,7 +287,7 @@
     font-weight: 400;
 }
 @font-face {
-    font-family: "mplus Nerd Font";
+    font-family: "mplus 2m Nerd Font";
     src:    local(M+ 2m bold Nerd Font Complete),
             url("fonts/M+ 2m bold Nerd Font Complete.woff2") format("woff2"),
             url("fonts/M+ 2m bold Nerd Font Complete.ttf") format("truetype");
@@ -296,7 +296,7 @@
     font-weight: 400;
 }
 @font-face {
-    font-family: "mplus Nerd Font";
+    font-family: "mplus 2m Nerd Font";
     src:    local(M+ 2m light Nerd Font Complete),
             url("fonts/M+ 2m light Nerd Font Complete.woff2") format("woff2"),
             url("fonts/M+ 2m light Nerd Font Complete.ttf") format("truetype");
@@ -305,7 +305,7 @@
     font-weight: 400;
 }
 @font-face {
-    font-family: "mplus Nerd Font";
+    font-family: "mplus 2m Nerd Font";
     src:    local(M+ 2m medium Nerd Font Complete),
             url("fonts/M+ 2m medium Nerd Font Complete.woff2") format("woff2"),
             url("fonts/M+ 2m medium Nerd Font Complete.ttf") format("truetype");
@@ -314,7 +314,7 @@
     font-weight: 400;
 }
 @font-face {
-    font-family: "mplus Nerd Font";
+    font-family: "mplus 2m Nerd Font";
     src:    local(M+ 2m thin Nerd Font Complete),
             url("fonts/M+ 2m thin Nerd Font Complete.woff2") format("woff2"),
             url("fonts/M+ 2m thin Nerd Font Complete.ttf") format("truetype");
@@ -323,7 +323,7 @@
     font-weight: 400;
 }
 @font-face {
-    font-family: "mplus Nerd Font";
+    font-family: "mplus 2p Nerd Font";
     src:    local(M+ 2p Nerd Font Complete),
             url("fonts/M+ 2p Nerd Font Complete.woff2") format("woff2"),
             url("fonts/M+ 2p Nerd Font Complete.ttf") format("truetype");
@@ -332,7 +332,7 @@
     font-weight: 400;
 }
 @font-face {
-    font-family: "mplus Nerd Font";
+    font-family: "mplus 2p Nerd Font";
     src:    local(M+ 2p black Nerd Font Complete),
             url("fonts/M+ 2p black Nerd Font Complete.woff2") format("woff2"),
             url("fonts/M+ 2p black Nerd Font Complete.ttf") format("truetype");
@@ -341,7 +341,7 @@
     font-weight: 400;
 }
 @font-face {
-    font-family: "mplus Nerd Font";
+    font-family: "mplus 2p Nerd Font";
     src:    local(M+ 2p bold Nerd Font Complete),
             url("fonts/M+ 2p bold Nerd Font Complete.woff2") format("woff2"),
             url("fonts/M+ 2p bold Nerd Font Complete.ttf") format("truetype");
@@ -350,7 +350,7 @@
     font-weight: 400;
 }
 @font-face {
-    font-family: "mplus Nerd Font";
+    font-family: "mplus 2p Nerd Font";
     src:    local(M+ 2p heavy Nerd Font Complete),
             url("fonts/M+ 2p heavy Nerd Font Complete.woff2") format("woff2"),
             url("fonts/M+ 2p heavy Nerd Font Complete.ttf") format("truetype");
@@ -359,7 +359,7 @@
     font-weight: 400;
 }
 @font-face {
-    font-family: "mplus Nerd Font";
+    font-family: "mplus 2p Nerd Font";
     src:    local(M+ 2p light Nerd Font Complete),
             url("fonts/M+ 2p light Nerd Font Complete.woff2") format("woff2"),
             url("fonts/M+ 2p light Nerd Font Complete.ttf") format("truetype");
@@ -368,7 +368,7 @@
     font-weight: 400;
 }
 @font-face {
-    font-family: "mplus Nerd Font";
+    font-family: "mplus 2p Nerd Font";
     src:    local(M+ 2p medium Nerd Font Complete),
             url("fonts/M+ 2p medium Nerd Font Complete.woff2") format("woff2"),
             url("fonts/M+ 2p medium Nerd Font Complete.ttf") format("truetype");
@@ -377,7 +377,7 @@
     font-weight: 400;
 }
 @font-face {
-    font-family: "mplus Nerd Font";
+    font-family: "mplus 2p Nerd Font";
     src:    local(M+ 2p thin Nerd Font Complete),
             url("fonts/M+ 2p thin Nerd Font Complete.woff2") format("woff2"),
             url("fonts/M+ 2p thin Nerd Font Complete.ttf") format("truetype");
