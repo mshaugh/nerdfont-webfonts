@@ -15,13 +15,13 @@ at-rules for all provided fonts.
 
 ```javascript
 term_.prefs_.set('font-family', '"FiraCode Nerd Font", monospace');
-term_.prefs_.set('user-css', 'https://mshaugh.github.io/powerline-webfonts/build/firacode-nerd-font.css');
+term_.prefs_.set('user-css', 'https://mshaugh.github.io/nerdfont-webfonts/build/firacode-nerd-font.css');
 ```
 
 ### Preferences Editor
 
 * `font-family: "FiraCode Nerd Font", monospace`
-* `user-css: https://mshaugh.github.io/powerline-webfonts/build/firacode-nerd-font.css`
+* `user-css: https://mshaugh.github.io/nerdfont-webfonts/build/firacode-nerd-font.css`
 
 ## Font Ligatures
 
