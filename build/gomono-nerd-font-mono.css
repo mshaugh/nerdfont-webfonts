@@ -1,0 +1,32 @@
+@font-face {
+    font-family: "GoMono Nerd Font Mono";
+    src:    local("GoMonoNerdFontMono-Bold"),
+            url("fonts/GoMonoNerdFontMono-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "GoMono Nerd Font Mono";
+    src:    local("GoMonoNerdFontMono-BoldItalic"),
+            url("fonts/GoMonoNerdFontMono-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "GoMono Nerd Font Mono";
+    src:    local("GoMonoNerdFontMono-Italic"),
+            url("fonts/GoMonoNerdFontMono-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "GoMono Nerd Font Mono";
+    src:    local("GoMonoNerdFontMono-Regular"),
+            url("fonts/GoMonoNerdFontMono-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
