@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "ProFont IIx Nerd Font Propo";
+    src:    local("ProFontIIxNerdFontPropo-Regular"),
+            url("fonts/ProFontIIxNerdFontPropo-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}

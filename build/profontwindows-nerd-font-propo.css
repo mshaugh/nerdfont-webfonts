@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "ProFontWindows Nerd Font Propo";
+    src:    local("ProFontWindowsNerdFontPropo-Regular"),
+            url("fonts/ProFontWindowsNerdFontPropo-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}

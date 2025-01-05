@@ -1,0 +1,48 @@
+@font-face {
+    font-family: "ProFont IIx Nerd Font";
+    src:    local("ProFontIIxNerdFont-Regular"),
+            url("fonts/ProFontIIxNerdFont-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "ProFont IIx Nerd Font Mono";
+    src:    local("ProFontIIxNerdFontMono-Regular"),
+            url("fonts/ProFontIIxNerdFontMono-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "ProFont IIx Nerd Font Propo";
+    src:    local("ProFontIIxNerdFontPropo-Regular"),
+            url("fonts/ProFontIIxNerdFontPropo-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "ProFontWindows Nerd Font";
+    src:    local("ProFontWindowsNerdFont-Regular"),
+            url("fonts/ProFontWindowsNerdFont-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "ProFontWindows Nerd Font Mono";
+    src:    local("ProFontWindowsNerdFontMono-Regular"),
+            url("fonts/ProFontWindowsNerdFontMono-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "ProFontWindows Nerd Font Propo";
+    src:    local("ProFontWindowsNerdFontPropo-Regular"),
+            url("fonts/ProFontWindowsNerdFontPropo-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
