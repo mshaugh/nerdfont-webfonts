@@ -1,0 +1,152 @@
+@font-face {
+    font-family: "OpenDyslexicAlt Nerd Font";
+    src:    local("OpenDyslexicAltNerdFont-Bold"),
+            url("fonts/OpenDyslexicAltNerdFont-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "OpenDyslexicAlt Nerd Font";
+    src:    local("OpenDyslexicAltNerdFont-BoldItalic"),
+            url("fonts/OpenDyslexicAltNerdFont-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "OpenDyslexicAlt Nerd Font";
+    src:    local("OpenDyslexicAltNerdFont-Italic"),
+            url("fonts/OpenDyslexicAltNerdFont-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "OpenDyslexicAlt Nerd Font";
+    src:    local("OpenDyslexicAltNerdFont-Regular"),
+            url("fonts/OpenDyslexicAltNerdFont-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "OpenDyslexicAlt Nerd Font Propo";
+    src:    local("OpenDyslexicAltNerdFontPropo-Bold"),
+            url("fonts/OpenDyslexicAltNerdFontPropo-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "OpenDyslexicAlt Nerd Font Propo";
+    src:    local("OpenDyslexicAltNerdFontPropo-BoldItalic"),
+            url("fonts/OpenDyslexicAltNerdFontPropo-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "OpenDyslexicAlt Nerd Font Propo";
+    src:    local("OpenDyslexicAltNerdFontPropo-Italic"),
+            url("fonts/OpenDyslexicAltNerdFontPropo-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "OpenDyslexicAlt Nerd Font Propo";
+    src:    local("OpenDyslexicAltNerdFontPropo-Regular"),
+            url("fonts/OpenDyslexicAltNerdFontPropo-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "OpenDyslexicM Nerd Font";
+    src:    local("OpenDyslexicMNerdFont-Regular"),
+            url("fonts/OpenDyslexicMNerdFont-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "OpenDyslexicM Nerd Font Mono";
+    src:    local("OpenDyslexicMNerdFontMono-Regular"),
+            url("fonts/OpenDyslexicMNerdFontMono-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "OpenDyslexicM Nerd Font Propo";
+    src:    local("OpenDyslexicMNerdFontPropo-Regular"),
+            url("fonts/OpenDyslexicMNerdFontPropo-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "OpenDyslexic Nerd Font";
+    src:    local("OpenDyslexicNerdFont-Bold"),
+            url("fonts/OpenDyslexicNerdFont-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "OpenDyslexic Nerd Font";
+    src:    local("OpenDyslexicNerdFont-BoldItalic"),
+            url("fonts/OpenDyslexicNerdFont-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "OpenDyslexic Nerd Font";
+    src:    local("OpenDyslexicNerdFont-Italic"),
+            url("fonts/OpenDyslexicNerdFont-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "OpenDyslexic Nerd Font";
+    src:    local("OpenDyslexicNerdFont-Regular"),
+            url("fonts/OpenDyslexicNerdFont-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "OpenDyslexic Nerd Font Propo";
+    src:    local("OpenDyslexicNerdFontPropo-Bold"),
+            url("fonts/OpenDyslexicNerdFontPropo-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "OpenDyslexic Nerd Font Propo";
+    src:    local("OpenDyslexicNerdFontPropo-BoldItalic"),
+            url("fonts/OpenDyslexicNerdFontPropo-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "OpenDyslexic Nerd Font Propo";
+    src:    local("OpenDyslexicNerdFontPropo-Italic"),
+            url("fonts/OpenDyslexicNerdFontPropo-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "OpenDyslexic Nerd Font Propo";
+    src:    local("OpenDyslexicNerdFontPropo-Regular"),
+            url("fonts/OpenDyslexicNerdFontPropo-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "OpenDyslexicM Nerd Font Propo";
+    src:    local("OpenDyslexicMNerdFontPropo-Regular"),
+            url("fonts/OpenDyslexicMNerdFontPropo-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
