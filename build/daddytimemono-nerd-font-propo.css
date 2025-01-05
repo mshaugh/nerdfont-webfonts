@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "DaddyTimeMono Nerd Font Propo";
+    src:    local("DaddyTimeMonoNerdFontPropo-Regular"),
+            url("fonts/DaddyTimeMonoNerdFontPropo-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}

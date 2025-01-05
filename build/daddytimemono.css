@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "DaddyTimeMono Nerd Font";
+    src:    local("DaddyTimeMonoNerdFont-Regular"),
+            url("fonts/DaddyTimeMonoNerdFont-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "DaddyTimeMono Nerd Font Mono";
+    src:    local("DaddyTimeMonoNerdFontMono-Regular"),
+            url("fonts/DaddyTimeMonoNerdFontMono-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "DaddyTimeMono Nerd Font Propo";
+    src:    local("DaddyTimeMonoNerdFontPropo-Regular"),
+            url("fonts/DaddyTimeMonoNerdFontPropo-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
