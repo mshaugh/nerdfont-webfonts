@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "M+CodeLat60 Nerd Font Mono ExtLt";
+    src:    local("M+CodeLat60NerdFontMono-ExtraLight"),
+            url("fonts/M+CodeLat60NerdFontMono-ExtraLight.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 200;
+}

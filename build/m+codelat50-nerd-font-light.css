@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "M+CodeLat50 Nerd Font Light";
+    src:    local("M+CodeLat50NerdFont-Light"),
+            url("fonts/M+CodeLat50NerdFont-Light.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}

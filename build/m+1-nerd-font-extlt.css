@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "M+1 Nerd Font ExtLt";
+    src:    local("M+1NerdFont-ExtraLight"),
+            url("fonts/M+1NerdFont-ExtraLight.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 200;
+}

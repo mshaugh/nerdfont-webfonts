@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "M+2 Nerd Font Propo SemBd";
+    src:    local("M+2NerdFontPropo-SemiBold"),
+            url("fonts/M+2NerdFontPropo-SemiBold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 600;
+}

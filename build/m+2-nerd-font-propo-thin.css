@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "M+2 Nerd Font Propo Thin";
+    src:    local("M+2NerdFontPropo-Thin"),
+            url("fonts/M+2NerdFontPropo-Thin.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 100;
+}

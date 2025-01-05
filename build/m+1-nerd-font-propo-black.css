@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "M+1 Nerd Font Propo Black";
+    src:    local("M+1NerdFontPropo-Black"),
+            url("fonts/M+1NerdFontPropo-Black.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 900;
+}

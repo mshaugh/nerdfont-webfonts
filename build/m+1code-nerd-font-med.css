@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "M+1Code Nerd Font Med";
+    src:    local("M+1CodeNerdFont-Medium"),
+            url("fonts/M+1CodeNerdFont-Medium.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}

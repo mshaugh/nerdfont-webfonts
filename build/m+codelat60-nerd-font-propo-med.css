@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "M+CodeLat60 Nerd Font Propo Med";
+    src:    local("M+CodeLat60NerdFontPropo-Medium"),
+            url("fonts/M+CodeLat60NerdFontPropo-Medium.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}

@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "M+CodeLat50 Nerd Font Propo";
+    src:    local("M+CodeLat50NerdFontPropo-Bold"),
+            url("fonts/M+CodeLat50NerdFontPropo-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "M+CodeLat50 Nerd Font Propo";
+    src:    local("M+CodeLat50NerdFontPropo-Regular"),
+            url("fonts/M+CodeLat50NerdFontPropo-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "M+1Code Nerd Font Mono Thin";
+    src:    local("M+1CodeNerdFontMono-Thin"),
+            url("fonts/M+1CodeNerdFontMono-Thin.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 100;
+}
