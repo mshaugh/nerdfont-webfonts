@@ -1,0 +1,32 @@
+@font-face {
+    font-family: "BitstromWera Nerd Font Propo";
+    src:    local("BitstromWeraNerdFontPropo-Bold"),
+            url("fonts/BitstromWeraNerdFontPropo-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "BitstromWera Nerd Font Propo";
+    src:    local("BitstromWeraNerdFontPropo-BoldOblique"),
+            url("fonts/BitstromWeraNerdFontPropo-BoldOblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "BitstromWera Nerd Font Propo";
+    src:    local("BitstromWeraNerdFontPropo-Oblique"),
+            url("fonts/BitstromWeraNerdFontPropo-Oblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "BitstromWera Nerd Font Propo";
+    src:    local("BitstromWeraNerdFontPropo-Regular"),
+            url("fonts/BitstromWeraNerdFontPropo-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
