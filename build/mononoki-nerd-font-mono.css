@@ -1,0 +1,32 @@
+@font-face {
+    font-family: "Mononoki Nerd Font Mono";
+    src:    local("MononokiNerdFontMono-Bold"),
+            url("fonts/MononokiNerdFontMono-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Mononoki Nerd Font Mono";
+    src:    local("MononokiNerdFontMono-BoldItalic"),
+            url("fonts/MononokiNerdFontMono-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Mononoki Nerd Font Mono";
+    src:    local("MononokiNerdFontMono-Italic"),
+            url("fonts/MononokiNerdFontMono-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Mononoki Nerd Font Mono";
+    src:    local("MononokiNerdFontMono-Regular"),
+            url("fonts/MononokiNerdFontMono-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
