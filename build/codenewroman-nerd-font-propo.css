@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "CodeNewRoman Nerd Font Propo";
+    src:    local("CodeNewRomanNerdFontPropo-Bold"),
+            url("fonts/CodeNewRomanNerdFontPropo-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "CodeNewRoman Nerd Font Propo";
+    src:    local("CodeNewRomanNerdFontPropo-Italic"),
+            url("fonts/CodeNewRomanNerdFontPropo-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "CodeNewRoman Nerd Font Propo";
+    src:    local("CodeNewRomanNerdFontPropo-Regular"),
+            url("fonts/CodeNewRomanNerdFontPropo-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
