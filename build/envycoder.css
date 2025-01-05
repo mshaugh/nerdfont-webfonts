@@ -1,0 +1,72 @@
+@font-face {
+    font-family: "EnvyCodeR Nerd Font";
+    src:    local("EnvyCodeRNerdFont-Bold"),
+            url("fonts/EnvyCodeRNerdFont-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "EnvyCodeR Nerd Font";
+    src:    local("EnvyCodeRNerdFont-Italic"),
+            url("fonts/EnvyCodeRNerdFont-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "EnvyCodeR Nerd Font";
+    src:    local("EnvyCodeRNerdFont-Regular"),
+            url("fonts/EnvyCodeRNerdFont-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "EnvyCodeR Nerd Font Mono";
+    src:    local("EnvyCodeRNerdFontMono-Bold"),
+            url("fonts/EnvyCodeRNerdFontMono-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "EnvyCodeR Nerd Font Mono";
+    src:    local("EnvyCodeRNerdFontMono-Italic"),
+            url("fonts/EnvyCodeRNerdFontMono-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "EnvyCodeR Nerd Font Mono";
+    src:    local("EnvyCodeRNerdFontMono-Regular"),
+            url("fonts/EnvyCodeRNerdFontMono-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "EnvyCodeR Nerd Font Propo";
+    src:    local("EnvyCodeRNerdFontPropo-Bold"),
+            url("fonts/EnvyCodeRNerdFontPropo-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "EnvyCodeR Nerd Font Propo";
+    src:    local("EnvyCodeRNerdFontPropo-Italic"),
+            url("fonts/EnvyCodeRNerdFontPropo-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "EnvyCodeR Nerd Font Propo";
+    src:    local("EnvyCodeRNerdFontPropo-Regular"),
+            url("fonts/EnvyCodeRNerdFontPropo-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}

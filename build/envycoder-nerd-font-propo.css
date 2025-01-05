@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "EnvyCodeR Nerd Font Propo";
+    src:    local("EnvyCodeRNerdFontPropo-Bold"),
+            url("fonts/EnvyCodeRNerdFontPropo-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "EnvyCodeR Nerd Font Propo";
+    src:    local("EnvyCodeRNerdFontPropo-Italic"),
+            url("fonts/EnvyCodeRNerdFontPropo-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "EnvyCodeR Nerd Font Propo";
+    src:    local("EnvyCodeRNerdFontPropo-Regular"),
+            url("fonts/EnvyCodeRNerdFontPropo-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
