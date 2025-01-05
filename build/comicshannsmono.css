@@ -1,0 +1,48 @@
+@font-face {
+    font-family: "ComicShannsMono Nerd Font";
+    src:    local("ComicShannsMonoNerdFont-Bold"),
+            url("fonts/ComicShannsMonoNerdFont-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "ComicShannsMono Nerd Font";
+    src:    local("ComicShannsMonoNerdFont-Regular"),
+            url("fonts/ComicShannsMonoNerdFont-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "ComicShannsMono Nerd Font Mono";
+    src:    local("ComicShannsMonoNerdFontMono-Bold"),
+            url("fonts/ComicShannsMonoNerdFontMono-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "ComicShannsMono Nerd Font Mono";
+    src:    local("ComicShannsMonoNerdFontMono-Regular"),
+            url("fonts/ComicShannsMonoNerdFontMono-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "ComicShannsMono Nerd Font Propo";
+    src:    local("ComicShannsMonoNerdFontPropo-Bold"),
+            url("fonts/ComicShannsMonoNerdFontPropo-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "ComicShannsMono Nerd Font Propo";
+    src:    local("ComicShannsMonoNerdFontPropo-Regular"),
+            url("fonts/ComicShannsMonoNerdFontPropo-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}

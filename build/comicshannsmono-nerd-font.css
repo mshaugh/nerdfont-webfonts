@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "ComicShannsMono Nerd Font";
+    src:    local("ComicShannsMonoNerdFont-Bold"),
+            url("fonts/ComicShannsMonoNerdFont-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "ComicShannsMono Nerd Font";
+    src:    local("ComicShannsMonoNerdFont-Regular"),
+            url("fonts/ComicShannsMonoNerdFont-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
