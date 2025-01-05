@@ -1,0 +1,32 @@
+@font-face {
+    font-family: "DejaVuSansM Nerd Font";
+    src:    local("DejaVuSansMNerdFont-Bold"),
+            url("fonts/DejaVuSansMNerdFont-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "DejaVuSansM Nerd Font";
+    src:    local("DejaVuSansMNerdFont-BoldOblique"),
+            url("fonts/DejaVuSansMNerdFont-BoldOblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "DejaVuSansM Nerd Font";
+    src:    local("DejaVuSansMNerdFont-Oblique"),
+            url("fonts/DejaVuSansMNerdFont-Oblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "DejaVuSansM Nerd Font";
+    src:    local("DejaVuSansMNerdFont-Regular"),
+            url("fonts/DejaVuSansMNerdFont-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
