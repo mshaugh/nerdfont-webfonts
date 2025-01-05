@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "Monofur Nerd Font Mono";
+    src:    local("MonofurNerdFontMono-Bold"),
+            url("fonts/MonofurNerdFontMono-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Monofur Nerd Font Mono";
+    src:    local("MonofurNerdFontMono-Italic"),
+            url("fonts/MonofurNerdFontMono-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Monofur Nerd Font Mono";
+    src:    local("MonofurNerdFontMono-Regular"),
+            url("fonts/MonofurNerdFontMono-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
