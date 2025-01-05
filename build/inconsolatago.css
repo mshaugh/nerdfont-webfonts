@@ -1,0 +1,48 @@
+@font-face {
+    font-family: "InconsolataGo Nerd Font";
+    src:    local("InconsolataGoNerdFont-Bold"),
+            url("fonts/InconsolataGoNerdFont-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "InconsolataGo Nerd Font";
+    src:    local("InconsolataGoNerdFont-Regular"),
+            url("fonts/InconsolataGoNerdFont-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "InconsolataGo Nerd Font Mono";
+    src:    local("InconsolataGoNerdFontMono-Bold"),
+            url("fonts/InconsolataGoNerdFontMono-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "InconsolataGo Nerd Font Mono";
+    src:    local("InconsolataGoNerdFontMono-Regular"),
+            url("fonts/InconsolataGoNerdFontMono-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "InconsolataGo Nerd Font Propo";
+    src:    local("InconsolataGoNerdFontPropo-Bold"),
+            url("fonts/InconsolataGoNerdFontPropo-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "InconsolataGo Nerd Font Propo";
+    src:    local("InconsolataGoNerdFontPropo-Regular"),
+            url("fonts/InconsolataGoNerdFontPropo-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}

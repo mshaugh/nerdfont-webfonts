@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "InconsolataGo Nerd Font Mono";
+    src:    local("InconsolataGoNerdFontMono-Bold"),
+            url("fonts/InconsolataGoNerdFontMono-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "InconsolataGo Nerd Font Mono";
+    src:    local("InconsolataGoNerdFontMono-Regular"),
+            url("fonts/InconsolataGoNerdFontMono-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
