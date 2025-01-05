@@ -1,0 +1,72 @@
+@font-face {
+    font-family: "GeistMono Nerd Font";
+    src:    local("GeistMonoNerdFont-Black"),
+            url("fonts/GeistMonoNerdFont-Black.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 900;
+}
+@font-face {
+    font-family: "GeistMono Nerd Font";
+    src:    local("GeistMonoNerdFont-Bold"),
+            url("fonts/GeistMonoNerdFont-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "GeistMono Nerd Font";
+    src:    local("GeistMonoNerdFont-Light"),
+            url("fonts/GeistMonoNerdFont-Light.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "GeistMono Nerd Font";
+    src:    local("GeistMonoNerdFont-Medium"),
+            url("fonts/GeistMonoNerdFont-Medium.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "GeistMono Nerd Font";
+    src:    local("GeistMonoNerdFont-Regular"),
+            url("fonts/GeistMonoNerdFont-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "GeistMono Nerd Font";
+    src:    local("GeistMonoNerdFont-SemiBold"),
+            url("fonts/GeistMonoNerdFont-SemiBold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "GeistMono Nerd Font";
+    src:    local("GeistMonoNerdFont-Thin"),
+            url("fonts/GeistMonoNerdFont-Thin.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 100;
+}
+@font-face {
+    font-family: "GeistMono Nerd Font";
+    src:    local("GeistMonoNerdFont-UltraBlack"),
+            url("fonts/GeistMonoNerdFont-UltraBlack.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 900;
+}
+@font-face {
+    font-family: "GeistMono Nerd Font";
+    src:    local("GeistMonoNerdFont-UltraLight"),
+            url("fonts/GeistMonoNerdFont-UltraLight.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 200;
+}
