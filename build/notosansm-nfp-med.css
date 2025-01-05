@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "NotoSansM NFP Med";
+    src:    local("NotoSansMNerdFontPropo-Medium"),
+            url("fonts/NotoSansMNerdFontPropo-Medium.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}

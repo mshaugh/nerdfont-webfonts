@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "NotoSerif NF ExtBd";
+    src:    local("NotoSerifNerdFont-ExtraBold"),
+            url("fonts/NotoSerifNerdFont-ExtraBold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "NotoSerif NF ExtBd";
+    src:    local("NotoSerifNerdFont-ExtraBoldItalic"),
+            url("fonts/NotoSerifNerdFont-ExtraBoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}

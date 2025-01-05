@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "NotoSans NFP Cond ExtBd";
+    src:    local("NotoSansNerdFontPropo-CondensedExtraBold"),
+            url("fonts/NotoSansNerdFontPropo-CondensedExtraBold.woff2") format("woff2");
+    font-stretch: condensed;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "NotoSans NFP Cond ExtBd";
+    src:    local("NotoSansNerdFontPropo-CondensedExtraBoldItalic"),
+            url("fonts/NotoSansNerdFontPropo-CondensedExtraBoldItalic.woff2") format("woff2");
+    font-stretch: condensed;
+    font-style: italic;
+    font-weight: 700;
+}

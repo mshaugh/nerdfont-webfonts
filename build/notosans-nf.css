@@ -1,0 +1,32 @@
+@font-face {
+    font-family: "NotoSans NF";
+    src:    local("NotoSansNerdFont-Bold"),
+            url("fonts/NotoSansNerdFont-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "NotoSans NF";
+    src:    local("NotoSansNerdFont-BoldItalic"),
+            url("fonts/NotoSansNerdFont-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "NotoSans NF";
+    src:    local("NotoSansNerdFont-Italic"),
+            url("fonts/NotoSansNerdFont-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "NotoSans NF";
+    src:    local("NotoSansNerdFont-Regular"),
+            url("fonts/NotoSansNerdFont-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}

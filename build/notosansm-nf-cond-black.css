@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "NotoSansM NF Cond Black";
+    src:    local("NotoSansMNerdFont-CondensedBlack"),
+            url("fonts/NotoSansMNerdFont-CondensedBlack.woff2") format("woff2");
+    font-stretch: condensed;
+    font-style: normal;
+    font-weight: 900;
+}

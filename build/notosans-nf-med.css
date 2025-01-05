@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "NotoSans NF Med";
+    src:    local("NotoSansNerdFont-Medium"),
+            url("fonts/NotoSansNerdFont-Medium.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "NotoSans NF Med";
+    src:    local("NotoSansNerdFont-MediumItalic"),
+            url("fonts/NotoSansNerdFont-MediumItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 500;
+}

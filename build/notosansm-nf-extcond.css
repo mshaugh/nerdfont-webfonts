@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "NotoSansM NF ExtCond";
+    src:    local("NotoSansMNerdFont-ExtraCondensedBold"),
+            url("fonts/NotoSansMNerdFont-ExtraCondensedBold.woff2") format("woff2");
+    font-stretch: extra-condensed;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "NotoSansM NF ExtCond";
+    src:    local("NotoSansMNerdFont-ExtraCondensedRegular"),
+            url("fonts/NotoSansMNerdFont-ExtraCondensedRegular.woff2") format("woff2");
+    font-stretch: extra-condensed;
+    font-style: normal;
+    font-weight: 400;
+}

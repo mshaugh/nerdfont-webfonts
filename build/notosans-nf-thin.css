@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "NotoSans NF Thin";
+    src:    local("NotoSansNerdFont-Thin"),
+            url("fonts/NotoSansNerdFont-Thin.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 100;
+}
+@font-face {
+    font-family: "NotoSans NF Thin";
+    src:    local("NotoSansNerdFont-ThinItalic"),
+            url("fonts/NotoSansNerdFont-ThinItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 100;
+}

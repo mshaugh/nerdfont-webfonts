@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "NotoSans NFP Cond Thin";
+    src:    local("NotoSansNerdFontPropo-CondensedThin"),
+            url("fonts/NotoSansNerdFontPropo-CondensedThin.woff2") format("woff2");
+    font-stretch: condensed;
+    font-style: normal;
+    font-weight: 100;
+}
+@font-face {
+    font-family: "NotoSans NFP Cond Thin";
+    src:    local("NotoSansNerdFontPropo-CondensedThinItalic"),
+            url("fonts/NotoSansNerdFontPropo-CondensedThinItalic.woff2") format("woff2");
+    font-stretch: condensed;
+    font-style: italic;
+    font-weight: 100;
+}

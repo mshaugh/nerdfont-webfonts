@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "NotoMono NFP";
+    src:    local("NotoMonoNerdFontPropo-Regular"),
+            url("fonts/NotoMonoNerdFontPropo-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}

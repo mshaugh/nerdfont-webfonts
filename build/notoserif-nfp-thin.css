@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "NotoSerif NFP Thin";
+    src:    local("NotoSerifNerdFontPropo-Thin"),
+            url("fonts/NotoSerifNerdFontPropo-Thin.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 100;
+}
+@font-face {
+    font-family: "NotoSerif NFP Thin";
+    src:    local("NotoSerifNerdFontPropo-ThinItalic"),
+            url("fonts/NotoSerifNerdFontPropo-ThinItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 100;
+}

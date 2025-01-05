@@ -1,0 +1,32 @@
+@font-face {
+    font-family: "NotoSerif NF";
+    src:    local("NotoSerifNerdFont-Bold"),
+            url("fonts/NotoSerifNerdFont-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "NotoSerif NF";
+    src:    local("NotoSerifNerdFont-BoldItalic"),
+            url("fonts/NotoSerifNerdFont-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "NotoSerif NF";
+    src:    local("NotoSerifNerdFont-Italic"),
+            url("fonts/NotoSerifNerdFont-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "NotoSerif NF";
+    src:    local("NotoSerifNerdFont-Regular"),
+            url("fonts/NotoSerifNerdFont-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}

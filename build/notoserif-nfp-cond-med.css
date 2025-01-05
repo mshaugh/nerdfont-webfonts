@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "NotoSerif NFP Cond Med";
+    src:    local("NotoSerifNerdFontPropo-CondensedMedium"),
+            url("fonts/NotoSerifNerdFontPropo-CondensedMedium.woff2") format("woff2");
+    font-stretch: condensed;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "NotoSerif NFP Cond Med";
+    src:    local("NotoSerifNerdFontPropo-CondensedMediumItalic"),
+            url("fonts/NotoSerifNerdFontPropo-CondensedMediumItalic.woff2") format("woff2");
+    font-stretch: condensed;
+    font-style: italic;
+    font-weight: 500;
+}

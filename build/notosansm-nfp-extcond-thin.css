@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "NotoSansM NFP ExtCond Thin";
+    src:    local("NotoSansMNerdFontPropo-ExtraCondensedThin"),
+            url("fonts/NotoSansMNerdFontPropo-ExtraCondensedThin.woff2") format("woff2");
+    font-stretch: extra-condensed;
+    font-style: normal;
+    font-weight: 100;
+}

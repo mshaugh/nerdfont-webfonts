@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "NotoSansM NFM";
+    src:    local("NotoSansMNerdFontMono-Bold"),
+            url("fonts/NotoSansMNerdFontMono-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "NotoSansM NFM";
+    src:    local("NotoSansMNerdFontMono-Regular"),
+            url("fonts/NotoSansMNerdFontMono-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}

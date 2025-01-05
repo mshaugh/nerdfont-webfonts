@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "NotoSansM NF SemCond SemBd";
+    src:    local("NotoSansMNerdFont-SemiCondensedSemiBold"),
+            url("fonts/NotoSansMNerdFont-SemiCondensedSemiBold.woff2") format("woff2");
+    font-stretch: semi-condensed;
+    font-style: normal;
+    font-weight: 600;
+}

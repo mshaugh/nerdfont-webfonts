@@ -1,0 +1,32 @@
+@font-face {
+    font-family: "NotoSerif NF SemCond";
+    src:    local("NotoSerifNerdFont-SemiCondensedBold"),
+            url("fonts/NotoSerifNerdFont-SemiCondensedBold.woff2") format("woff2");
+    font-stretch: semi-condensed;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "NotoSerif NF SemCond";
+    src:    local("NotoSerifNerdFont-SemiCondensedBoldItalic"),
+            url("fonts/NotoSerifNerdFont-SemiCondensedBoldItalic.woff2") format("woff2");
+    font-stretch: semi-condensed;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "NotoSerif NF SemCond";
+    src:    local("NotoSerifNerdFont-SemiCondensedItalic"),
+            url("fonts/NotoSerifNerdFont-SemiCondensedItalic.woff2") format("woff2");
+    font-stretch: semi-condensed;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "NotoSerif NF SemCond";
+    src:    local("NotoSerifNerdFont-SemiCondensedRegular"),
+            url("fonts/NotoSerifNerdFont-SemiCondensedRegular.woff2") format("woff2");
+    font-stretch: semi-condensed;
+    font-style: normal;
+    font-weight: 400;
+}

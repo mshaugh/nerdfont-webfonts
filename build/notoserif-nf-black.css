@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "NotoSerif NF Black";
+    src:    local("NotoSerifNerdFont-Black"),
+            url("fonts/NotoSerifNerdFont-Black.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 900;
+}
+@font-face {
+    font-family: "NotoSerif NF Black";
+    src:    local("NotoSerifNerdFont-BlackItalic"),
+            url("fonts/NotoSerifNerdFont-BlackItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 900;
+}

@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "NotoSerif NF SemCond Black";
+    src:    local("NotoSerifNerdFont-SemiCondensedBlack"),
+            url("fonts/NotoSerifNerdFont-SemiCondensedBlack.woff2") format("woff2");
+    font-stretch: semi-condensed;
+    font-style: normal;
+    font-weight: 900;
+}
+@font-face {
+    font-family: "NotoSerif NF SemCond Black";
+    src:    local("NotoSerifNerdFont-SemiCondensedBlackItalic"),
+            url("fonts/NotoSerifNerdFont-SemiCondensedBlackItalic.woff2") format("woff2");
+    font-stretch: semi-condensed;
+    font-style: italic;
+    font-weight: 900;
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "NotoSansM NFM SemCond ExtLt";
+    src:    local("NotoSansMNerdFontMono-SemiCondensedExtraLight"),
+            url("fonts/NotoSansMNerdFontMono-SemiCondensedExtraLight.woff2") format("woff2");
+    font-stretch: semi-condensed;
+    font-style: normal;
+    font-weight: 200;
+}

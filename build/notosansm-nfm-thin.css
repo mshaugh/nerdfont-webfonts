@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "NotoSansM NFM Thin";
+    src:    local("NotoSansMNerdFontMono-Thin"),
+            url("fonts/NotoSansMNerdFontMono-Thin.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 100;
+}

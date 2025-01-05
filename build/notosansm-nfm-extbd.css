@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "NotoSansM NFM ExtBd";
+    src:    local("NotoSansMNerdFontMono-ExtraBold"),
+            url("fonts/NotoSansMNerdFontMono-ExtraBold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
