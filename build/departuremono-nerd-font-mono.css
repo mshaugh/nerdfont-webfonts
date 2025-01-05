@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "DepartureMono Nerd Font Mono";
+    src:    local("DepartureMonoNerdFontMono-Regular"),
+            url("fonts/DepartureMonoNerdFontMono-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
