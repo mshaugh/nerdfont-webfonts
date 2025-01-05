@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "3270 Nerd Font SemCond";
+    src:    local("3270NerdFont-SemiCondensed"),
+            url("fonts/3270NerdFont-SemiCondensed.woff2") format("woff2");
+    font-stretch: semi-condensed;
+    font-style: normal;
+    font-weight: 400;
+}

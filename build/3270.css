@@ -1,0 +1,72 @@
+@font-face {
+    font-family: "3270 Nerd Font Cond";
+    src:    local("3270NerdFont-Condensed"),
+            url("fonts/3270NerdFont-Condensed.woff2") format("woff2");
+    font-stretch: condensed;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "3270 Nerd Font";
+    src:    local("3270NerdFont-Regular"),
+            url("fonts/3270NerdFont-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "3270 Nerd Font SemCond";
+    src:    local("3270NerdFont-SemiCondensed"),
+            url("fonts/3270NerdFont-SemiCondensed.woff2") format("woff2");
+    font-stretch: semi-condensed;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "3270 Nerd Font Mono Cond";
+    src:    local("3270NerdFontMono-Condensed"),
+            url("fonts/3270NerdFontMono-Condensed.woff2") format("woff2");
+    font-stretch: condensed;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "3270 Nerd Font Mono";
+    src:    local("3270NerdFontMono-Regular"),
+            url("fonts/3270NerdFontMono-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "3270 Nerd Font Mono SemCond";
+    src:    local("3270NerdFontMono-SemiCondensed"),
+            url("fonts/3270NerdFontMono-SemiCondensed.woff2") format("woff2");
+    font-stretch: semi-condensed;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "3270 Nerd Font Propo Cond";
+    src:    local("3270NerdFontPropo-Condensed"),
+            url("fonts/3270NerdFontPropo-Condensed.woff2") format("woff2");
+    font-stretch: condensed;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "3270 Nerd Font Propo";
+    src:    local("3270NerdFontPropo-Regular"),
+            url("fonts/3270NerdFontPropo-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "3270 Nerd Font Propo SemCond";
+    src:    local("3270NerdFontPropo-SemiCondensed"),
+            url("fonts/3270NerdFontPropo-SemiCondensed.woff2") format("woff2");
+    font-stretch: semi-condensed;
+    font-style: normal;
+    font-weight: 400;
+}

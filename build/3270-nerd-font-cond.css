@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "3270 Nerd Font Cond";
+    src:    local("3270NerdFont-Condensed"),
+            url("fonts/3270NerdFont-Condensed.woff2") format("woff2");
+    font-stretch: condensed;
+    font-style: normal;
+    font-weight: 400;
+}

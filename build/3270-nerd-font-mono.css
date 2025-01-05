@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "3270 Nerd Font Mono";
+    src:    local("3270NerdFontMono-Regular"),
+            url("fonts/3270NerdFontMono-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
