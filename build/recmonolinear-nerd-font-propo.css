@@ -1,0 +1,32 @@
+@font-face {
+    font-family: "RecMonoLinear Nerd Font Propo";
+    src:    local("RecMonoLinearNerdFontPropo-Bold"),
+            url("fonts/RecMonoLinearNerdFontPropo-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "RecMonoLinear Nerd Font Propo";
+    src:    local("RecMonoLinearNerdFontPropo-BoldItalic"),
+            url("fonts/RecMonoLinearNerdFontPropo-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "RecMonoLinear Nerd Font Propo";
+    src:    local("RecMonoLinearNerdFontPropo-Italic"),
+            url("fonts/RecMonoLinearNerdFontPropo-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "RecMonoLinear Nerd Font Propo";
+    src:    local("RecMonoLinearNerdFontPropo-Regular"),
+            url("fonts/RecMonoLinearNerdFontPropo-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
