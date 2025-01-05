@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "BlexMono Nerd Font SemiBold";
+    src:    local("BlexMonoNerdFont-SemiBold"),
+            url("fonts/BlexMonoNerdFont-SemiBold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "BlexMono Nerd Font SemiBold";
+    src:    local("BlexMonoNerdFont-SemiBoldItalic"),
+            url("fonts/BlexMonoNerdFont-SemiBoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 600;
+}

@@ -1,0 +1,32 @@
+@font-face {
+    font-family: "BlexMono Nerd Font Propo";
+    src:    local("BlexMonoNerdFontPropo-Bold"),
+            url("fonts/BlexMonoNerdFontPropo-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "BlexMono Nerd Font Propo";
+    src:    local("BlexMonoNerdFontPropo-BoldItalic"),
+            url("fonts/BlexMonoNerdFontPropo-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "BlexMono Nerd Font Propo";
+    src:    local("BlexMonoNerdFontPropo-Italic"),
+            url("fonts/BlexMonoNerdFontPropo-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "BlexMono Nerd Font Propo";
+    src:    local("BlexMonoNerdFontPropo-Regular"),
+            url("fonts/BlexMonoNerdFontPropo-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}

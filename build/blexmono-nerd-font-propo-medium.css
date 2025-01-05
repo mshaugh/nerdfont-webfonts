@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "BlexMono Nerd Font Propo Medium";
+    src:    local("BlexMonoNerdFontPropo-Medium"),
+            url("fonts/BlexMonoNerdFontPropo-Medium.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "BlexMono Nerd Font Propo Medium";
+    src:    local("BlexMonoNerdFontPropo-MediumItalic"),
+            url("fonts/BlexMonoNerdFontPropo-MediumItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 500;
+}
