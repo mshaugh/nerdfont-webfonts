@@ -1,0 +1,48 @@
+@font-face {
+    font-family: "Hurmit Nerd Font Propo";
+    src:    local("HurmitNerdFontPropo-Bold"),
+            url("fonts/HurmitNerdFontPropo-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Hurmit Nerd Font Propo";
+    src:    local("HurmitNerdFontPropo-BoldItalic"),
+            url("fonts/HurmitNerdFontPropo-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Hurmit Nerd Font Propo";
+    src:    local("HurmitNerdFontPropo-Italic"),
+            url("fonts/HurmitNerdFontPropo-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Hurmit Nerd Font Propo";
+    src:    local("HurmitNerdFontPropo-Light"),
+            url("fonts/HurmitNerdFontPropo-Light.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "Hurmit Nerd Font Propo";
+    src:    local("HurmitNerdFontPropo-LightItalic"),
+            url("fonts/HurmitNerdFontPropo-LightItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "Hurmit Nerd Font Propo";
+    src:    local("HurmitNerdFontPropo-Regular"),
+            url("fonts/HurmitNerdFontPropo-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
