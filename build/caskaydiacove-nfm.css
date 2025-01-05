@@ -1,0 +1,32 @@
+@font-face {
+    font-family: "CaskaydiaCove NFM";
+    src:    local("CaskaydiaCoveNerdFontMono-Bold"),
+            url("fonts/CaskaydiaCoveNerdFontMono-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "CaskaydiaCove NFM";
+    src:    local("CaskaydiaCoveNerdFontMono-BoldItalic"),
+            url("fonts/CaskaydiaCoveNerdFontMono-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "CaskaydiaCove NFM";
+    src:    local("CaskaydiaCoveNerdFontMono-Italic"),
+            url("fonts/CaskaydiaCoveNerdFontMono-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "CaskaydiaCove NFM";
+    src:    local("CaskaydiaCoveNerdFontMono-Regular"),
+            url("fonts/CaskaydiaCoveNerdFontMono-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}

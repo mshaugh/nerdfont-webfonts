@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "CaskaydiaCove NFP SemiLight";
+    src:    local("CaskaydiaCoveNerdFontPropo-SemiLight"),
+            url("fonts/CaskaydiaCoveNerdFontPropo-SemiLight.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "CaskaydiaCove NFP SemiLight";
+    src:    local("CaskaydiaCoveNerdFontPropo-SemiLightItalic"),
+            url("fonts/CaskaydiaCoveNerdFontPropo-SemiLightItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 300;
+}

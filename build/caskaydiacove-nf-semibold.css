@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "CaskaydiaCove NF SemiBold";
+    src:    local("CaskaydiaCoveNerdFont-SemiBold"),
+            url("fonts/CaskaydiaCoveNerdFont-SemiBold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "CaskaydiaCove NF SemiBold";
+    src:    local("CaskaydiaCoveNerdFont-SemiBoldItalic"),
+            url("fonts/CaskaydiaCoveNerdFont-SemiBoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 600;
+}

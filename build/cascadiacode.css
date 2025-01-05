@@ -1,0 +1,288 @@
+@font-face {
+    font-family: "CaskaydiaCove NF";
+    src:    local("CaskaydiaCoveNerdFont-Bold"),
+            url("fonts/CaskaydiaCoveNerdFont-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "CaskaydiaCove NF";
+    src:    local("CaskaydiaCoveNerdFont-BoldItalic"),
+            url("fonts/CaskaydiaCoveNerdFont-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "CaskaydiaCove NF ExtraLight";
+    src:    local("CaskaydiaCoveNerdFont-ExtraLight"),
+            url("fonts/CaskaydiaCoveNerdFont-ExtraLight.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 200;
+}
+@font-face {
+    font-family: "CaskaydiaCove NF ExtraLight";
+    src:    local("CaskaydiaCoveNerdFont-ExtraLightItalic"),
+            url("fonts/CaskaydiaCoveNerdFont-ExtraLightItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 200;
+}
+@font-face {
+    font-family: "CaskaydiaCove NF";
+    src:    local("CaskaydiaCoveNerdFont-Italic"),
+            url("fonts/CaskaydiaCoveNerdFont-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "CaskaydiaCove NF Light";
+    src:    local("CaskaydiaCoveNerdFont-Light"),
+            url("fonts/CaskaydiaCoveNerdFont-Light.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "CaskaydiaCove NF Light";
+    src:    local("CaskaydiaCoveNerdFont-LightItalic"),
+            url("fonts/CaskaydiaCoveNerdFont-LightItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "CaskaydiaCove NF";
+    src:    local("CaskaydiaCoveNerdFont-Regular"),
+            url("fonts/CaskaydiaCoveNerdFont-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "CaskaydiaCove NF SemiBold";
+    src:    local("CaskaydiaCoveNerdFont-SemiBold"),
+            url("fonts/CaskaydiaCoveNerdFont-SemiBold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "CaskaydiaCove NF SemiBold";
+    src:    local("CaskaydiaCoveNerdFont-SemiBoldItalic"),
+            url("fonts/CaskaydiaCoveNerdFont-SemiBoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "CaskaydiaCove NF SemiLight";
+    src:    local("CaskaydiaCoveNerdFont-SemiLight"),
+            url("fonts/CaskaydiaCoveNerdFont-SemiLight.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "CaskaydiaCove NF SemiLight";
+    src:    local("CaskaydiaCoveNerdFont-SemiLightItalic"),
+            url("fonts/CaskaydiaCoveNerdFont-SemiLightItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "CaskaydiaCove NFM";
+    src:    local("CaskaydiaCoveNerdFontMono-Bold"),
+            url("fonts/CaskaydiaCoveNerdFontMono-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "CaskaydiaCove NFM";
+    src:    local("CaskaydiaCoveNerdFontMono-BoldItalic"),
+            url("fonts/CaskaydiaCoveNerdFontMono-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "CaskaydiaCove NFM ExtraLight";
+    src:    local("CaskaydiaCoveNerdFontMono-ExtraLight"),
+            url("fonts/CaskaydiaCoveNerdFontMono-ExtraLight.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 200;
+}
+@font-face {
+    font-family: "CaskaydiaCove NFM ExtraLight";
+    src:    local("CaskaydiaCoveNerdFontMono-ExtraLightItalic"),
+            url("fonts/CaskaydiaCoveNerdFontMono-ExtraLightItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 200;
+}
+@font-face {
+    font-family: "CaskaydiaCove NFM";
+    src:    local("CaskaydiaCoveNerdFontMono-Italic"),
+            url("fonts/CaskaydiaCoveNerdFontMono-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "CaskaydiaCove NFM Light";
+    src:    local("CaskaydiaCoveNerdFontMono-Light"),
+            url("fonts/CaskaydiaCoveNerdFontMono-Light.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "CaskaydiaCove NFM Light";
+    src:    local("CaskaydiaCoveNerdFontMono-LightItalic"),
+            url("fonts/CaskaydiaCoveNerdFontMono-LightItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "CaskaydiaCove NFM";
+    src:    local("CaskaydiaCoveNerdFontMono-Regular"),
+            url("fonts/CaskaydiaCoveNerdFontMono-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "CaskaydiaCove NFM SemiBold";
+    src:    local("CaskaydiaCoveNerdFontMono-SemiBold"),
+            url("fonts/CaskaydiaCoveNerdFontMono-SemiBold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "CaskaydiaCove NFM SemiBold";
+    src:    local("CaskaydiaCoveNerdFontMono-SemiBoldItalic"),
+            url("fonts/CaskaydiaCoveNerdFontMono-SemiBoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "CaskaydiaCove NFM SemiLight";
+    src:    local("CaskaydiaCoveNerdFontMono-SemiLight"),
+            url("fonts/CaskaydiaCoveNerdFontMono-SemiLight.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "CaskaydiaCove NFM SemiLight";
+    src:    local("CaskaydiaCoveNerdFontMono-SemiLightItalic"),
+            url("fonts/CaskaydiaCoveNerdFontMono-SemiLightItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "CaskaydiaCove NFP";
+    src:    local("CaskaydiaCoveNerdFontPropo-Bold"),
+            url("fonts/CaskaydiaCoveNerdFontPropo-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "CaskaydiaCove NFP";
+    src:    local("CaskaydiaCoveNerdFontPropo-BoldItalic"),
+            url("fonts/CaskaydiaCoveNerdFontPropo-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "CaskaydiaCove NFP ExtraLight";
+    src:    local("CaskaydiaCoveNerdFontPropo-ExtraLight"),
+            url("fonts/CaskaydiaCoveNerdFontPropo-ExtraLight.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 200;
+}
+@font-face {
+    font-family: "CaskaydiaCove NFP ExtraLight";
+    src:    local("CaskaydiaCoveNerdFontPropo-ExtraLightItalic"),
+            url("fonts/CaskaydiaCoveNerdFontPropo-ExtraLightItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 200;
+}
+@font-face {
+    font-family: "CaskaydiaCove NFP";
+    src:    local("CaskaydiaCoveNerdFontPropo-Italic"),
+            url("fonts/CaskaydiaCoveNerdFontPropo-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "CaskaydiaCove NFP Light";
+    src:    local("CaskaydiaCoveNerdFontPropo-Light"),
+            url("fonts/CaskaydiaCoveNerdFontPropo-Light.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "CaskaydiaCove NFP Light";
+    src:    local("CaskaydiaCoveNerdFontPropo-LightItalic"),
+            url("fonts/CaskaydiaCoveNerdFontPropo-LightItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "CaskaydiaCove NFP";
+    src:    local("CaskaydiaCoveNerdFontPropo-Regular"),
+            url("fonts/CaskaydiaCoveNerdFontPropo-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "CaskaydiaCove NFP SemiBold";
+    src:    local("CaskaydiaCoveNerdFontPropo-SemiBold"),
+            url("fonts/CaskaydiaCoveNerdFontPropo-SemiBold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "CaskaydiaCove NFP SemiBold";
+    src:    local("CaskaydiaCoveNerdFontPropo-SemiBoldItalic"),
+            url("fonts/CaskaydiaCoveNerdFontPropo-SemiBoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "CaskaydiaCove NFP SemiLight";
+    src:    local("CaskaydiaCoveNerdFontPropo-SemiLight"),
+            url("fonts/CaskaydiaCoveNerdFontPropo-SemiLight.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "CaskaydiaCove NFP SemiLight";
+    src:    local("CaskaydiaCoveNerdFontPropo-SemiLightItalic"),
+            url("fonts/CaskaydiaCoveNerdFontPropo-SemiLightItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 300;
+}
