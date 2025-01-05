@@ -1,0 +1,32 @@
+@font-face {
+    font-family: "IntoneMono NF";
+    src:    local("IntoneMonoNerdFont-Bold"),
+            url("fonts/IntoneMonoNerdFont-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "IntoneMono NF";
+    src:    local("IntoneMonoNerdFont-BoldItalic"),
+            url("fonts/IntoneMonoNerdFont-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "IntoneMono NF";
+    src:    local("IntoneMonoNerdFont-Italic"),
+            url("fonts/IntoneMonoNerdFont-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "IntoneMono NF";
+    src:    local("IntoneMonoNerdFont-Regular"),
+            url("fonts/IntoneMonoNerdFont-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}

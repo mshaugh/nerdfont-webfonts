@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "IntoneMono NF Medium";
+    src:    local("IntoneMonoNerdFont-Medium"),
+            url("fonts/IntoneMonoNerdFont-Medium.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "IntoneMono NF Medium";
+    src:    local("IntoneMonoNerdFont-MediumItalic"),
+            url("fonts/IntoneMonoNerdFont-MediumItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 500;
+}

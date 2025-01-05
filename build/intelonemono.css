@@ -1,0 +1,192 @@
+@font-face {
+    font-family: "IntoneMono NF";
+    src:    local("IntoneMonoNerdFont-Bold"),
+            url("fonts/IntoneMonoNerdFont-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "IntoneMono NF";
+    src:    local("IntoneMonoNerdFont-BoldItalic"),
+            url("fonts/IntoneMonoNerdFont-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "IntoneMono NF";
+    src:    local("IntoneMonoNerdFont-Italic"),
+            url("fonts/IntoneMonoNerdFont-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "IntoneMono NF Light";
+    src:    local("IntoneMonoNerdFont-Light"),
+            url("fonts/IntoneMonoNerdFont-Light.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "IntoneMono NF Light";
+    src:    local("IntoneMonoNerdFont-LightItalic"),
+            url("fonts/IntoneMonoNerdFont-LightItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "IntoneMono NF Medium";
+    src:    local("IntoneMonoNerdFont-Medium"),
+            url("fonts/IntoneMonoNerdFont-Medium.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "IntoneMono NF Medium";
+    src:    local("IntoneMonoNerdFont-MediumItalic"),
+            url("fonts/IntoneMonoNerdFont-MediumItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "IntoneMono NF";
+    src:    local("IntoneMonoNerdFont-Regular"),
+            url("fonts/IntoneMonoNerdFont-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "IntoneMono NFM";
+    src:    local("IntoneMonoNerdFontMono-Bold"),
+            url("fonts/IntoneMonoNerdFontMono-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "IntoneMono NFM";
+    src:    local("IntoneMonoNerdFontMono-BoldItalic"),
+            url("fonts/IntoneMonoNerdFontMono-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "IntoneMono NFM";
+    src:    local("IntoneMonoNerdFontMono-Italic"),
+            url("fonts/IntoneMonoNerdFontMono-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "IntoneMono NFM Light";
+    src:    local("IntoneMonoNerdFontMono-Light"),
+            url("fonts/IntoneMonoNerdFontMono-Light.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "IntoneMono NFM Light";
+    src:    local("IntoneMonoNerdFontMono-LightItalic"),
+            url("fonts/IntoneMonoNerdFontMono-LightItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "IntoneMono NFM Medium";
+    src:    local("IntoneMonoNerdFontMono-Medium"),
+            url("fonts/IntoneMonoNerdFontMono-Medium.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "IntoneMono NFM Medium";
+    src:    local("IntoneMonoNerdFontMono-MediumItalic"),
+            url("fonts/IntoneMonoNerdFontMono-MediumItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "IntoneMono NFM";
+    src:    local("IntoneMonoNerdFontMono-Regular"),
+            url("fonts/IntoneMonoNerdFontMono-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "IntoneMono NFP";
+    src:    local("IntoneMonoNerdFontPropo-Bold"),
+            url("fonts/IntoneMonoNerdFontPropo-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "IntoneMono NFP";
+    src:    local("IntoneMonoNerdFontPropo-BoldItalic"),
+            url("fonts/IntoneMonoNerdFontPropo-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "IntoneMono NFP";
+    src:    local("IntoneMonoNerdFontPropo-Italic"),
+            url("fonts/IntoneMonoNerdFontPropo-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "IntoneMono NFP Light";
+    src:    local("IntoneMonoNerdFontPropo-Light"),
+            url("fonts/IntoneMonoNerdFontPropo-Light.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "IntoneMono NFP Light";
+    src:    local("IntoneMonoNerdFontPropo-LightItalic"),
+            url("fonts/IntoneMonoNerdFontPropo-LightItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "IntoneMono NFP Medium";
+    src:    local("IntoneMonoNerdFontPropo-Medium"),
+            url("fonts/IntoneMonoNerdFontPropo-Medium.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "IntoneMono NFP Medium";
+    src:    local("IntoneMonoNerdFontPropo-MediumItalic"),
+            url("fonts/IntoneMonoNerdFontPropo-MediumItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "IntoneMono NFP";
+    src:    local("IntoneMonoNerdFontPropo-Regular"),
+            url("fonts/IntoneMonoNerdFontPropo-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}

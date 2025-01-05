@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "IntoneMono NFP Light";
+    src:    local("IntoneMonoNerdFontPropo-Light"),
+            url("fonts/IntoneMonoNerdFontPropo-Light.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "IntoneMono NFP Light";
+    src:    local("IntoneMonoNerdFontPropo-LightItalic"),
+            url("fonts/IntoneMonoNerdFontPropo-LightItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 300;
+}
