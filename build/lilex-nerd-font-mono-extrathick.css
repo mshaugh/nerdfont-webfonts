@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "Lilex Nerd Font Mono ExtraThick";
+    src:    local("LilexNerdFontMono-ExtraThick"),
+            url("fonts/LilexNerdFontMono-ExtraThick.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}

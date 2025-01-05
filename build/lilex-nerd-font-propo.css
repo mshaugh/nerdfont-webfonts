@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "Lilex Nerd Font Propo";
+    src:    local("LilexNerdFontPropo-Bold"),
+            url("fonts/LilexNerdFontPropo-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Lilex Nerd Font Propo";
+    src:    local("LilexNerdFontPropo-Regular"),
+            url("fonts/LilexNerdFontPropo-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}

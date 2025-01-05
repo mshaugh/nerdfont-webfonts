@@ -1,0 +1,144 @@
+@font-face {
+    font-family: "Lilex Nerd Font";
+    src:    local("LilexNerdFont-Bold"),
+            url("fonts/LilexNerdFont-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Lilex Nerd Font ExtraLight";
+    src:    local("LilexNerdFont-ExtraLight"),
+            url("fonts/LilexNerdFont-ExtraLight.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 200;
+}
+@font-face {
+    font-family: "Lilex Nerd Font ExtraThick";
+    src:    local("LilexNerdFont-ExtraThick"),
+            url("fonts/LilexNerdFont-ExtraThick.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Lilex Nerd Font Medium";
+    src:    local("LilexNerdFont-Medium"),
+            url("fonts/LilexNerdFont-Medium.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "Lilex Nerd Font";
+    src:    local("LilexNerdFont-Regular"),
+            url("fonts/LilexNerdFont-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Lilex Nerd Font Thin";
+    src:    local("LilexNerdFont-Thin"),
+            url("fonts/LilexNerdFont-Thin.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 100;
+}
+@font-face {
+    font-family: "Lilex Nerd Font Mono";
+    src:    local("LilexNerdFontMono-Bold"),
+            url("fonts/LilexNerdFontMono-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Lilex Nerd Font Mono ExtraLight";
+    src:    local("LilexNerdFontMono-ExtraLight"),
+            url("fonts/LilexNerdFontMono-ExtraLight.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 200;
+}
+@font-face {
+    font-family: "Lilex Nerd Font Mono ExtraThick";
+    src:    local("LilexNerdFontMono-ExtraThick"),
+            url("fonts/LilexNerdFontMono-ExtraThick.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Lilex Nerd Font Mono Medium";
+    src:    local("LilexNerdFontMono-Medium"),
+            url("fonts/LilexNerdFontMono-Medium.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "Lilex Nerd Font Mono";
+    src:    local("LilexNerdFontMono-Regular"),
+            url("fonts/LilexNerdFontMono-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Lilex Nerd Font Mono Thin";
+    src:    local("LilexNerdFontMono-Thin"),
+            url("fonts/LilexNerdFontMono-Thin.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 100;
+}
+@font-face {
+    font-family: "Lilex Nerd Font Propo";
+    src:    local("LilexNerdFontPropo-Bold"),
+            url("fonts/LilexNerdFontPropo-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Lilex Nerd Font Propo ExtraLight";
+    src:    local("LilexNerdFontPropo-ExtraLight"),
+            url("fonts/LilexNerdFontPropo-ExtraLight.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 200;
+}
+@font-face {
+    font-family: "Lilex Nerd Font Propo ExtraThick";
+    src:    local("LilexNerdFontPropo-ExtraThick"),
+            url("fonts/LilexNerdFontPropo-ExtraThick.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Lilex Nerd Font Propo Medium";
+    src:    local("LilexNerdFontPropo-Medium"),
+            url("fonts/LilexNerdFontPropo-Medium.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "Lilex Nerd Font Propo";
+    src:    local("LilexNerdFontPropo-Regular"),
+            url("fonts/LilexNerdFontPropo-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Lilex Nerd Font Propo Thin";
+    src:    local("LilexNerdFontPropo-Thin"),
+            url("fonts/LilexNerdFontPropo-Thin.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 100;
+}
