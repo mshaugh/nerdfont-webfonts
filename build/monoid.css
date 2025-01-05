@@ -1,0 +1,96 @@
+@font-face {
+    font-family: "Monoid Nerd Font";
+    src:    local("MonoidNerdFont-Bold"),
+            url("fonts/MonoidNerdFont-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Monoid Nerd Font";
+    src:    local("MonoidNerdFont-Italic"),
+            url("fonts/MonoidNerdFont-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Monoid Nerd Font";
+    src:    local("MonoidNerdFont-Regular"),
+            url("fonts/MonoidNerdFont-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Monoid Nerd Font Retina";
+    src:    local("MonoidNerdFont-Retina"),
+            url("fonts/MonoidNerdFont-Retina.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Monoid Nerd Font Mono";
+    src:    local("MonoidNerdFontMono-Bold"),
+            url("fonts/MonoidNerdFontMono-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Monoid Nerd Font Mono";
+    src:    local("MonoidNerdFontMono-Italic"),
+            url("fonts/MonoidNerdFontMono-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Monoid Nerd Font Mono";
+    src:    local("MonoidNerdFontMono-Regular"),
+            url("fonts/MonoidNerdFontMono-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Monoid Nerd Font Mono Retina";
+    src:    local("MonoidNerdFontMono-Retina"),
+            url("fonts/MonoidNerdFontMono-Retina.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Monoid Nerd Font Propo";
+    src:    local("MonoidNerdFontPropo-Bold"),
+            url("fonts/MonoidNerdFontPropo-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Monoid Nerd Font Propo";
+    src:    local("MonoidNerdFontPropo-Italic"),
+            url("fonts/MonoidNerdFontPropo-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Monoid Nerd Font Propo";
+    src:    local("MonoidNerdFontPropo-Regular"),
+            url("fonts/MonoidNerdFontPropo-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Monoid Nerd Font Propo Retina";
+    src:    local("MonoidNerdFontPropo-Retina"),
+            url("fonts/MonoidNerdFontPropo-Retina.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}

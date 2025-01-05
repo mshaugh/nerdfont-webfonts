@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "Monoid Nerd Font Mono Retina";
+    src:    local("MonoidNerdFontMono-Retina"),
+            url("fonts/MonoidNerdFontMono-Retina.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}

@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "Monoid Nerd Font Propo";
+    src:    local("MonoidNerdFontPropo-Bold"),
+            url("fonts/MonoidNerdFontPropo-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Monoid Nerd Font Propo";
+    src:    local("MonoidNerdFontPropo-Italic"),
+            url("fonts/MonoidNerdFontPropo-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Monoid Nerd Font Propo";
+    src:    local("MonoidNerdFontPropo-Regular"),
+            url("fonts/MonoidNerdFontPropo-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
