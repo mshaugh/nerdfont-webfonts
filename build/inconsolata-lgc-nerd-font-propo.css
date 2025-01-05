@@ -1,0 +1,32 @@
+@font-face {
+    font-family: "Inconsolata LGC Nerd Font Propo";
+    src:    local("InconsolataLGCNerdFontPropo-Bold"),
+            url("fonts/InconsolataLGCNerdFontPropo-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Inconsolata LGC Nerd Font Propo";
+    src:    local("InconsolataLGCNerdFontPropo-BoldItalic"),
+            url("fonts/InconsolataLGCNerdFontPropo-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Inconsolata LGC Nerd Font Propo";
+    src:    local("InconsolataLGCNerdFontPropo-Italic"),
+            url("fonts/InconsolataLGCNerdFontPropo-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Inconsolata LGC Nerd Font Propo";
+    src:    local("InconsolataLGCNerdFontPropo-Regular"),
+            url("fonts/InconsolataLGCNerdFontPropo-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
