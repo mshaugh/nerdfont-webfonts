@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "RobotoMono Nerd Font Th";
+    src:    local("RobotoMonoNerdFont-Thin"),
+            url("fonts/RobotoMonoNerdFont-Thin.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 100;
+}
+@font-face {
+    font-family: "RobotoMono Nerd Font Th";
+    src:    local("RobotoMonoNerdFont-ThinItalic"),
+            url("fonts/RobotoMonoNerdFont-ThinItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 100;
+}

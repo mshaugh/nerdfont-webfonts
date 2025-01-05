@@ -1,0 +1,32 @@
+@font-face {
+    font-family: "RobotoMono Nerd Font";
+    src:    local("RobotoMonoNerdFont-Bold"),
+            url("fonts/RobotoMonoNerdFont-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "RobotoMono Nerd Font";
+    src:    local("RobotoMonoNerdFont-BoldItalic"),
+            url("fonts/RobotoMonoNerdFont-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "RobotoMono Nerd Font";
+    src:    local("RobotoMonoNerdFont-Italic"),
+            url("fonts/RobotoMonoNerdFont-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "RobotoMono Nerd Font";
+    src:    local("RobotoMonoNerdFont-Regular"),
+            url("fonts/RobotoMonoNerdFont-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}

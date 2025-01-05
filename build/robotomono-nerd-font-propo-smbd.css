@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "RobotoMono Nerd Font Propo SmBd";
+    src:    local("RobotoMonoNerdFontPropo-SemiBold"),
+            url("fonts/RobotoMonoNerdFontPropo-SemiBold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "RobotoMono Nerd Font Propo SmBd";
+    src:    local("RobotoMonoNerdFontPropo-SemiBoldItalic"),
+            url("fonts/RobotoMonoNerdFontPropo-SemiBoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 600;
+}
