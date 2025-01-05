@@ -1,0 +1,96 @@
+@font-face {
+    font-family: "UbuntuMono Nerd Font";
+    src:    local("UbuntuMonoNerdFont-Bold"),
+            url("fonts/UbuntuMonoNerdFont-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "UbuntuMono Nerd Font";
+    src:    local("UbuntuMonoNerdFont-BoldItalic"),
+            url("fonts/UbuntuMonoNerdFont-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "UbuntuMono Nerd Font";
+    src:    local("UbuntuMonoNerdFont-Italic"),
+            url("fonts/UbuntuMonoNerdFont-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "UbuntuMono Nerd Font";
+    src:    local("UbuntuMonoNerdFont-Regular"),
+            url("fonts/UbuntuMonoNerdFont-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "UbuntuMono Nerd Font Mono";
+    src:    local("UbuntuMonoNerdFontMono-Bold"),
+            url("fonts/UbuntuMonoNerdFontMono-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "UbuntuMono Nerd Font Mono";
+    src:    local("UbuntuMonoNerdFontMono-BoldItalic"),
+            url("fonts/UbuntuMonoNerdFontMono-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "UbuntuMono Nerd Font Mono";
+    src:    local("UbuntuMonoNerdFontMono-Italic"),
+            url("fonts/UbuntuMonoNerdFontMono-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "UbuntuMono Nerd Font Mono";
+    src:    local("UbuntuMonoNerdFontMono-Regular"),
+            url("fonts/UbuntuMonoNerdFontMono-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "UbuntuMono Nerd Font Propo";
+    src:    local("UbuntuMonoNerdFontPropo-Bold"),
+            url("fonts/UbuntuMonoNerdFontPropo-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "UbuntuMono Nerd Font Propo";
+    src:    local("UbuntuMonoNerdFontPropo-BoldItalic"),
+            url("fonts/UbuntuMonoNerdFontPropo-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "UbuntuMono Nerd Font Propo";
+    src:    local("UbuntuMonoNerdFontPropo-Italic"),
+            url("fonts/UbuntuMonoNerdFontPropo-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "UbuntuMono Nerd Font Propo";
+    src:    local("UbuntuMonoNerdFontPropo-Regular"),
+            url("fonts/UbuntuMonoNerdFontPropo-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
