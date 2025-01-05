@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "SauceCodePro NF Light";
+    src:    local("SauceCodeProNerdFont-Light"),
+            url("fonts/SauceCodeProNerdFont-Light.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "SauceCodePro NF Light";
+    src:    local("SauceCodeProNerdFont-LightItalic"),
+            url("fonts/SauceCodeProNerdFont-LightItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 300;
+}

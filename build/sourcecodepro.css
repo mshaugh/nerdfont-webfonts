@@ -1,0 +1,336 @@
+@font-face {
+    font-family: "SauceCodePro NF Black";
+    src:    local("SauceCodeProNerdFont-Black"),
+            url("fonts/SauceCodeProNerdFont-Black.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 900;
+}
+@font-face {
+    font-family: "SauceCodePro NF Black";
+    src:    local("SauceCodeProNerdFont-BlackItalic"),
+            url("fonts/SauceCodeProNerdFont-BlackItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 900;
+}
+@font-face {
+    font-family: "SauceCodePro NF";
+    src:    local("SauceCodeProNerdFont-Bold"),
+            url("fonts/SauceCodeProNerdFont-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "SauceCodePro NF";
+    src:    local("SauceCodeProNerdFont-BoldItalic"),
+            url("fonts/SauceCodeProNerdFont-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "SauceCodePro NF ExtraLight";
+    src:    local("SauceCodeProNerdFont-ExtraLight"),
+            url("fonts/SauceCodeProNerdFont-ExtraLight.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 200;
+}
+@font-face {
+    font-family: "SauceCodePro NF ExtraLight";
+    src:    local("SauceCodeProNerdFont-ExtraLightItalic"),
+            url("fonts/SauceCodeProNerdFont-ExtraLightItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 200;
+}
+@font-face {
+    font-family: "SauceCodePro NF";
+    src:    local("SauceCodeProNerdFont-Italic"),
+            url("fonts/SauceCodeProNerdFont-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "SauceCodePro NF Light";
+    src:    local("SauceCodeProNerdFont-Light"),
+            url("fonts/SauceCodeProNerdFont-Light.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "SauceCodePro NF Light";
+    src:    local("SauceCodeProNerdFont-LightItalic"),
+            url("fonts/SauceCodeProNerdFont-LightItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "SauceCodePro NF Medium";
+    src:    local("SauceCodeProNerdFont-Medium"),
+            url("fonts/SauceCodeProNerdFont-Medium.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "SauceCodePro NF Medium";
+    src:    local("SauceCodeProNerdFont-MediumItalic"),
+            url("fonts/SauceCodeProNerdFont-MediumItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "SauceCodePro NF";
+    src:    local("SauceCodeProNerdFont-Regular"),
+            url("fonts/SauceCodeProNerdFont-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "SauceCodePro NF SemiBold";
+    src:    local("SauceCodeProNerdFont-SemiBold"),
+            url("fonts/SauceCodeProNerdFont-SemiBold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "SauceCodePro NF SemiBold";
+    src:    local("SauceCodeProNerdFont-SemiBoldItalic"),
+            url("fonts/SauceCodeProNerdFont-SemiBoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "SauceCodePro NFM Black";
+    src:    local("SauceCodeProNerdFontMono-Black"),
+            url("fonts/SauceCodeProNerdFontMono-Black.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 900;
+}
+@font-face {
+    font-family: "SauceCodePro NFM Black";
+    src:    local("SauceCodeProNerdFontMono-BlackItalic"),
+            url("fonts/SauceCodeProNerdFontMono-BlackItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 900;
+}
+@font-face {
+    font-family: "SauceCodePro NFM";
+    src:    local("SauceCodeProNerdFontMono-Bold"),
+            url("fonts/SauceCodeProNerdFontMono-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "SauceCodePro NFM";
+    src:    local("SauceCodeProNerdFontMono-BoldItalic"),
+            url("fonts/SauceCodeProNerdFontMono-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "SauceCodePro NFM ExtraLight";
+    src:    local("SauceCodeProNerdFontMono-ExtraLight"),
+            url("fonts/SauceCodeProNerdFontMono-ExtraLight.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 200;
+}
+@font-face {
+    font-family: "SauceCodePro NFM ExtraLight";
+    src:    local("SauceCodeProNerdFontMono-ExtraLightItalic"),
+            url("fonts/SauceCodeProNerdFontMono-ExtraLightItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 200;
+}
+@font-face {
+    font-family: "SauceCodePro NFM";
+    src:    local("SauceCodeProNerdFontMono-Italic"),
+            url("fonts/SauceCodeProNerdFontMono-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "SauceCodePro NFM Light";
+    src:    local("SauceCodeProNerdFontMono-Light"),
+            url("fonts/SauceCodeProNerdFontMono-Light.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "SauceCodePro NFM Light";
+    src:    local("SauceCodeProNerdFontMono-LightItalic"),
+            url("fonts/SauceCodeProNerdFontMono-LightItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "SauceCodePro NFM Medium";
+    src:    local("SauceCodeProNerdFontMono-Medium"),
+            url("fonts/SauceCodeProNerdFontMono-Medium.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "SauceCodePro NFM Medium";
+    src:    local("SauceCodeProNerdFontMono-MediumItalic"),
+            url("fonts/SauceCodeProNerdFontMono-MediumItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "SauceCodePro NFM";
+    src:    local("SauceCodeProNerdFontMono-Regular"),
+            url("fonts/SauceCodeProNerdFontMono-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "SauceCodePro NFM SemiBold";
+    src:    local("SauceCodeProNerdFontMono-SemiBold"),
+            url("fonts/SauceCodeProNerdFontMono-SemiBold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "SauceCodePro NFM SemiBold";
+    src:    local("SauceCodeProNerdFontMono-SemiBoldItalic"),
+            url("fonts/SauceCodeProNerdFontMono-SemiBoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "SauceCodePro NFP Black";
+    src:    local("SauceCodeProNerdFontPropo-Black"),
+            url("fonts/SauceCodeProNerdFontPropo-Black.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 900;
+}
+@font-face {
+    font-family: "SauceCodePro NFP Black";
+    src:    local("SauceCodeProNerdFontPropo-BlackItalic"),
+            url("fonts/SauceCodeProNerdFontPropo-BlackItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 900;
+}
+@font-face {
+    font-family: "SauceCodePro NFP";
+    src:    local("SauceCodeProNerdFontPropo-Bold"),
+            url("fonts/SauceCodeProNerdFontPropo-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "SauceCodePro NFP";
+    src:    local("SauceCodeProNerdFontPropo-BoldItalic"),
+            url("fonts/SauceCodeProNerdFontPropo-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "SauceCodePro NFP ExtraLight";
+    src:    local("SauceCodeProNerdFontPropo-ExtraLight"),
+            url("fonts/SauceCodeProNerdFontPropo-ExtraLight.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 200;
+}
+@font-face {
+    font-family: "SauceCodePro NFP ExtraLight";
+    src:    local("SauceCodeProNerdFontPropo-ExtraLightItalic"),
+            url("fonts/SauceCodeProNerdFontPropo-ExtraLightItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 200;
+}
+@font-face {
+    font-family: "SauceCodePro NFP";
+    src:    local("SauceCodeProNerdFontPropo-Italic"),
+            url("fonts/SauceCodeProNerdFontPropo-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "SauceCodePro NFP Light";
+    src:    local("SauceCodeProNerdFontPropo-Light"),
+            url("fonts/SauceCodeProNerdFontPropo-Light.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "SauceCodePro NFP Light";
+    src:    local("SauceCodeProNerdFontPropo-LightItalic"),
+            url("fonts/SauceCodeProNerdFontPropo-LightItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "SauceCodePro NFP Medium";
+    src:    local("SauceCodeProNerdFontPropo-Medium"),
+            url("fonts/SauceCodeProNerdFontPropo-Medium.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "SauceCodePro NFP Medium";
+    src:    local("SauceCodeProNerdFontPropo-MediumItalic"),
+            url("fonts/SauceCodeProNerdFontPropo-MediumItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "SauceCodePro NFP";
+    src:    local("SauceCodeProNerdFontPropo-Regular"),
+            url("fonts/SauceCodeProNerdFontPropo-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "SauceCodePro NFP SemiBold";
+    src:    local("SauceCodeProNerdFontPropo-SemiBold"),
+            url("fonts/SauceCodeProNerdFontPropo-SemiBold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "SauceCodePro NFP SemiBold";
+    src:    local("SauceCodeProNerdFontPropo-SemiBoldItalic"),
+            url("fonts/SauceCodeProNerdFontPropo-SemiBoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 600;
+}

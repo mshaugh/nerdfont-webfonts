@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "SauceCodePro NFM Medium";
+    src:    local("SauceCodeProNerdFontMono-Medium"),
+            url("fonts/SauceCodeProNerdFontMono-Medium.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "SauceCodePro NFM Medium";
+    src:    local("SauceCodeProNerdFontMono-MediumItalic"),
+            url("fonts/SauceCodeProNerdFontMono-MediumItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 500;
+}

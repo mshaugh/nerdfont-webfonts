@@ -1,0 +1,32 @@
+@font-face {
+    font-family: "SauceCodePro NFP";
+    src:    local("SauceCodeProNerdFontPropo-Bold"),
+            url("fonts/SauceCodeProNerdFontPropo-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "SauceCodePro NFP";
+    src:    local("SauceCodeProNerdFontPropo-BoldItalic"),
+            url("fonts/SauceCodeProNerdFontPropo-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "SauceCodePro NFP";
+    src:    local("SauceCodeProNerdFontPropo-Italic"),
+            url("fonts/SauceCodeProNerdFontPropo-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "SauceCodePro NFP";
+    src:    local("SauceCodeProNerdFontPropo-Regular"),
+            url("fonts/SauceCodeProNerdFontPropo-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
