@@ -1,0 +1,72 @@
+@font-face {
+    font-family: "FiraMono Nerd Font";
+    src:    local("FiraMonoNerdFont-Bold"),
+            url("fonts/FiraMonoNerdFont-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "FiraMono Nerd Font";
+    src:    local("FiraMonoNerdFont-Medium"),
+            url("fonts/FiraMonoNerdFont-Medium.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "FiraMono Nerd Font";
+    src:    local("FiraMonoNerdFont-Regular"),
+            url("fonts/FiraMonoNerdFont-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "FiraMono Nerd Font Mono";
+    src:    local("FiraMonoNerdFontMono-Bold"),
+            url("fonts/FiraMonoNerdFontMono-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "FiraMono Nerd Font Mono";
+    src:    local("FiraMonoNerdFontMono-Medium"),
+            url("fonts/FiraMonoNerdFontMono-Medium.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "FiraMono Nerd Font Mono";
+    src:    local("FiraMonoNerdFontMono-Regular"),
+            url("fonts/FiraMonoNerdFontMono-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "FiraMono Nerd Font Propo";
+    src:    local("FiraMonoNerdFontPropo-Bold"),
+            url("fonts/FiraMonoNerdFontPropo-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "FiraMono Nerd Font Propo";
+    src:    local("FiraMonoNerdFontPropo-Medium"),
+            url("fonts/FiraMonoNerdFontPropo-Medium.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "FiraMono Nerd Font Propo";
+    src:    local("FiraMonoNerdFontPropo-Regular"),
+            url("fonts/FiraMonoNerdFontPropo-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}

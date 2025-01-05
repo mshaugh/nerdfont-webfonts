@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "FiraMono Nerd Font Propo";
+    src:    local("FiraMonoNerdFontPropo-Bold"),
+            url("fonts/FiraMonoNerdFontPropo-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "FiraMono Nerd Font Propo";
+    src:    local("FiraMonoNerdFontPropo-Medium"),
+            url("fonts/FiraMonoNerdFontPropo-Medium.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "FiraMono Nerd Font Propo";
+    src:    local("FiraMonoNerdFontPropo-Regular"),
+            url("fonts/FiraMonoNerdFontPropo-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
