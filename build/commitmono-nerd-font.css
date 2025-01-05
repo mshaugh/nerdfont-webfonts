@@ -1,0 +1,32 @@
+@font-face {
+    font-family: "CommitMono Nerd Font";
+    src:    local("CommitMonoNerdFont-Bold"),
+            url("fonts/CommitMonoNerdFont-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "CommitMono Nerd Font";
+    src:    local("CommitMonoNerdFont-BoldItalic"),
+            url("fonts/CommitMonoNerdFont-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "CommitMono Nerd Font";
+    src:    local("CommitMonoNerdFont-Italic"),
+            url("fonts/CommitMonoNerdFont-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "CommitMono Nerd Font";
+    src:    local("CommitMonoNerdFont-Regular"),
+            url("fonts/CommitMonoNerdFont-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
