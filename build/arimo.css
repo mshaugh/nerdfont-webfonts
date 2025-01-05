@@ -1,0 +1,64 @@
+@font-face {
+    font-family: "Arimo Nerd Font";
+    src:    local("ArimoNerdFont-Bold"),
+            url("fonts/ArimoNerdFont-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Arimo Nerd Font";
+    src:    local("ArimoNerdFont-BoldItalic"),
+            url("fonts/ArimoNerdFont-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Arimo Nerd Font";
+    src:    local("ArimoNerdFont-Italic"),
+            url("fonts/ArimoNerdFont-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Arimo Nerd Font";
+    src:    local("ArimoNerdFont-Regular"),
+            url("fonts/ArimoNerdFont-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Arimo Nerd Font Propo";
+    src:    local("ArimoNerdFontPropo-Bold"),
+            url("fonts/ArimoNerdFontPropo-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Arimo Nerd Font Propo";
+    src:    local("ArimoNerdFontPropo-BoldItalic"),
+            url("fonts/ArimoNerdFontPropo-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Arimo Nerd Font Propo";
+    src:    local("ArimoNerdFontPropo-Italic"),
+            url("fonts/ArimoNerdFontPropo-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Arimo Nerd Font Propo";
+    src:    local("ArimoNerdFontPropo-Regular"),
+            url("fonts/ArimoNerdFontPropo-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
