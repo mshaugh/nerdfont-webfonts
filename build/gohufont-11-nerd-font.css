@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "GohuFont 11 Nerd Font";
+    src:    local("GohuFont11NerdFont-Regular"),
+            url("fonts/GohuFont11NerdFont-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
