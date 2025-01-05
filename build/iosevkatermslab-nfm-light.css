@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "IosevkaTermSlab NFM Light";
+    src:    local("IosevkaTermSlabNerdFontMono-Light"),
+            url("fonts/IosevkaTermSlabNerdFontMono-Light.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "IosevkaTermSlab NFM Light";
+    src:    local("IosevkaTermSlabNerdFontMono-LightItalic"),
+            url("fonts/IosevkaTermSlabNerdFontMono-LightItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 300;
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "IosevkaTermSlab NFP Medium Obl";
+    src:    local("IosevkaTermSlabNerdFontPropo-MediumOblique"),
+            url("fonts/IosevkaTermSlabNerdFontPropo-MediumOblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 500;
+}

@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "IosevkaTermSlab NFP ExtraBold";
+    src:    local("IosevkaTermSlabNerdFontPropo-ExtraBold"),
+            url("fonts/IosevkaTermSlabNerdFontPropo-ExtraBold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "IosevkaTermSlab NFP ExtraBold";
+    src:    local("IosevkaTermSlabNerdFontPropo-ExtraBoldItalic"),
+            url("fonts/IosevkaTermSlabNerdFontPropo-ExtraBoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}

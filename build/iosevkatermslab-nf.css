@@ -1,0 +1,32 @@
+@font-face {
+    font-family: "IosevkaTermSlab NF";
+    src:    local("IosevkaTermSlabNerdFont-Bold"),
+            url("fonts/IosevkaTermSlabNerdFont-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "IosevkaTermSlab NF";
+    src:    local("IosevkaTermSlabNerdFont-BoldItalic"),
+            url("fonts/IosevkaTermSlabNerdFont-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "IosevkaTermSlab NF";
+    src:    local("IosevkaTermSlabNerdFont-Italic"),
+            url("fonts/IosevkaTermSlabNerdFont-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "IosevkaTermSlab NF";
+    src:    local("IosevkaTermSlabNerdFont-Regular"),
+            url("fonts/IosevkaTermSlabNerdFont-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}

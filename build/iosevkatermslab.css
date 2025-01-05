@@ -1,0 +1,360 @@
+@font-face {
+    font-family: "IosevkaTermSlab NF";
+    src:    local("IosevkaTermSlabNerdFont-Bold"),
+            url("fonts/IosevkaTermSlabNerdFont-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "IosevkaTermSlab NF";
+    src:    local("IosevkaTermSlabNerdFont-BoldItalic"),
+            url("fonts/IosevkaTermSlabNerdFont-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "IosevkaTermSlab NF Obl";
+    src:    local("IosevkaTermSlabNerdFont-BoldOblique"),
+            url("fonts/IosevkaTermSlabNerdFont-BoldOblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "IosevkaTermSlab NF ExtraBold";
+    src:    local("IosevkaTermSlabNerdFont-ExtraBold"),
+            url("fonts/IosevkaTermSlabNerdFont-ExtraBold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "IosevkaTermSlab NF ExtraBold";
+    src:    local("IosevkaTermSlabNerdFont-ExtraBoldItalic"),
+            url("fonts/IosevkaTermSlabNerdFont-ExtraBoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "IosevkaTermSlab NF ExtraBold Obl";
+    src:    local("IosevkaTermSlabNerdFont-ExtraBoldOblique"),
+            url("fonts/IosevkaTermSlabNerdFont-ExtraBoldOblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "IosevkaTermSlab NF";
+    src:    local("IosevkaTermSlabNerdFont-Italic"),
+            url("fonts/IosevkaTermSlabNerdFont-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "IosevkaTermSlab NF Light";
+    src:    local("IosevkaTermSlabNerdFont-Light"),
+            url("fonts/IosevkaTermSlabNerdFont-Light.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "IosevkaTermSlab NF Light";
+    src:    local("IosevkaTermSlabNerdFont-LightItalic"),
+            url("fonts/IosevkaTermSlabNerdFont-LightItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "IosevkaTermSlab NF Light Obl";
+    src:    local("IosevkaTermSlabNerdFont-LightOblique"),
+            url("fonts/IosevkaTermSlabNerdFont-LightOblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "IosevkaTermSlab NF Medium";
+    src:    local("IosevkaTermSlabNerdFont-Medium"),
+            url("fonts/IosevkaTermSlabNerdFont-Medium.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "IosevkaTermSlab NF Medium";
+    src:    local("IosevkaTermSlabNerdFont-MediumItalic"),
+            url("fonts/IosevkaTermSlabNerdFont-MediumItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "IosevkaTermSlab NF Medium Obl";
+    src:    local("IosevkaTermSlabNerdFont-MediumOblique"),
+            url("fonts/IosevkaTermSlabNerdFont-MediumOblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "IosevkaTermSlab NF Obl";
+    src:    local("IosevkaTermSlabNerdFont-Oblique"),
+            url("fonts/IosevkaTermSlabNerdFont-Oblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "IosevkaTermSlab NF";
+    src:    local("IosevkaTermSlabNerdFont-Regular"),
+            url("fonts/IosevkaTermSlabNerdFont-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "IosevkaTermSlab NFM";
+    src:    local("IosevkaTermSlabNerdFontMono-Bold"),
+            url("fonts/IosevkaTermSlabNerdFontMono-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "IosevkaTermSlab NFM";
+    src:    local("IosevkaTermSlabNerdFontMono-BoldItalic"),
+            url("fonts/IosevkaTermSlabNerdFontMono-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "IosevkaTermSlab NFM Obl";
+    src:    local("IosevkaTermSlabNerdFontMono-BoldOblique"),
+            url("fonts/IosevkaTermSlabNerdFontMono-BoldOblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "IosevkaTermSlab NFM ExtraBold";
+    src:    local("IosevkaTermSlabNerdFontMono-ExtraBold"),
+            url("fonts/IosevkaTermSlabNerdFontMono-ExtraBold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "IosevkaTermSlab NFM ExtraBold";
+    src:    local("IosevkaTermSlabNerdFontMono-ExtraBoldItalic"),
+            url("fonts/IosevkaTermSlabNerdFontMono-ExtraBoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "IosevkaTermSlab NFM ExtraBold Obl";
+    src:    local("IosevkaTermSlabNerdFontMono-ExtraBoldOblique"),
+            url("fonts/IosevkaTermSlabNerdFontMono-ExtraBoldOblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "IosevkaTermSlab NFM";
+    src:    local("IosevkaTermSlabNerdFontMono-Italic"),
+            url("fonts/IosevkaTermSlabNerdFontMono-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "IosevkaTermSlab NFM Light";
+    src:    local("IosevkaTermSlabNerdFontMono-Light"),
+            url("fonts/IosevkaTermSlabNerdFontMono-Light.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "IosevkaTermSlab NFM Light";
+    src:    local("IosevkaTermSlabNerdFontMono-LightItalic"),
+            url("fonts/IosevkaTermSlabNerdFontMono-LightItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "IosevkaTermSlab NFM Light Obl";
+    src:    local("IosevkaTermSlabNerdFontMono-LightOblique"),
+            url("fonts/IosevkaTermSlabNerdFontMono-LightOblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "IosevkaTermSlab NFM Medium";
+    src:    local("IosevkaTermSlabNerdFontMono-Medium"),
+            url("fonts/IosevkaTermSlabNerdFontMono-Medium.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "IosevkaTermSlab NFM Medium";
+    src:    local("IosevkaTermSlabNerdFontMono-MediumItalic"),
+            url("fonts/IosevkaTermSlabNerdFontMono-MediumItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "IosevkaTermSlab NFM Medium Obl";
+    src:    local("IosevkaTermSlabNerdFontMono-MediumOblique"),
+            url("fonts/IosevkaTermSlabNerdFontMono-MediumOblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "IosevkaTermSlab NFM Obl";
+    src:    local("IosevkaTermSlabNerdFontMono-Oblique"),
+            url("fonts/IosevkaTermSlabNerdFontMono-Oblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "IosevkaTermSlab NFM";
+    src:    local("IosevkaTermSlabNerdFontMono-Regular"),
+            url("fonts/IosevkaTermSlabNerdFontMono-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "IosevkaTermSlab NFP";
+    src:    local("IosevkaTermSlabNerdFontPropo-Bold"),
+            url("fonts/IosevkaTermSlabNerdFontPropo-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "IosevkaTermSlab NFP";
+    src:    local("IosevkaTermSlabNerdFontPropo-BoldItalic"),
+            url("fonts/IosevkaTermSlabNerdFontPropo-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "IosevkaTermSlab NFP Obl";
+    src:    local("IosevkaTermSlabNerdFontPropo-BoldOblique"),
+            url("fonts/IosevkaTermSlabNerdFontPropo-BoldOblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "IosevkaTermSlab NFP ExtraBold";
+    src:    local("IosevkaTermSlabNerdFontPropo-ExtraBold"),
+            url("fonts/IosevkaTermSlabNerdFontPropo-ExtraBold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "IosevkaTermSlab NFP ExtraBold";
+    src:    local("IosevkaTermSlabNerdFontPropo-ExtraBoldItalic"),
+            url("fonts/IosevkaTermSlabNerdFontPropo-ExtraBoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "IosevkaTermSlab NFP ExtraBold Obl";
+    src:    local("IosevkaTermSlabNerdFontPropo-ExtraBoldOblique"),
+            url("fonts/IosevkaTermSlabNerdFontPropo-ExtraBoldOblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "IosevkaTermSlab NFP";
+    src:    local("IosevkaTermSlabNerdFontPropo-Italic"),
+            url("fonts/IosevkaTermSlabNerdFontPropo-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "IosevkaTermSlab NFP Light";
+    src:    local("IosevkaTermSlabNerdFontPropo-Light"),
+            url("fonts/IosevkaTermSlabNerdFontPropo-Light.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "IosevkaTermSlab NFP Light";
+    src:    local("IosevkaTermSlabNerdFontPropo-LightItalic"),
+            url("fonts/IosevkaTermSlabNerdFontPropo-LightItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "IosevkaTermSlab NFP Light Obl";
+    src:    local("IosevkaTermSlabNerdFontPropo-LightOblique"),
+            url("fonts/IosevkaTermSlabNerdFontPropo-LightOblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "IosevkaTermSlab NFP Medium";
+    src:    local("IosevkaTermSlabNerdFontPropo-Medium"),
+            url("fonts/IosevkaTermSlabNerdFontPropo-Medium.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "IosevkaTermSlab NFP Medium";
+    src:    local("IosevkaTermSlabNerdFontPropo-MediumItalic"),
+            url("fonts/IosevkaTermSlabNerdFontPropo-MediumItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "IosevkaTermSlab NFP Medium Obl";
+    src:    local("IosevkaTermSlabNerdFontPropo-MediumOblique"),
+            url("fonts/IosevkaTermSlabNerdFontPropo-MediumOblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "IosevkaTermSlab NFP Obl";
+    src:    local("IosevkaTermSlabNerdFontPropo-Oblique"),
+            url("fonts/IosevkaTermSlabNerdFontPropo-Oblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "IosevkaTermSlab NFP";
+    src:    local("IosevkaTermSlabNerdFontPropo-Regular"),
+            url("fonts/IosevkaTermSlabNerdFontPropo-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
