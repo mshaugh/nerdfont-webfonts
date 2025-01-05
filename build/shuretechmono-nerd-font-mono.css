@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "ShureTechMono Nerd Font Mono";
+    src:    local("ShureTechMonoNerdFontMono-Regular"),
+            url("fonts/ShureTechMonoNerdFontMono-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}

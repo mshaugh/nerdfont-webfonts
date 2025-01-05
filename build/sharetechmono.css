@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "ShureTechMono Nerd Font";
+    src:    local("ShureTechMonoNerdFont-Regular"),
+            url("fonts/ShureTechMonoNerdFont-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "ShureTechMono Nerd Font Mono";
+    src:    local("ShureTechMonoNerdFontMono-Regular"),
+            url("fonts/ShureTechMonoNerdFontMono-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "ShureTechMono Nerd Font Propo";
+    src:    local("ShureTechMonoNerdFontPropo-Regular"),
+            url("fonts/ShureTechMonoNerdFontPropo-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
