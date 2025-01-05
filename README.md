@@ -11,6 +11,9 @@ The latest version of [Nerd Fonts][nerdfonts] is supported.
 For convenience there is `nerdfont-webfonts.css`, which contains font face
 at-rules for all provided fonts.
 
+Similarly, there are several files for each font superfamily, as described
+by [`fonts.md`](./fonts.md).
+
 ### JavaScript
 
 ```javascript
