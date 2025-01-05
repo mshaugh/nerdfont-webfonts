@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "Agave Nerd Font";
+    src:    local("AgaveNerdFont-Bold"),
+            url("fonts/AgaveNerdFont-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Agave Nerd Font";
+    src:    local("AgaveNerdFont-Regular"),
+            url("fonts/AgaveNerdFont-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
