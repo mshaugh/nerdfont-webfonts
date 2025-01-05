@@ -1,0 +1,32 @@
+@font-face {
+    font-family: "MesloLGLDZ Nerd Font Propo";
+    src:    local("MesloLGLDZNerdFontPropo-Bold"),
+            url("fonts/MesloLGLDZNerdFontPropo-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "MesloLGLDZ Nerd Font Propo";
+    src:    local("MesloLGLDZNerdFontPropo-BoldItalic"),
+            url("fonts/MesloLGLDZNerdFontPropo-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "MesloLGLDZ Nerd Font Propo";
+    src:    local("MesloLGLDZNerdFontPropo-Italic"),
+            url("fonts/MesloLGLDZNerdFontPropo-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "MesloLGLDZ Nerd Font Propo";
+    src:    local("MesloLGLDZNerdFontPropo-Regular"),
+            url("fonts/MesloLGLDZNerdFontPropo-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
