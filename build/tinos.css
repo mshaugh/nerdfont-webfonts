@@ -1,0 +1,64 @@
+@font-face {
+    font-family: "Tinos Nerd Font";
+    src:    local("TinosNerdFont-Bold"),
+            url("fonts/TinosNerdFont-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Tinos Nerd Font";
+    src:    local("TinosNerdFont-BoldItalic"),
+            url("fonts/TinosNerdFont-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Tinos Nerd Font";
+    src:    local("TinosNerdFont-Italic"),
+            url("fonts/TinosNerdFont-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Tinos Nerd Font";
+    src:    local("TinosNerdFont-Regular"),
+            url("fonts/TinosNerdFont-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Tinos Nerd Font Propo";
+    src:    local("TinosNerdFontPropo-Bold"),
+            url("fonts/TinosNerdFontPropo-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Tinos Nerd Font Propo";
+    src:    local("TinosNerdFontPropo-BoldItalic"),
+            url("fonts/TinosNerdFontPropo-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Tinos Nerd Font Propo";
+    src:    local("TinosNerdFontPropo-Italic"),
+            url("fonts/TinosNerdFontPropo-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Tinos Nerd Font Propo";
+    src:    local("TinosNerdFontPropo-Regular"),
+            url("fonts/TinosNerdFontPropo-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}

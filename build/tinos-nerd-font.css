@@ -1,0 +1,32 @@
+@font-face {
+    font-family: "Tinos Nerd Font";
+    src:    local("TinosNerdFont-Bold"),
+            url("fonts/TinosNerdFont-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Tinos Nerd Font";
+    src:    local("TinosNerdFont-BoldItalic"),
+            url("fonts/TinosNerdFont-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Tinos Nerd Font";
+    src:    local("TinosNerdFont-Italic"),
+            url("fonts/TinosNerdFont-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Tinos Nerd Font";
+    src:    local("TinosNerdFont-Regular"),
+            url("fonts/TinosNerdFont-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
