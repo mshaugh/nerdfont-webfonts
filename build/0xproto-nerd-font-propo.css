@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "0xProto Nerd Font Propo";
+    src:    local("0xProtoNerdFontPropo-Bold"),
+            url("fonts/0xProtoNerdFontPropo-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "0xProto Nerd Font Propo";
+    src:    local("0xProtoNerdFontPropo-Italic"),
+            url("fonts/0xProtoNerdFontPropo-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "0xProto Nerd Font Propo";
+    src:    local("0xProtoNerdFontPropo-Regular"),
+            url("fonts/0xProtoNerdFontPropo-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
