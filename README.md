@@ -18,13 +18,13 @@ by [`fonts.md`](./fonts.md).
 
 ```javascript
 term_.prefs_.set('font-family', '"FiraCode Nerd Font", monospace');
-term_.prefs_.set('user-css', 'https://mshaugh.github.io/nerdfont-webfonts/build/firacode-nerd-font.css');
+term_.prefs_.set('user-css', 'https://cdn.jsdelivr.net/gh/mshaugh/nerdfont-webfonts@v3.3.0/build/firacode-nerd-font.css');
 ```
 
 ### Preferences Editor
 
 * `font-family: "FiraCode Nerd Font", monospace`
-* `user-css: https://mshaugh.github.io/nerdfont-webfonts/build/firacode-nerd-font.css`
+* `user-css: https://cdn.jsdelivr.net/gh/mshaugh/nerdfont-webfonts@v3.3.0/build/firacode-nerd-font.css`
 
 ## Font Ligatures
 
