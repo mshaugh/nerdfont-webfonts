@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "IosevkaTerm NFP Medium";
+    src:    local("IosevkaTermNerdFontPropo-Medium"),
+            url("fonts/IosevkaTermNerdFontPropo-Medium.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "IosevkaTerm NFP Medium";
+    src:    local("IosevkaTermNerdFontPropo-MediumItalic"),
+            url("fonts/IosevkaTermNerdFontPropo-MediumItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 500;
+}

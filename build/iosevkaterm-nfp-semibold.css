@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "IosevkaTerm NFP SemiBold";
+    src:    local("IosevkaTermNerdFontPropo-SemiBold"),
+            url("fonts/IosevkaTermNerdFontPropo-SemiBold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "IosevkaTerm NFP SemiBold";
+    src:    local("IosevkaTermNerdFontPropo-SemiBoldItalic"),
+            url("fonts/IosevkaTermNerdFontPropo-SemiBoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 600;
+}

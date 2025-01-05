@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "IosevkaTerm NF Heavy";
+    src:    local("IosevkaTermNerdFont-Heavy"),
+            url("fonts/IosevkaTermNerdFont-Heavy.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 900;
+}
+@font-face {
+    font-family: "IosevkaTerm NF Heavy";
+    src:    local("IosevkaTermNerdFont-HeavyItalic"),
+            url("fonts/IosevkaTermNerdFont-HeavyItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 900;
+}

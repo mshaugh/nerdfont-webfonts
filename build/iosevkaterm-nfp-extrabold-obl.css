@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "IosevkaTerm NFP ExtraBold Obl";
+    src:    local("IosevkaTermNerdFontPropo-ExtraBoldOblique"),
+            url("fonts/IosevkaTermNerdFontPropo-ExtraBoldOblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 700;
+}

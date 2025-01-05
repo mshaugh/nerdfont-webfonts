@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "IosevkaTerm NFP Obl";
+    src:    local("IosevkaTermNerdFontPropo-BoldOblique"),
+            url("fonts/IosevkaTermNerdFontPropo-BoldOblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "IosevkaTerm NFP Obl";
+    src:    local("IosevkaTermNerdFontPropo-Oblique"),
+            url("fonts/IosevkaTermNerdFontPropo-Oblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 400;
+}

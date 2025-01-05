@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "IosevkaTerm NFP ExtraLight";
+    src:    local("IosevkaTermNerdFontPropo-ExtraLight"),
+            url("fonts/IosevkaTermNerdFontPropo-ExtraLight.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 200;
+}
+@font-face {
+    font-family: "IosevkaTerm NFP ExtraLight";
+    src:    local("IosevkaTermNerdFontPropo-ExtraLightItalic"),
+            url("fonts/IosevkaTermNerdFontPropo-ExtraLightItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 200;
+}
