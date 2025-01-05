@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "VictorMono NFM Obl";
+    src:    local("VictorMonoNerdFontMono-BoldOblique"),
+            url("fonts/VictorMonoNerdFontMono-BoldOblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "VictorMono NFM Obl";
+    src:    local("VictorMonoNerdFontMono-Oblique"),
+            url("fonts/VictorMonoNerdFontMono-Oblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 400;
+}

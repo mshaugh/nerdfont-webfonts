@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "VictorMono NF Thin Obl";
+    src:    local("VictorMonoNerdFont-ThinOblique"),
+            url("fonts/VictorMonoNerdFont-ThinOblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 100;
+}

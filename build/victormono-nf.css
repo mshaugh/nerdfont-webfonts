@@ -1,0 +1,32 @@
+@font-face {
+    font-family: "VictorMono NF";
+    src:    local("VictorMonoNerdFont-Bold"),
+            url("fonts/VictorMonoNerdFont-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "VictorMono NF";
+    src:    local("VictorMonoNerdFont-BoldItalic"),
+            url("fonts/VictorMonoNerdFont-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "VictorMono NF";
+    src:    local("VictorMonoNerdFont-Italic"),
+            url("fonts/VictorMonoNerdFont-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "VictorMono NF";
+    src:    local("VictorMonoNerdFont-Regular"),
+            url("fonts/VictorMonoNerdFont-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}

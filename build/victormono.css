@@ -1,0 +1,504 @@
+@font-face {
+    font-family: "VictorMono NF";
+    src:    local("VictorMonoNerdFont-Bold"),
+            url("fonts/VictorMonoNerdFont-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "VictorMono NF";
+    src:    local("VictorMonoNerdFont-BoldItalic"),
+            url("fonts/VictorMonoNerdFont-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "VictorMono NF Obl";
+    src:    local("VictorMonoNerdFont-BoldOblique"),
+            url("fonts/VictorMonoNerdFont-BoldOblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "VictorMono NF ExtraLight";
+    src:    local("VictorMonoNerdFont-ExtraLight"),
+            url("fonts/VictorMonoNerdFont-ExtraLight.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 200;
+}
+@font-face {
+    font-family: "VictorMono NF ExtraLight";
+    src:    local("VictorMonoNerdFont-ExtraLightItalic"),
+            url("fonts/VictorMonoNerdFont-ExtraLightItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 200;
+}
+@font-face {
+    font-family: "VictorMono NF ExtraLight Obl";
+    src:    local("VictorMonoNerdFont-ExtraLightOblique"),
+            url("fonts/VictorMonoNerdFont-ExtraLightOblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 200;
+}
+@font-face {
+    font-family: "VictorMono NF";
+    src:    local("VictorMonoNerdFont-Italic"),
+            url("fonts/VictorMonoNerdFont-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "VictorMono NF Light";
+    src:    local("VictorMonoNerdFont-Light"),
+            url("fonts/VictorMonoNerdFont-Light.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "VictorMono NF Light";
+    src:    local("VictorMonoNerdFont-LightItalic"),
+            url("fonts/VictorMonoNerdFont-LightItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "VictorMono NF Light Obl";
+    src:    local("VictorMonoNerdFont-LightOblique"),
+            url("fonts/VictorMonoNerdFont-LightOblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "VictorMono NF Medium";
+    src:    local("VictorMonoNerdFont-Medium"),
+            url("fonts/VictorMonoNerdFont-Medium.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "VictorMono NF Medium";
+    src:    local("VictorMonoNerdFont-MediumItalic"),
+            url("fonts/VictorMonoNerdFont-MediumItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "VictorMono NF Medium Obl";
+    src:    local("VictorMonoNerdFont-MediumOblique"),
+            url("fonts/VictorMonoNerdFont-MediumOblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "VictorMono NF Obl";
+    src:    local("VictorMonoNerdFont-Oblique"),
+            url("fonts/VictorMonoNerdFont-Oblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "VictorMono NF";
+    src:    local("VictorMonoNerdFont-Regular"),
+            url("fonts/VictorMonoNerdFont-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "VictorMono NF SemiBold";
+    src:    local("VictorMonoNerdFont-SemiBold"),
+            url("fonts/VictorMonoNerdFont-SemiBold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "VictorMono NF SemiBold";
+    src:    local("VictorMonoNerdFont-SemiBoldItalic"),
+            url("fonts/VictorMonoNerdFont-SemiBoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "VictorMono NF SemiBold Obl";
+    src:    local("VictorMonoNerdFont-SemiBoldOblique"),
+            url("fonts/VictorMonoNerdFont-SemiBoldOblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "VictorMono NF Thin";
+    src:    local("VictorMonoNerdFont-Thin"),
+            url("fonts/VictorMonoNerdFont-Thin.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 100;
+}
+@font-face {
+    font-family: "VictorMono NF Thin";
+    src:    local("VictorMonoNerdFont-ThinItalic"),
+            url("fonts/VictorMonoNerdFont-ThinItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 100;
+}
+@font-face {
+    font-family: "VictorMono NF Thin Obl";
+    src:    local("VictorMonoNerdFont-ThinOblique"),
+            url("fonts/VictorMonoNerdFont-ThinOblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 100;
+}
+@font-face {
+    font-family: "VictorMono NFM";
+    src:    local("VictorMonoNerdFontMono-Bold"),
+            url("fonts/VictorMonoNerdFontMono-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "VictorMono NFM";
+    src:    local("VictorMonoNerdFontMono-BoldItalic"),
+            url("fonts/VictorMonoNerdFontMono-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "VictorMono NFM Obl";
+    src:    local("VictorMonoNerdFontMono-BoldOblique"),
+            url("fonts/VictorMonoNerdFontMono-BoldOblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "VictorMono NFM ExtraLight";
+    src:    local("VictorMonoNerdFontMono-ExtraLight"),
+            url("fonts/VictorMonoNerdFontMono-ExtraLight.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 200;
+}
+@font-face {
+    font-family: "VictorMono NFM ExtraLight";
+    src:    local("VictorMonoNerdFontMono-ExtraLightItalic"),
+            url("fonts/VictorMonoNerdFontMono-ExtraLightItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 200;
+}
+@font-face {
+    font-family: "VictorMono NFM ExtraLight Obl";
+    src:    local("VictorMonoNerdFontMono-ExtraLightOblique"),
+            url("fonts/VictorMonoNerdFontMono-ExtraLightOblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 200;
+}
+@font-face {
+    font-family: "VictorMono NFM";
+    src:    local("VictorMonoNerdFontMono-Italic"),
+            url("fonts/VictorMonoNerdFontMono-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "VictorMono NFM Light";
+    src:    local("VictorMonoNerdFontMono-Light"),
+            url("fonts/VictorMonoNerdFontMono-Light.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "VictorMono NFM Light";
+    src:    local("VictorMonoNerdFontMono-LightItalic"),
+            url("fonts/VictorMonoNerdFontMono-LightItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "VictorMono NFM Light Obl";
+    src:    local("VictorMonoNerdFontMono-LightOblique"),
+            url("fonts/VictorMonoNerdFontMono-LightOblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "VictorMono NFM Medium";
+    src:    local("VictorMonoNerdFontMono-Medium"),
+            url("fonts/VictorMonoNerdFontMono-Medium.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "VictorMono NFM Medium";
+    src:    local("VictorMonoNerdFontMono-MediumItalic"),
+            url("fonts/VictorMonoNerdFontMono-MediumItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "VictorMono NFM Medium Obl";
+    src:    local("VictorMonoNerdFontMono-MediumOblique"),
+            url("fonts/VictorMonoNerdFontMono-MediumOblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "VictorMono NFM Obl";
+    src:    local("VictorMonoNerdFontMono-Oblique"),
+            url("fonts/VictorMonoNerdFontMono-Oblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "VictorMono NFM";
+    src:    local("VictorMonoNerdFontMono-Regular"),
+            url("fonts/VictorMonoNerdFontMono-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "VictorMono NFM SemiBold";
+    src:    local("VictorMonoNerdFontMono-SemiBold"),
+            url("fonts/VictorMonoNerdFontMono-SemiBold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "VictorMono NFM SemiBold";
+    src:    local("VictorMonoNerdFontMono-SemiBoldItalic"),
+            url("fonts/VictorMonoNerdFontMono-SemiBoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "VictorMono NFM SemiBold Obl";
+    src:    local("VictorMonoNerdFontMono-SemiBoldOblique"),
+            url("fonts/VictorMonoNerdFontMono-SemiBoldOblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "VictorMono NFM Thin";
+    src:    local("VictorMonoNerdFontMono-Thin"),
+            url("fonts/VictorMonoNerdFontMono-Thin.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 100;
+}
+@font-face {
+    font-family: "VictorMono NFM Thin";
+    src:    local("VictorMonoNerdFontMono-ThinItalic"),
+            url("fonts/VictorMonoNerdFontMono-ThinItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 100;
+}
+@font-face {
+    font-family: "VictorMono NFM Thin Obl";
+    src:    local("VictorMonoNerdFontMono-ThinOblique"),
+            url("fonts/VictorMonoNerdFontMono-ThinOblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 100;
+}
+@font-face {
+    font-family: "VictorMono NFP";
+    src:    local("VictorMonoNerdFontPropo-Bold"),
+            url("fonts/VictorMonoNerdFontPropo-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "VictorMono NFP";
+    src:    local("VictorMonoNerdFontPropo-BoldItalic"),
+            url("fonts/VictorMonoNerdFontPropo-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "VictorMono NFP Obl";
+    src:    local("VictorMonoNerdFontPropo-BoldOblique"),
+            url("fonts/VictorMonoNerdFontPropo-BoldOblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "VictorMono NFP ExtraLight";
+    src:    local("VictorMonoNerdFontPropo-ExtraLight"),
+            url("fonts/VictorMonoNerdFontPropo-ExtraLight.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 200;
+}
+@font-face {
+    font-family: "VictorMono NFP ExtraLight";
+    src:    local("VictorMonoNerdFontPropo-ExtraLightItalic"),
+            url("fonts/VictorMonoNerdFontPropo-ExtraLightItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 200;
+}
+@font-face {
+    font-family: "VictorMono NFP ExtraLight Obl";
+    src:    local("VictorMonoNerdFontPropo-ExtraLightOblique"),
+            url("fonts/VictorMonoNerdFontPropo-ExtraLightOblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 200;
+}
+@font-face {
+    font-family: "VictorMono NFP";
+    src:    local("VictorMonoNerdFontPropo-Italic"),
+            url("fonts/VictorMonoNerdFontPropo-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "VictorMono NFP Light";
+    src:    local("VictorMonoNerdFontPropo-Light"),
+            url("fonts/VictorMonoNerdFontPropo-Light.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "VictorMono NFP Light";
+    src:    local("VictorMonoNerdFontPropo-LightItalic"),
+            url("fonts/VictorMonoNerdFontPropo-LightItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "VictorMono NFP Light Obl";
+    src:    local("VictorMonoNerdFontPropo-LightOblique"),
+            url("fonts/VictorMonoNerdFontPropo-LightOblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "VictorMono NFP Medium";
+    src:    local("VictorMonoNerdFontPropo-Medium"),
+            url("fonts/VictorMonoNerdFontPropo-Medium.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "VictorMono NFP Medium";
+    src:    local("VictorMonoNerdFontPropo-MediumItalic"),
+            url("fonts/VictorMonoNerdFontPropo-MediumItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "VictorMono NFP Medium Obl";
+    src:    local("VictorMonoNerdFontPropo-MediumOblique"),
+            url("fonts/VictorMonoNerdFontPropo-MediumOblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "VictorMono NFP Obl";
+    src:    local("VictorMonoNerdFontPropo-Oblique"),
+            url("fonts/VictorMonoNerdFontPropo-Oblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "VictorMono NFP";
+    src:    local("VictorMonoNerdFontPropo-Regular"),
+            url("fonts/VictorMonoNerdFontPropo-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "VictorMono NFP SemiBold";
+    src:    local("VictorMonoNerdFontPropo-SemiBold"),
+            url("fonts/VictorMonoNerdFontPropo-SemiBold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "VictorMono NFP SemiBold";
+    src:    local("VictorMonoNerdFontPropo-SemiBoldItalic"),
+            url("fonts/VictorMonoNerdFontPropo-SemiBoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "VictorMono NFP SemiBold Obl";
+    src:    local("VictorMonoNerdFontPropo-SemiBoldOblique"),
+            url("fonts/VictorMonoNerdFontPropo-SemiBoldOblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "VictorMono NFP Thin";
+    src:    local("VictorMonoNerdFontPropo-Thin"),
+            url("fonts/VictorMonoNerdFontPropo-Thin.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 100;
+}
+@font-face {
+    font-family: "VictorMono NFP Thin";
+    src:    local("VictorMonoNerdFontPropo-ThinItalic"),
+            url("fonts/VictorMonoNerdFontPropo-ThinItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 100;
+}
+@font-face {
+    font-family: "VictorMono NFP Thin Obl";
+    src:    local("VictorMonoNerdFontPropo-ThinOblique"),
+            url("fonts/VictorMonoNerdFontPropo-ThinOblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 100;
+}

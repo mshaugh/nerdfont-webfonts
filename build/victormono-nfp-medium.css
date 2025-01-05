@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "VictorMono NFP Medium";
+    src:    local("VictorMonoNerdFontPropo-Medium"),
+            url("fonts/VictorMonoNerdFontPropo-Medium.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "VictorMono NFP Medium";
+    src:    local("VictorMonoNerdFontPropo-MediumItalic"),
+            url("fonts/VictorMonoNerdFontPropo-MediumItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 500;
+}

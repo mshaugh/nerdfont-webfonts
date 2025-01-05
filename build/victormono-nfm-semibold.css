@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "VictorMono NFM SemiBold";
+    src:    local("VictorMonoNerdFontMono-SemiBold"),
+            url("fonts/VictorMonoNerdFontMono-SemiBold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "VictorMono NFM SemiBold";
+    src:    local("VictorMonoNerdFontMono-SemiBoldItalic"),
+            url("fonts/VictorMonoNerdFontMono-SemiBoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 600;
+}

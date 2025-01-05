@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "VictorMono NFP Medium Obl";
+    src:    local("VictorMonoNerdFontPropo-MediumOblique"),
+            url("fonts/VictorMonoNerdFontPropo-MediumOblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 500;
+}
