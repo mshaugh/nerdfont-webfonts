@@ -1,0 +1,32 @@
+@font-face {
+    font-family: "iMWritingMono Nerd Font Mono";
+    src:    local("iMWritingMonoNerdFontMono-Bold"),
+            url("fonts/iMWritingMonoNerdFontMono-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "iMWritingMono Nerd Font Mono";
+    src:    local("iMWritingMonoNerdFontMono-BoldItalic"),
+            url("fonts/iMWritingMonoNerdFontMono-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "iMWritingMono Nerd Font Mono";
+    src:    local("iMWritingMonoNerdFontMono-Italic"),
+            url("fonts/iMWritingMonoNerdFontMono-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "iMWritingMono Nerd Font Mono";
+    src:    local("iMWritingMonoNerdFontMono-Regular"),
+            url("fonts/iMWritingMonoNerdFontMono-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
