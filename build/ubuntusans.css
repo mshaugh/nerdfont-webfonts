@@ -1,0 +1,320 @@
+@font-face {
+    font-family: "UbuntuSansMono NF";
+    src:    local("UbuntuSansMonoNerdFont-Bold"),
+            url("fonts/UbuntuSansMonoNerdFont-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "UbuntuSansMono NF";
+    src:    local("UbuntuSansMonoNerdFont-BoldItalic"),
+            url("fonts/UbuntuSansMonoNerdFont-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "UbuntuSansMono NF";
+    src:    local("UbuntuSansMonoNerdFont-Italic"),
+            url("fonts/UbuntuSansMonoNerdFont-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "UbuntuSansMono NF Medium";
+    src:    local("UbuntuSansMonoNerdFont-Medium"),
+            url("fonts/UbuntuSansMonoNerdFont-Medium.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "UbuntuSansMono NF Medium";
+    src:    local("UbuntuSansMonoNerdFont-MediumItalic"),
+            url("fonts/UbuntuSansMonoNerdFont-MediumItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "UbuntuSansMono NF";
+    src:    local("UbuntuSansMonoNerdFont-Regular"),
+            url("fonts/UbuntuSansMonoNerdFont-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "UbuntuSansMono NF SemiBold";
+    src:    local("UbuntuSansMonoNerdFont-SemiBold"),
+            url("fonts/UbuntuSansMonoNerdFont-SemiBold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "UbuntuSansMono NF SemiBold";
+    src:    local("UbuntuSansMonoNerdFont-SemiBoldItalic"),
+            url("fonts/UbuntuSansMonoNerdFont-SemiBoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "UbuntuSansMono NFM";
+    src:    local("UbuntuSansMonoNerdFontMono-Bold"),
+            url("fonts/UbuntuSansMonoNerdFontMono-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "UbuntuSansMono NFM";
+    src:    local("UbuntuSansMonoNerdFontMono-BoldItalic"),
+            url("fonts/UbuntuSansMonoNerdFontMono-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "UbuntuSansMono NFM";
+    src:    local("UbuntuSansMonoNerdFontMono-Italic"),
+            url("fonts/UbuntuSansMonoNerdFontMono-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "UbuntuSansMono NFM Medium";
+    src:    local("UbuntuSansMonoNerdFontMono-Medium"),
+            url("fonts/UbuntuSansMonoNerdFontMono-Medium.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "UbuntuSansMono NFM Medium";
+    src:    local("UbuntuSansMonoNerdFontMono-MediumItalic"),
+            url("fonts/UbuntuSansMonoNerdFontMono-MediumItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "UbuntuSansMono NFM";
+    src:    local("UbuntuSansMonoNerdFontMono-Regular"),
+            url("fonts/UbuntuSansMonoNerdFontMono-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "UbuntuSansMono NFM SemiBold";
+    src:    local("UbuntuSansMonoNerdFontMono-SemiBold"),
+            url("fonts/UbuntuSansMonoNerdFontMono-SemiBold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "UbuntuSansMono NFM SemiBold";
+    src:    local("UbuntuSansMonoNerdFontMono-SemiBoldItalic"),
+            url("fonts/UbuntuSansMonoNerdFontMono-SemiBoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "UbuntuSansMono NFP";
+    src:    local("UbuntuSansMonoNerdFontPropo-Bold"),
+            url("fonts/UbuntuSansMonoNerdFontPropo-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "UbuntuSansMono NFP";
+    src:    local("UbuntuSansMonoNerdFontPropo-BoldItalic"),
+            url("fonts/UbuntuSansMonoNerdFontPropo-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "UbuntuSansMono NFP";
+    src:    local("UbuntuSansMonoNerdFontPropo-Italic"),
+            url("fonts/UbuntuSansMonoNerdFontPropo-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "UbuntuSansMono NFP Medium";
+    src:    local("UbuntuSansMonoNerdFontPropo-Medium"),
+            url("fonts/UbuntuSansMonoNerdFontPropo-Medium.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "UbuntuSansMono NFP Medium";
+    src:    local("UbuntuSansMonoNerdFontPropo-MediumItalic"),
+            url("fonts/UbuntuSansMonoNerdFontPropo-MediumItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "UbuntuSansMono NFP";
+    src:    local("UbuntuSansMonoNerdFontPropo-Regular"),
+            url("fonts/UbuntuSansMonoNerdFontPropo-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "UbuntuSansMono NFP SemiBold";
+    src:    local("UbuntuSansMonoNerdFontPropo-SemiBold"),
+            url("fonts/UbuntuSansMonoNerdFontPropo-SemiBold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "UbuntuSansMono NFP SemiBold";
+    src:    local("UbuntuSansMonoNerdFontPropo-SemiBoldItalic"),
+            url("fonts/UbuntuSansMonoNerdFontPropo-SemiBoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "UbuntuSans NF";
+    src:    local("UbuntuSansNerdFont-Bold"),
+            url("fonts/UbuntuSansNerdFont-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "UbuntuSans NF";
+    src:    local("UbuntuSansNerdFont-BoldItalic"),
+            url("fonts/UbuntuSansNerdFont-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "UbuntuSans NF";
+    src:    local("UbuntuSansNerdFont-Italic"),
+            url("fonts/UbuntuSansNerdFont-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "UbuntuSans NF Medium";
+    src:    local("UbuntuSansNerdFont-Medium"),
+            url("fonts/UbuntuSansNerdFont-Medium.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "UbuntuSans NF Medium";
+    src:    local("UbuntuSansNerdFont-MediumItalic"),
+            url("fonts/UbuntuSansNerdFont-MediumItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "UbuntuSans NF";
+    src:    local("UbuntuSansNerdFont-Regular"),
+            url("fonts/UbuntuSansNerdFont-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "UbuntuSans NF SemiBold";
+    src:    local("UbuntuSansNerdFont-SemiBold"),
+            url("fonts/UbuntuSansNerdFont-SemiBold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "UbuntuSans NF SemiBold";
+    src:    local("UbuntuSansNerdFont-SemiBoldItalic"),
+            url("fonts/UbuntuSansNerdFont-SemiBoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "UbuntuSans NFP";
+    src:    local("UbuntuSansNerdFontPropo-Bold"),
+            url("fonts/UbuntuSansNerdFontPropo-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "UbuntuSans NFP";
+    src:    local("UbuntuSansNerdFontPropo-BoldItalic"),
+            url("fonts/UbuntuSansNerdFontPropo-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "UbuntuSans NFP";
+    src:    local("UbuntuSansNerdFontPropo-Italic"),
+            url("fonts/UbuntuSansNerdFontPropo-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "UbuntuSans NFP Medium";
+    src:    local("UbuntuSansNerdFontPropo-Medium"),
+            url("fonts/UbuntuSansNerdFontPropo-Medium.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "UbuntuSans NFP Medium";
+    src:    local("UbuntuSansNerdFontPropo-MediumItalic"),
+            url("fonts/UbuntuSansNerdFontPropo-MediumItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "UbuntuSans NFP";
+    src:    local("UbuntuSansNerdFontPropo-Regular"),
+            url("fonts/UbuntuSansNerdFontPropo-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "UbuntuSans NFP SemiBold";
+    src:    local("UbuntuSansNerdFontPropo-SemiBold"),
+            url("fonts/UbuntuSansNerdFontPropo-SemiBold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "UbuntuSans NFP SemiBold";
+    src:    local("UbuntuSansNerdFontPropo-SemiBoldItalic"),
+            url("fonts/UbuntuSansNerdFontPropo-SemiBoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 600;
+}

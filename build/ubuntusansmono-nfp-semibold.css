@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "UbuntuSansMono NFP SemiBold";
+    src:    local("UbuntuSansMonoNerdFontPropo-SemiBold"),
+            url("fonts/UbuntuSansMonoNerdFontPropo-SemiBold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "UbuntuSansMono NFP SemiBold";
+    src:    local("UbuntuSansMonoNerdFontPropo-SemiBoldItalic"),
+            url("fonts/UbuntuSansMonoNerdFontPropo-SemiBoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 600;
+}

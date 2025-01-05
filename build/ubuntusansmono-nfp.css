@@ -1,0 +1,32 @@
+@font-face {
+    font-family: "UbuntuSansMono NFP";
+    src:    local("UbuntuSansMonoNerdFontPropo-Bold"),
+            url("fonts/UbuntuSansMonoNerdFontPropo-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "UbuntuSansMono NFP";
+    src:    local("UbuntuSansMonoNerdFontPropo-BoldItalic"),
+            url("fonts/UbuntuSansMonoNerdFontPropo-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "UbuntuSansMono NFP";
+    src:    local("UbuntuSansMonoNerdFontPropo-Italic"),
+            url("fonts/UbuntuSansMonoNerdFontPropo-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "UbuntuSansMono NFP";
+    src:    local("UbuntuSansMonoNerdFontPropo-Regular"),
+            url("fonts/UbuntuSansMonoNerdFontPropo-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}

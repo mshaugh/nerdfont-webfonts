@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "UbuntuSansMono NFP Medium";
+    src:    local("UbuntuSansMonoNerdFontPropo-Medium"),
+            url("fonts/UbuntuSansMonoNerdFontPropo-Medium.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "UbuntuSansMono NFP Medium";
+    src:    local("UbuntuSansMonoNerdFontPropo-MediumItalic"),
+            url("fonts/UbuntuSansMonoNerdFontPropo-MediumItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 500;
+}
