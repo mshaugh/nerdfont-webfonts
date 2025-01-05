@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "FiraCode Nerd Font Propo";
+    src:    local("FiraCodeNerdFontPropo-Bold"),
+            url("fonts/FiraCodeNerdFontPropo-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "FiraCode Nerd Font Propo";
+    src:    local("FiraCodeNerdFontPropo-Regular"),
+            url("fonts/FiraCodeNerdFontPropo-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}

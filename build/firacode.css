@@ -1,0 +1,144 @@
+@font-face {
+    font-family: "FiraCode Nerd Font";
+    src:    local("FiraCodeNerdFont-Bold"),
+            url("fonts/FiraCodeNerdFont-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "FiraCode Nerd Font Light";
+    src:    local("FiraCodeNerdFont-Light"),
+            url("fonts/FiraCodeNerdFont-Light.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "FiraCode Nerd Font Med";
+    src:    local("FiraCodeNerdFont-Medium"),
+            url("fonts/FiraCodeNerdFont-Medium.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "FiraCode Nerd Font";
+    src:    local("FiraCodeNerdFont-Regular"),
+            url("fonts/FiraCodeNerdFont-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "FiraCode Nerd Font Ret";
+    src:    local("FiraCodeNerdFont-Retina"),
+            url("fonts/FiraCodeNerdFont-Retina.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "FiraCode Nerd Font SemBd";
+    src:    local("FiraCodeNerdFont-SemiBold"),
+            url("fonts/FiraCodeNerdFont-SemiBold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "FiraCode Nerd Font Mono";
+    src:    local("FiraCodeNerdFontMono-Bold"),
+            url("fonts/FiraCodeNerdFontMono-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "FiraCode Nerd Font Mono Light";
+    src:    local("FiraCodeNerdFontMono-Light"),
+            url("fonts/FiraCodeNerdFontMono-Light.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "FiraCode Nerd Font Mono Med";
+    src:    local("FiraCodeNerdFontMono-Medium"),
+            url("fonts/FiraCodeNerdFontMono-Medium.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "FiraCode Nerd Font Mono";
+    src:    local("FiraCodeNerdFontMono-Regular"),
+            url("fonts/FiraCodeNerdFontMono-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "FiraCode Nerd Font Mono Ret";
+    src:    local("FiraCodeNerdFontMono-Retina"),
+            url("fonts/FiraCodeNerdFontMono-Retina.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "FiraCode Nerd Font Mono SemBd";
+    src:    local("FiraCodeNerdFontMono-SemiBold"),
+            url("fonts/FiraCodeNerdFontMono-SemiBold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "FiraCode Nerd Font Propo";
+    src:    local("FiraCodeNerdFontPropo-Bold"),
+            url("fonts/FiraCodeNerdFontPropo-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "FiraCode Nerd Font Propo Light";
+    src:    local("FiraCodeNerdFontPropo-Light"),
+            url("fonts/FiraCodeNerdFontPropo-Light.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "FiraCode Nerd Font Propo Med";
+    src:    local("FiraCodeNerdFontPropo-Medium"),
+            url("fonts/FiraCodeNerdFontPropo-Medium.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "FiraCode Nerd Font Propo";
+    src:    local("FiraCodeNerdFontPropo-Regular"),
+            url("fonts/FiraCodeNerdFontPropo-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "FiraCode Nerd Font Propo Ret";
+    src:    local("FiraCodeNerdFontPropo-Retina"),
+            url("fonts/FiraCodeNerdFontPropo-Retina.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "FiraCode Nerd Font Propo SemBd";
+    src:    local("FiraCodeNerdFontPropo-SemiBold"),
+            url("fonts/FiraCodeNerdFontPropo-SemiBold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 600;
+}

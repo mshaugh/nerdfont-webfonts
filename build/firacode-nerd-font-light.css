@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "FiraCode Nerd Font Light";
+    src:    local("FiraCodeNerdFont-Light"),
+            url("fonts/FiraCodeNerdFont-Light.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}

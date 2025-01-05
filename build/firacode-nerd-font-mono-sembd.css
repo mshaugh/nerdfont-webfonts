@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "FiraCode Nerd Font Mono SemBd";
+    src:    local("FiraCodeNerdFontMono-SemiBold"),
+            url("fonts/FiraCodeNerdFontMono-SemiBold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 600;
+}
