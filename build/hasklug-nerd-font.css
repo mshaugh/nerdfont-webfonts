@@ -1,0 +1,112 @@
+@font-face {
+    font-family: "Hasklug Nerd Font";
+    src:    local("HasklugNerdFont-Black"),
+            url("fonts/HasklugNerdFont-Black.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 900;
+}
+@font-face {
+    font-family: "Hasklug Nerd Font";
+    src:    local("HasklugNerdFont-BlackItalic"),
+            url("fonts/HasklugNerdFont-BlackItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 900;
+}
+@font-face {
+    font-family: "Hasklug Nerd Font";
+    src:    local("HasklugNerdFont-Bold"),
+            url("fonts/HasklugNerdFont-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Hasklug Nerd Font";
+    src:    local("HasklugNerdFont-BoldItalic"),
+            url("fonts/HasklugNerdFont-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Hasklug Nerd Font";
+    src:    local("HasklugNerdFont-ExtraLight"),
+            url("fonts/HasklugNerdFont-ExtraLight.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 200;
+}
+@font-face {
+    font-family: "Hasklug Nerd Font";
+    src:    local("HasklugNerdFont-ExtraLightItalic"),
+            url("fonts/HasklugNerdFont-ExtraLightItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 200;
+}
+@font-face {
+    font-family: "Hasklug Nerd Font";
+    src:    local("HasklugNerdFont-Italic"),
+            url("fonts/HasklugNerdFont-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Hasklug Nerd Font";
+    src:    local("HasklugNerdFont-Light"),
+            url("fonts/HasklugNerdFont-Light.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "Hasklug Nerd Font";
+    src:    local("HasklugNerdFont-LightItalic"),
+            url("fonts/HasklugNerdFont-LightItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "Hasklug Nerd Font";
+    src:    local("HasklugNerdFont-Medium"),
+            url("fonts/HasklugNerdFont-Medium.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "Hasklug Nerd Font";
+    src:    local("HasklugNerdFont-MediumItalic"),
+            url("fonts/HasklugNerdFont-MediumItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "Hasklug Nerd Font";
+    src:    local("HasklugNerdFont-Regular"),
+            url("fonts/HasklugNerdFont-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Hasklug Nerd Font";
+    src:    local("HasklugNerdFont-SemiBold"),
+            url("fonts/HasklugNerdFont-SemiBold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "Hasklug Nerd Font";
+    src:    local("HasklugNerdFont-SemiBoldItalic"),
+            url("fonts/HasklugNerdFont-SemiBoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 600;
+}

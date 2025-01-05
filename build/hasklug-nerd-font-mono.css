@@ -1,0 +1,112 @@
+@font-face {
+    font-family: "Hasklug Nerd Font Mono";
+    src:    local("HasklugNerdFontMono-Black"),
+            url("fonts/HasklugNerdFontMono-Black.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 900;
+}
+@font-face {
+    font-family: "Hasklug Nerd Font Mono";
+    src:    local("HasklugNerdFontMono-BlackItalic"),
+            url("fonts/HasklugNerdFontMono-BlackItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 900;
+}
+@font-face {
+    font-family: "Hasklug Nerd Font Mono";
+    src:    local("HasklugNerdFontMono-Bold"),
+            url("fonts/HasklugNerdFontMono-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Hasklug Nerd Font Mono";
+    src:    local("HasklugNerdFontMono-BoldItalic"),
+            url("fonts/HasklugNerdFontMono-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Hasklug Nerd Font Mono";
+    src:    local("HasklugNerdFontMono-ExtraLight"),
+            url("fonts/HasklugNerdFontMono-ExtraLight.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 200;
+}
+@font-face {
+    font-family: "Hasklug Nerd Font Mono";
+    src:    local("HasklugNerdFontMono-ExtraLightItalic"),
+            url("fonts/HasklugNerdFontMono-ExtraLightItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 200;
+}
+@font-face {
+    font-family: "Hasklug Nerd Font Mono";
+    src:    local("HasklugNerdFontMono-Italic"),
+            url("fonts/HasklugNerdFontMono-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Hasklug Nerd Font Mono";
+    src:    local("HasklugNerdFontMono-Light"),
+            url("fonts/HasklugNerdFontMono-Light.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "Hasklug Nerd Font Mono";
+    src:    local("HasklugNerdFontMono-LightItalic"),
+            url("fonts/HasklugNerdFontMono-LightItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "Hasklug Nerd Font Mono";
+    src:    local("HasklugNerdFontMono-Medium"),
+            url("fonts/HasklugNerdFontMono-Medium.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "Hasklug Nerd Font Mono";
+    src:    local("HasklugNerdFontMono-MediumItalic"),
+            url("fonts/HasklugNerdFontMono-MediumItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "Hasklug Nerd Font Mono";
+    src:    local("HasklugNerdFontMono-Regular"),
+            url("fonts/HasklugNerdFontMono-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Hasklug Nerd Font Mono";
+    src:    local("HasklugNerdFontMono-SemiBold"),
+            url("fonts/HasklugNerdFontMono-SemiBold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "Hasklug Nerd Font Mono";
+    src:    local("HasklugNerdFontMono-SemiBoldItalic"),
+            url("fonts/HasklugNerdFontMono-SemiBoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 600;
+}
