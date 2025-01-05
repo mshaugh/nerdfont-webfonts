@@ -1,0 +1,64 @@
+@font-face {
+    font-family: "MonaspiceAr Nerd Font Mono";
+    src:    local("MonaspiceArNerdFontMono-Bold"),
+            url("fonts/MonaspiceArNerdFontMono-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "MonaspiceAr Nerd Font Mono";
+    src:    local("MonaspiceArNerdFontMono-BoldItalic"),
+            url("fonts/MonaspiceArNerdFontMono-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "MonaspiceAr Nerd Font Mono";
+    src:    local("MonaspiceArNerdFontMono-Italic"),
+            url("fonts/MonaspiceArNerdFontMono-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "MonaspiceAr Nerd Font Mono";
+    src:    local("MonaspiceArNerdFontMono-Light"),
+            url("fonts/MonaspiceArNerdFontMono-Light.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "MonaspiceAr Nerd Font Mono";
+    src:    local("MonaspiceArNerdFontMono-LightItalic"),
+            url("fonts/MonaspiceArNerdFontMono-LightItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "MonaspiceAr Nerd Font Mono";
+    src:    local("MonaspiceArNerdFontMono-Medium"),
+            url("fonts/MonaspiceArNerdFontMono-Medium.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "MonaspiceAr Nerd Font Mono";
+    src:    local("MonaspiceArNerdFontMono-MediumItalic"),
+            url("fonts/MonaspiceArNerdFontMono-MediumItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "MonaspiceAr Nerd Font Mono";
+    src:    local("MonaspiceArNerdFontMono-Regular"),
+            url("fonts/MonaspiceArNerdFontMono-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}

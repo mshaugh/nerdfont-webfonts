@@ -1,0 +1,960 @@
+@font-face {
+    font-family: "MonaspiceAr Nerd Font";
+    src:    local("MonaspiceArNerdFont-Bold"),
+            url("fonts/MonaspiceArNerdFont-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "MonaspiceAr Nerd Font";
+    src:    local("MonaspiceArNerdFont-BoldItalic"),
+            url("fonts/MonaspiceArNerdFont-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "MonaspiceAr Nerd Font";
+    src:    local("MonaspiceArNerdFont-Italic"),
+            url("fonts/MonaspiceArNerdFont-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "MonaspiceAr Nerd Font";
+    src:    local("MonaspiceArNerdFont-Light"),
+            url("fonts/MonaspiceArNerdFont-Light.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "MonaspiceAr Nerd Font";
+    src:    local("MonaspiceArNerdFont-LightItalic"),
+            url("fonts/MonaspiceArNerdFont-LightItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "MonaspiceAr Nerd Font";
+    src:    local("MonaspiceArNerdFont-Medium"),
+            url("fonts/MonaspiceArNerdFont-Medium.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "MonaspiceAr Nerd Font";
+    src:    local("MonaspiceArNerdFont-MediumItalic"),
+            url("fonts/MonaspiceArNerdFont-MediumItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "MonaspiceAr Nerd Font";
+    src:    local("MonaspiceArNerdFont-Regular"),
+            url("fonts/MonaspiceArNerdFont-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "MonaspiceAr Nerd Font Mono";
+    src:    local("MonaspiceArNerdFontMono-Bold"),
+            url("fonts/MonaspiceArNerdFontMono-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "MonaspiceAr Nerd Font Mono";
+    src:    local("MonaspiceArNerdFontMono-BoldItalic"),
+            url("fonts/MonaspiceArNerdFontMono-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "MonaspiceAr Nerd Font Mono";
+    src:    local("MonaspiceArNerdFontMono-Italic"),
+            url("fonts/MonaspiceArNerdFontMono-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "MonaspiceAr Nerd Font Mono";
+    src:    local("MonaspiceArNerdFontMono-Light"),
+            url("fonts/MonaspiceArNerdFontMono-Light.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "MonaspiceAr Nerd Font Mono";
+    src:    local("MonaspiceArNerdFontMono-LightItalic"),
+            url("fonts/MonaspiceArNerdFontMono-LightItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "MonaspiceAr Nerd Font Mono";
+    src:    local("MonaspiceArNerdFontMono-Medium"),
+            url("fonts/MonaspiceArNerdFontMono-Medium.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "MonaspiceAr Nerd Font Mono";
+    src:    local("MonaspiceArNerdFontMono-MediumItalic"),
+            url("fonts/MonaspiceArNerdFontMono-MediumItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "MonaspiceAr Nerd Font Mono";
+    src:    local("MonaspiceArNerdFontMono-Regular"),
+            url("fonts/MonaspiceArNerdFontMono-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "MonaspiceAr Nerd Font Propo";
+    src:    local("MonaspiceArNerdFontPropo-Bold"),
+            url("fonts/MonaspiceArNerdFontPropo-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "MonaspiceAr Nerd Font Propo";
+    src:    local("MonaspiceArNerdFontPropo-BoldItalic"),
+            url("fonts/MonaspiceArNerdFontPropo-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "MonaspiceAr Nerd Font Propo";
+    src:    local("MonaspiceArNerdFontPropo-Italic"),
+            url("fonts/MonaspiceArNerdFontPropo-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "MonaspiceAr Nerd Font Propo";
+    src:    local("MonaspiceArNerdFontPropo-Light"),
+            url("fonts/MonaspiceArNerdFontPropo-Light.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "MonaspiceAr Nerd Font Propo";
+    src:    local("MonaspiceArNerdFontPropo-LightItalic"),
+            url("fonts/MonaspiceArNerdFontPropo-LightItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "MonaspiceAr Nerd Font Propo";
+    src:    local("MonaspiceArNerdFontPropo-Medium"),
+            url("fonts/MonaspiceArNerdFontPropo-Medium.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "MonaspiceAr Nerd Font Propo";
+    src:    local("MonaspiceArNerdFontPropo-MediumItalic"),
+            url("fonts/MonaspiceArNerdFontPropo-MediumItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "MonaspiceAr Nerd Font Propo";
+    src:    local("MonaspiceArNerdFontPropo-Regular"),
+            url("fonts/MonaspiceArNerdFontPropo-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "MonaspiceKr Nerd Font";
+    src:    local("MonaspiceKrNerdFont-Bold"),
+            url("fonts/MonaspiceKrNerdFont-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "MonaspiceKr Nerd Font";
+    src:    local("MonaspiceKrNerdFont-BoldItalic"),
+            url("fonts/MonaspiceKrNerdFont-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "MonaspiceKr Nerd Font";
+    src:    local("MonaspiceKrNerdFont-Italic"),
+            url("fonts/MonaspiceKrNerdFont-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "MonaspiceKr Nerd Font";
+    src:    local("MonaspiceKrNerdFont-Light"),
+            url("fonts/MonaspiceKrNerdFont-Light.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "MonaspiceKr Nerd Font";
+    src:    local("MonaspiceKrNerdFont-LightItalic"),
+            url("fonts/MonaspiceKrNerdFont-LightItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "MonaspiceKr Nerd Font";
+    src:    local("MonaspiceKrNerdFont-Medium"),
+            url("fonts/MonaspiceKrNerdFont-Medium.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "MonaspiceKr Nerd Font";
+    src:    local("MonaspiceKrNerdFont-MediumItalic"),
+            url("fonts/MonaspiceKrNerdFont-MediumItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "MonaspiceKr Nerd Font";
+    src:    local("MonaspiceKrNerdFont-Regular"),
+            url("fonts/MonaspiceKrNerdFont-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "MonaspiceKr Nerd Font Mono";
+    src:    local("MonaspiceKrNerdFontMono-Bold"),
+            url("fonts/MonaspiceKrNerdFontMono-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "MonaspiceKr Nerd Font Mono";
+    src:    local("MonaspiceKrNerdFontMono-BoldItalic"),
+            url("fonts/MonaspiceKrNerdFontMono-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "MonaspiceKr Nerd Font Mono";
+    src:    local("MonaspiceKrNerdFontMono-Italic"),
+            url("fonts/MonaspiceKrNerdFontMono-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "MonaspiceKr Nerd Font Mono";
+    src:    local("MonaspiceKrNerdFontMono-Light"),
+            url("fonts/MonaspiceKrNerdFontMono-Light.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "MonaspiceKr Nerd Font Mono";
+    src:    local("MonaspiceKrNerdFontMono-LightItalic"),
+            url("fonts/MonaspiceKrNerdFontMono-LightItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "MonaspiceKr Nerd Font Mono";
+    src:    local("MonaspiceKrNerdFontMono-Medium"),
+            url("fonts/MonaspiceKrNerdFontMono-Medium.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "MonaspiceKr Nerd Font Mono";
+    src:    local("MonaspiceKrNerdFontMono-MediumItalic"),
+            url("fonts/MonaspiceKrNerdFontMono-MediumItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "MonaspiceKr Nerd Font Mono";
+    src:    local("MonaspiceKrNerdFontMono-Regular"),
+            url("fonts/MonaspiceKrNerdFontMono-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "MonaspiceKr Nerd Font Propo";
+    src:    local("MonaspiceKrNerdFontPropo-Bold"),
+            url("fonts/MonaspiceKrNerdFontPropo-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "MonaspiceKr Nerd Font Propo";
+    src:    local("MonaspiceKrNerdFontPropo-BoldItalic"),
+            url("fonts/MonaspiceKrNerdFontPropo-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "MonaspiceKr Nerd Font Propo";
+    src:    local("MonaspiceKrNerdFontPropo-Italic"),
+            url("fonts/MonaspiceKrNerdFontPropo-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "MonaspiceKr Nerd Font Propo";
+    src:    local("MonaspiceKrNerdFontPropo-Light"),
+            url("fonts/MonaspiceKrNerdFontPropo-Light.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "MonaspiceKr Nerd Font Propo";
+    src:    local("MonaspiceKrNerdFontPropo-LightItalic"),
+            url("fonts/MonaspiceKrNerdFontPropo-LightItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "MonaspiceKr Nerd Font Propo";
+    src:    local("MonaspiceKrNerdFontPropo-Medium"),
+            url("fonts/MonaspiceKrNerdFontPropo-Medium.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "MonaspiceKr Nerd Font Propo";
+    src:    local("MonaspiceKrNerdFontPropo-MediumItalic"),
+            url("fonts/MonaspiceKrNerdFontPropo-MediumItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "MonaspiceKr Nerd Font Propo";
+    src:    local("MonaspiceKrNerdFontPropo-Regular"),
+            url("fonts/MonaspiceKrNerdFontPropo-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "MonaspiceNe Nerd Font";
+    src:    local("MonaspiceNeNerdFont-Bold"),
+            url("fonts/MonaspiceNeNerdFont-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "MonaspiceNe Nerd Font";
+    src:    local("MonaspiceNeNerdFont-BoldItalic"),
+            url("fonts/MonaspiceNeNerdFont-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "MonaspiceNe Nerd Font";
+    src:    local("MonaspiceNeNerdFont-Italic"),
+            url("fonts/MonaspiceNeNerdFont-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "MonaspiceNe Nerd Font";
+    src:    local("MonaspiceNeNerdFont-Light"),
+            url("fonts/MonaspiceNeNerdFont-Light.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "MonaspiceNe Nerd Font";
+    src:    local("MonaspiceNeNerdFont-LightItalic"),
+            url("fonts/MonaspiceNeNerdFont-LightItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "MonaspiceNe Nerd Font";
+    src:    local("MonaspiceNeNerdFont-Medium"),
+            url("fonts/MonaspiceNeNerdFont-Medium.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "MonaspiceNe Nerd Font";
+    src:    local("MonaspiceNeNerdFont-MediumItalic"),
+            url("fonts/MonaspiceNeNerdFont-MediumItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "MonaspiceNe Nerd Font";
+    src:    local("MonaspiceNeNerdFont-Regular"),
+            url("fonts/MonaspiceNeNerdFont-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "MonaspiceNe Nerd Font Mono";
+    src:    local("MonaspiceNeNerdFontMono-Bold"),
+            url("fonts/MonaspiceNeNerdFontMono-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "MonaspiceNe Nerd Font Mono";
+    src:    local("MonaspiceNeNerdFontMono-BoldItalic"),
+            url("fonts/MonaspiceNeNerdFontMono-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "MonaspiceNe Nerd Font Mono";
+    src:    local("MonaspiceNeNerdFontMono-Italic"),
+            url("fonts/MonaspiceNeNerdFontMono-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "MonaspiceNe Nerd Font Mono";
+    src:    local("MonaspiceNeNerdFontMono-Light"),
+            url("fonts/MonaspiceNeNerdFontMono-Light.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "MonaspiceNe Nerd Font Mono";
+    src:    local("MonaspiceNeNerdFontMono-LightItalic"),
+            url("fonts/MonaspiceNeNerdFontMono-LightItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "MonaspiceNe Nerd Font Mono";
+    src:    local("MonaspiceNeNerdFontMono-Medium"),
+            url("fonts/MonaspiceNeNerdFontMono-Medium.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "MonaspiceNe Nerd Font Mono";
+    src:    local("MonaspiceNeNerdFontMono-MediumItalic"),
+            url("fonts/MonaspiceNeNerdFontMono-MediumItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "MonaspiceNe Nerd Font Mono";
+    src:    local("MonaspiceNeNerdFontMono-Regular"),
+            url("fonts/MonaspiceNeNerdFontMono-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "MonaspiceNe Nerd Font Propo";
+    src:    local("MonaspiceNeNerdFontPropo-Bold"),
+            url("fonts/MonaspiceNeNerdFontPropo-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "MonaspiceNe Nerd Font Propo";
+    src:    local("MonaspiceNeNerdFontPropo-BoldItalic"),
+            url("fonts/MonaspiceNeNerdFontPropo-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "MonaspiceNe Nerd Font Propo";
+    src:    local("MonaspiceNeNerdFontPropo-Italic"),
+            url("fonts/MonaspiceNeNerdFontPropo-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "MonaspiceNe Nerd Font Propo";
+    src:    local("MonaspiceNeNerdFontPropo-Light"),
+            url("fonts/MonaspiceNeNerdFontPropo-Light.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "MonaspiceNe Nerd Font Propo";
+    src:    local("MonaspiceNeNerdFontPropo-LightItalic"),
+            url("fonts/MonaspiceNeNerdFontPropo-LightItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "MonaspiceNe Nerd Font Propo";
+    src:    local("MonaspiceNeNerdFontPropo-Medium"),
+            url("fonts/MonaspiceNeNerdFontPropo-Medium.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "MonaspiceNe Nerd Font Propo";
+    src:    local("MonaspiceNeNerdFontPropo-MediumItalic"),
+            url("fonts/MonaspiceNeNerdFontPropo-MediumItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "MonaspiceNe Nerd Font Propo";
+    src:    local("MonaspiceNeNerdFontPropo-Regular"),
+            url("fonts/MonaspiceNeNerdFontPropo-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "MonaspiceRn Nerd Font";
+    src:    local("MonaspiceRnNerdFont-Bold"),
+            url("fonts/MonaspiceRnNerdFont-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "MonaspiceRn Nerd Font";
+    src:    local("MonaspiceRnNerdFont-BoldItalic"),
+            url("fonts/MonaspiceRnNerdFont-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "MonaspiceRn Nerd Font";
+    src:    local("MonaspiceRnNerdFont-Italic"),
+            url("fonts/MonaspiceRnNerdFont-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "MonaspiceRn Nerd Font";
+    src:    local("MonaspiceRnNerdFont-Light"),
+            url("fonts/MonaspiceRnNerdFont-Light.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "MonaspiceRn Nerd Font";
+    src:    local("MonaspiceRnNerdFont-LightItalic"),
+            url("fonts/MonaspiceRnNerdFont-LightItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "MonaspiceRn Nerd Font";
+    src:    local("MonaspiceRnNerdFont-Medium"),
+            url("fonts/MonaspiceRnNerdFont-Medium.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "MonaspiceRn Nerd Font";
+    src:    local("MonaspiceRnNerdFont-MediumItalic"),
+            url("fonts/MonaspiceRnNerdFont-MediumItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "MonaspiceRn Nerd Font";
+    src:    local("MonaspiceRnNerdFont-Regular"),
+            url("fonts/MonaspiceRnNerdFont-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "MonaspiceRn Nerd Font Mono";
+    src:    local("MonaspiceRnNerdFontMono-Bold"),
+            url("fonts/MonaspiceRnNerdFontMono-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "MonaspiceRn Nerd Font Mono";
+    src:    local("MonaspiceRnNerdFontMono-BoldItalic"),
+            url("fonts/MonaspiceRnNerdFontMono-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "MonaspiceRn Nerd Font Mono";
+    src:    local("MonaspiceRnNerdFontMono-Italic"),
+            url("fonts/MonaspiceRnNerdFontMono-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "MonaspiceRn Nerd Font Mono";
+    src:    local("MonaspiceRnNerdFontMono-Light"),
+            url("fonts/MonaspiceRnNerdFontMono-Light.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "MonaspiceRn Nerd Font Mono";
+    src:    local("MonaspiceRnNerdFontMono-LightItalic"),
+            url("fonts/MonaspiceRnNerdFontMono-LightItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "MonaspiceRn Nerd Font Mono";
+    src:    local("MonaspiceRnNerdFontMono-Medium"),
+            url("fonts/MonaspiceRnNerdFontMono-Medium.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "MonaspiceRn Nerd Font Mono";
+    src:    local("MonaspiceRnNerdFontMono-MediumItalic"),
+            url("fonts/MonaspiceRnNerdFontMono-MediumItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "MonaspiceRn Nerd Font Mono";
+    src:    local("MonaspiceRnNerdFontMono-Regular"),
+            url("fonts/MonaspiceRnNerdFontMono-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "MonaspiceRn Nerd Font Propo";
+    src:    local("MonaspiceRnNerdFontPropo-Bold"),
+            url("fonts/MonaspiceRnNerdFontPropo-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "MonaspiceRn Nerd Font Propo";
+    src:    local("MonaspiceRnNerdFontPropo-BoldItalic"),
+            url("fonts/MonaspiceRnNerdFontPropo-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "MonaspiceRn Nerd Font Propo";
+    src:    local("MonaspiceRnNerdFontPropo-Italic"),
+            url("fonts/MonaspiceRnNerdFontPropo-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "MonaspiceRn Nerd Font Propo";
+    src:    local("MonaspiceRnNerdFontPropo-Light"),
+            url("fonts/MonaspiceRnNerdFontPropo-Light.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "MonaspiceRn Nerd Font Propo";
+    src:    local("MonaspiceRnNerdFontPropo-LightItalic"),
+            url("fonts/MonaspiceRnNerdFontPropo-LightItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "MonaspiceRn Nerd Font Propo";
+    src:    local("MonaspiceRnNerdFontPropo-Medium"),
+            url("fonts/MonaspiceRnNerdFontPropo-Medium.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "MonaspiceRn Nerd Font Propo";
+    src:    local("MonaspiceRnNerdFontPropo-MediumItalic"),
+            url("fonts/MonaspiceRnNerdFontPropo-MediumItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "MonaspiceRn Nerd Font Propo";
+    src:    local("MonaspiceRnNerdFontPropo-Regular"),
+            url("fonts/MonaspiceRnNerdFontPropo-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "MonaspiceXe Nerd Font";
+    src:    local("MonaspiceXeNerdFont-Bold"),
+            url("fonts/MonaspiceXeNerdFont-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "MonaspiceXe Nerd Font";
+    src:    local("MonaspiceXeNerdFont-BoldItalic"),
+            url("fonts/MonaspiceXeNerdFont-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "MonaspiceXe Nerd Font";
+    src:    local("MonaspiceXeNerdFont-Italic"),
+            url("fonts/MonaspiceXeNerdFont-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "MonaspiceXe Nerd Font";
+    src:    local("MonaspiceXeNerdFont-Light"),
+            url("fonts/MonaspiceXeNerdFont-Light.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "MonaspiceXe Nerd Font";
+    src:    local("MonaspiceXeNerdFont-LightItalic"),
+            url("fonts/MonaspiceXeNerdFont-LightItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "MonaspiceXe Nerd Font";
+    src:    local("MonaspiceXeNerdFont-Medium"),
+            url("fonts/MonaspiceXeNerdFont-Medium.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "MonaspiceXe Nerd Font";
+    src:    local("MonaspiceXeNerdFont-MediumItalic"),
+            url("fonts/MonaspiceXeNerdFont-MediumItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "MonaspiceXe Nerd Font";
+    src:    local("MonaspiceXeNerdFont-Regular"),
+            url("fonts/MonaspiceXeNerdFont-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "MonaspiceXe Nerd Font Mono";
+    src:    local("MonaspiceXeNerdFontMono-Bold"),
+            url("fonts/MonaspiceXeNerdFontMono-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "MonaspiceXe Nerd Font Mono";
+    src:    local("MonaspiceXeNerdFontMono-BoldItalic"),
+            url("fonts/MonaspiceXeNerdFontMono-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "MonaspiceXe Nerd Font Mono";
+    src:    local("MonaspiceXeNerdFontMono-Italic"),
+            url("fonts/MonaspiceXeNerdFontMono-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "MonaspiceXe Nerd Font Mono";
+    src:    local("MonaspiceXeNerdFontMono-Light"),
+            url("fonts/MonaspiceXeNerdFontMono-Light.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "MonaspiceXe Nerd Font Mono";
+    src:    local("MonaspiceXeNerdFontMono-LightItalic"),
+            url("fonts/MonaspiceXeNerdFontMono-LightItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "MonaspiceXe Nerd Font Mono";
+    src:    local("MonaspiceXeNerdFontMono-Medium"),
+            url("fonts/MonaspiceXeNerdFontMono-Medium.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "MonaspiceXe Nerd Font Mono";
+    src:    local("MonaspiceXeNerdFontMono-MediumItalic"),
+            url("fonts/MonaspiceXeNerdFontMono-MediumItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "MonaspiceXe Nerd Font Mono";
+    src:    local("MonaspiceXeNerdFontMono-Regular"),
+            url("fonts/MonaspiceXeNerdFontMono-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "MonaspiceXe Nerd Font Propo";
+    src:    local("MonaspiceXeNerdFontPropo-Bold"),
+            url("fonts/MonaspiceXeNerdFontPropo-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "MonaspiceXe Nerd Font Propo";
+    src:    local("MonaspiceXeNerdFontPropo-BoldItalic"),
+            url("fonts/MonaspiceXeNerdFontPropo-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "MonaspiceXe Nerd Font Propo";
+    src:    local("MonaspiceXeNerdFontPropo-Italic"),
+            url("fonts/MonaspiceXeNerdFontPropo-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "MonaspiceXe Nerd Font Propo";
+    src:    local("MonaspiceXeNerdFontPropo-Light"),
+            url("fonts/MonaspiceXeNerdFontPropo-Light.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "MonaspiceXe Nerd Font Propo";
+    src:    local("MonaspiceXeNerdFontPropo-LightItalic"),
+            url("fonts/MonaspiceXeNerdFontPropo-LightItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "MonaspiceXe Nerd Font Propo";
+    src:    local("MonaspiceXeNerdFontPropo-Medium"),
+            url("fonts/MonaspiceXeNerdFontPropo-Medium.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "MonaspiceXe Nerd Font Propo";
+    src:    local("MonaspiceXeNerdFontPropo-MediumItalic"),
+            url("fonts/MonaspiceXeNerdFontPropo-MediumItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "MonaspiceXe Nerd Font Propo";
+    src:    local("MonaspiceXeNerdFontPropo-Regular"),
+            url("fonts/MonaspiceXeNerdFontPropo-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}

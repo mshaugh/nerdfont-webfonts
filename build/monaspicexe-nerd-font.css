@@ -1,0 +1,64 @@
+@font-face {
+    font-family: "MonaspiceXe Nerd Font";
+    src:    local("MonaspiceXeNerdFont-Bold"),
+            url("fonts/MonaspiceXeNerdFont-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "MonaspiceXe Nerd Font";
+    src:    local("MonaspiceXeNerdFont-BoldItalic"),
+            url("fonts/MonaspiceXeNerdFont-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "MonaspiceXe Nerd Font";
+    src:    local("MonaspiceXeNerdFont-Italic"),
+            url("fonts/MonaspiceXeNerdFont-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "MonaspiceXe Nerd Font";
+    src:    local("MonaspiceXeNerdFont-Light"),
+            url("fonts/MonaspiceXeNerdFont-Light.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "MonaspiceXe Nerd Font";
+    src:    local("MonaspiceXeNerdFont-LightItalic"),
+            url("fonts/MonaspiceXeNerdFont-LightItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "MonaspiceXe Nerd Font";
+    src:    local("MonaspiceXeNerdFont-Medium"),
+            url("fonts/MonaspiceXeNerdFont-Medium.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "MonaspiceXe Nerd Font";
+    src:    local("MonaspiceXeNerdFont-MediumItalic"),
+            url("fonts/MonaspiceXeNerdFont-MediumItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "MonaspiceXe Nerd Font";
+    src:    local("MonaspiceXeNerdFont-Regular"),
+            url("fonts/MonaspiceXeNerdFont-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}

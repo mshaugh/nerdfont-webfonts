@@ -1,0 +1,64 @@
+@font-face {
+    font-family: "MonaspiceAr Nerd Font Propo";
+    src:    local("MonaspiceArNerdFontPropo-Bold"),
+            url("fonts/MonaspiceArNerdFontPropo-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "MonaspiceAr Nerd Font Propo";
+    src:    local("MonaspiceArNerdFontPropo-BoldItalic"),
+            url("fonts/MonaspiceArNerdFontPropo-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "MonaspiceAr Nerd Font Propo";
+    src:    local("MonaspiceArNerdFontPropo-Italic"),
+            url("fonts/MonaspiceArNerdFontPropo-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "MonaspiceAr Nerd Font Propo";
+    src:    local("MonaspiceArNerdFontPropo-Light"),
+            url("fonts/MonaspiceArNerdFontPropo-Light.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "MonaspiceAr Nerd Font Propo";
+    src:    local("MonaspiceArNerdFontPropo-LightItalic"),
+            url("fonts/MonaspiceArNerdFontPropo-LightItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "MonaspiceAr Nerd Font Propo";
+    src:    local("MonaspiceArNerdFontPropo-Medium"),
+            url("fonts/MonaspiceArNerdFontPropo-Medium.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "MonaspiceAr Nerd Font Propo";
+    src:    local("MonaspiceArNerdFontPropo-MediumItalic"),
+            url("fonts/MonaspiceArNerdFontPropo-MediumItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "MonaspiceAr Nerd Font Propo";
+    src:    local("MonaspiceArNerdFontPropo-Regular"),
+            url("fonts/MonaspiceArNerdFontPropo-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}

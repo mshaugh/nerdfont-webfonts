@@ -1,0 +1,64 @@
+@font-face {
+    font-family: "MonaspiceXe Nerd Font Mono";
+    src:    local("MonaspiceXeNerdFontMono-Bold"),
+            url("fonts/MonaspiceXeNerdFontMono-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "MonaspiceXe Nerd Font Mono";
+    src:    local("MonaspiceXeNerdFontMono-BoldItalic"),
+            url("fonts/MonaspiceXeNerdFontMono-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "MonaspiceXe Nerd Font Mono";
+    src:    local("MonaspiceXeNerdFontMono-Italic"),
+            url("fonts/MonaspiceXeNerdFontMono-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "MonaspiceXe Nerd Font Mono";
+    src:    local("MonaspiceXeNerdFontMono-Light"),
+            url("fonts/MonaspiceXeNerdFontMono-Light.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "MonaspiceXe Nerd Font Mono";
+    src:    local("MonaspiceXeNerdFontMono-LightItalic"),
+            url("fonts/MonaspiceXeNerdFontMono-LightItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "MonaspiceXe Nerd Font Mono";
+    src:    local("MonaspiceXeNerdFontMono-Medium"),
+            url("fonts/MonaspiceXeNerdFontMono-Medium.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "MonaspiceXe Nerd Font Mono";
+    src:    local("MonaspiceXeNerdFontMono-MediumItalic"),
+            url("fonts/MonaspiceXeNerdFontMono-MediumItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "MonaspiceXe Nerd Font Mono";
+    src:    local("MonaspiceXeNerdFontMono-Regular"),
+            url("fonts/MonaspiceXeNerdFontMono-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
