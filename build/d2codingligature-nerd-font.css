@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "D2CodingLigature Nerd Font";
+    src:    local("D2CodingLigatureNerdFont-Bold"),
+            url("fonts/D2CodingLigatureNerdFont-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "D2CodingLigature Nerd Font";
+    src:    local("D2CodingLigatureNerdFont-Regular"),
+            url("fonts/D2CodingLigatureNerdFont-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}

@@ -1,0 +1,48 @@
+@font-face {
+    font-family: "D2CodingLigature Nerd Font";
+    src:    local("D2CodingLigatureNerdFont-Bold"),
+            url("fonts/D2CodingLigatureNerdFont-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "D2CodingLigature Nerd Font";
+    src:    local("D2CodingLigatureNerdFont-Regular"),
+            url("fonts/D2CodingLigatureNerdFont-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "D2CodingLigature Nerd Font Mono";
+    src:    local("D2CodingLigatureNerdFontMono-Bold"),
+            url("fonts/D2CodingLigatureNerdFontMono-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "D2CodingLigature Nerd Font Mono";
+    src:    local("D2CodingLigatureNerdFontMono-Regular"),
+            url("fonts/D2CodingLigatureNerdFontMono-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "D2CodingLigature Nerd Font Propo";
+    src:    local("D2CodingLigatureNerdFontPropo-Bold"),
+            url("fonts/D2CodingLigatureNerdFontPropo-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "D2CodingLigature Nerd Font Propo";
+    src:    local("D2CodingLigatureNerdFontPropo-Regular"),
+            url("fonts/D2CodingLigatureNerdFontPropo-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
