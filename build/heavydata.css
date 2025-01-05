@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "HeavyData Nerd Font";
+    src:    local("HeavyDataNerdFont-Regular"),
+            url("fonts/HeavyDataNerdFont-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 900;
+}
+@font-face {
+    font-family: "HeavyData Nerd Font Propo";
+    src:    local("HeavyDataNerdFontPropo-Regular"),
+            url("fonts/HeavyDataNerdFontPropo-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 900;
+}
