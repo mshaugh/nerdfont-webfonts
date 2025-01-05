@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "CaskaydiaMono NFP ExtraLight";
+    src:    local("CaskaydiaMonoNerdFontPropo-ExtraLight"),
+            url("fonts/CaskaydiaMonoNerdFontPropo-ExtraLight.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 200;
+}
+@font-face {
+    font-family: "CaskaydiaMono NFP ExtraLight";
+    src:    local("CaskaydiaMonoNerdFontPropo-ExtraLightItalic"),
+            url("fonts/CaskaydiaMonoNerdFontPropo-ExtraLightItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 200;
+}

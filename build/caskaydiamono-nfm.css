@@ -1,0 +1,32 @@
+@font-face {
+    font-family: "CaskaydiaMono NFM";
+    src:    local("CaskaydiaMonoNerdFontMono-Bold"),
+            url("fonts/CaskaydiaMonoNerdFontMono-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "CaskaydiaMono NFM";
+    src:    local("CaskaydiaMonoNerdFontMono-BoldItalic"),
+            url("fonts/CaskaydiaMonoNerdFontMono-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "CaskaydiaMono NFM";
+    src:    local("CaskaydiaMonoNerdFontMono-Italic"),
+            url("fonts/CaskaydiaMonoNerdFontMono-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "CaskaydiaMono NFM";
+    src:    local("CaskaydiaMonoNerdFontMono-Regular"),
+            url("fonts/CaskaydiaMonoNerdFontMono-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
