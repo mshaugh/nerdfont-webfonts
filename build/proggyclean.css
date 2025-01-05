@@ -1,0 +1,72 @@
+@font-face {
+    font-family: "ProggyClean CE Nerd Font";
+    src:    local("ProggyCleanCENerdFont-Regular"),
+            url("fonts/ProggyCleanCENerdFont-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "ProggyClean CE Nerd Font Mono";
+    src:    local("ProggyCleanCENerdFontMono-Regular"),
+            url("fonts/ProggyCleanCENerdFontMono-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "ProggyClean CE Nerd Font Propo";
+    src:    local("ProggyCleanCENerdFontPropo-Regular"),
+            url("fonts/ProggyCleanCENerdFontPropo-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "ProggyClean Nerd Font";
+    src:    local("ProggyCleanNerdFont-Regular"),
+            url("fonts/ProggyCleanNerdFont-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "ProggyClean Nerd Font Mono";
+    src:    local("ProggyCleanNerdFontMono-Regular"),
+            url("fonts/ProggyCleanNerdFontMono-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "ProggyClean Nerd Font Propo";
+    src:    local("ProggyCleanNerdFontPropo-Regular"),
+            url("fonts/ProggyCleanNerdFontPropo-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "ProggyCleanSZ Nerd Font";
+    src:    local("ProggyCleanSZNerdFont-Regular"),
+            url("fonts/ProggyCleanSZNerdFont-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "ProggyCleanSZ Nerd Font Mono";
+    src:    local("ProggyCleanSZNerdFontMono-Regular"),
+            url("fonts/ProggyCleanSZNerdFontMono-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "ProggyCleanSZ Nerd Font Propo";
+    src:    local("ProggyCleanSZNerdFontPropo-Regular"),
+            url("fonts/ProggyCleanSZNerdFontPropo-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}

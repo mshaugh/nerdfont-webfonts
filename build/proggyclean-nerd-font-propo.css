@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "ProggyClean Nerd Font Propo";
+    src:    local("ProggyCleanNerdFontPropo-Regular"),
+            url("fonts/ProggyCleanNerdFontPropo-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
