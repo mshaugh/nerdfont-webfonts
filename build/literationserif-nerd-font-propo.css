@@ -1,0 +1,32 @@
+@font-face {
+    font-family: "LiterationSerif Nerd Font Propo";
+    src:    local("LiterationSerifNerdFontPropo-Bold"),
+            url("fonts/LiterationSerifNerdFontPropo-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "LiterationSerif Nerd Font Propo";
+    src:    local("LiterationSerifNerdFontPropo-BoldItalic"),
+            url("fonts/LiterationSerifNerdFontPropo-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "LiterationSerif Nerd Font Propo";
+    src:    local("LiterationSerifNerdFontPropo-Italic"),
+            url("fonts/LiterationSerifNerdFontPropo-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "LiterationSerif Nerd Font Propo";
+    src:    local("LiterationSerifNerdFontPropo-Regular"),
+            url("fonts/LiterationSerifNerdFontPropo-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
