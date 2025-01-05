@@ -1,0 +1,32 @@
+@font-face {
+    font-family: "Hack Nerd Font";
+    src:    local("HackNerdFont-Bold"),
+            url("fonts/HackNerdFont-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Hack Nerd Font";
+    src:    local("HackNerdFont-BoldItalic"),
+            url("fonts/HackNerdFont-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Hack Nerd Font";
+    src:    local("HackNerdFont-Italic"),
+            url("fonts/HackNerdFont-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Hack Nerd Font";
+    src:    local("HackNerdFont-Regular"),
+            url("fonts/HackNerdFont-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
