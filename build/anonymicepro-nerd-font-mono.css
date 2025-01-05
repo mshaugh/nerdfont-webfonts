@@ -1,0 +1,32 @@
+@font-face {
+    font-family: "AnonymicePro Nerd Font Mono";
+    src:    local("AnonymiceProNerdFontMono-Bold"),
+            url("fonts/AnonymiceProNerdFontMono-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "AnonymicePro Nerd Font Mono";
+    src:    local("AnonymiceProNerdFontMono-BoldItalic"),
+            url("fonts/AnonymiceProNerdFontMono-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "AnonymicePro Nerd Font Mono";
+    src:    local("AnonymiceProNerdFontMono-Italic"),
+            url("fonts/AnonymiceProNerdFontMono-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "AnonymicePro Nerd Font Mono";
+    src:    local("AnonymiceProNerdFontMono-Regular"),
+            url("fonts/AnonymiceProNerdFontMono-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
