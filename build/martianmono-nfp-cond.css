@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "MartianMono NFP Cond";
+    src:    local("MartianMonoNerdFontPropo-CondensedBold"),
+            url("fonts/MartianMonoNerdFontPropo-CondensedBold.woff2") format("woff2");
+    font-stretch: condensed;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "MartianMono NFP Cond";
+    src:    local("MartianMonoNerdFontPropo-CondensedRegular"),
+            url("fonts/MartianMonoNerdFontPropo-CondensedRegular.woff2") format("woff2");
+    font-stretch: condensed;
+    font-style: normal;
+    font-weight: 400;
+}
