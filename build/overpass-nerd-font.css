@@ -1,0 +1,128 @@
+@font-face {
+    font-family: "Overpass Nerd Font";
+    src:    local("OverpassNerdFont-Bold"),
+            url("fonts/OverpassNerdFont-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Overpass Nerd Font";
+    src:    local("OverpassNerdFont-BoldItalic"),
+            url("fonts/OverpassNerdFont-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Overpass Nerd Font";
+    src:    local("OverpassNerdFont-ExtraBold"),
+            url("fonts/OverpassNerdFont-ExtraBold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Overpass Nerd Font";
+    src:    local("OverpassNerdFont-ExtraBoldItalic"),
+            url("fonts/OverpassNerdFont-ExtraBoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Overpass Nerd Font";
+    src:    local("OverpassNerdFont-ExtraLight"),
+            url("fonts/OverpassNerdFont-ExtraLight.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 200;
+}
+@font-face {
+    font-family: "Overpass Nerd Font";
+    src:    local("OverpassNerdFont-ExtraLightItalic"),
+            url("fonts/OverpassNerdFont-ExtraLightItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 200;
+}
+@font-face {
+    font-family: "Overpass Nerd Font";
+    src:    local("OverpassNerdFont-Heavy"),
+            url("fonts/OverpassNerdFont-Heavy.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 900;
+}
+@font-face {
+    font-family: "Overpass Nerd Font";
+    src:    local("OverpassNerdFont-HeavyItalic"),
+            url("fonts/OverpassNerdFont-HeavyItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 900;
+}
+@font-face {
+    font-family: "Overpass Nerd Font";
+    src:    local("OverpassNerdFont-Italic"),
+            url("fonts/OverpassNerdFont-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Overpass Nerd Font";
+    src:    local("OverpassNerdFont-Light"),
+            url("fonts/OverpassNerdFont-Light.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "Overpass Nerd Font";
+    src:    local("OverpassNerdFont-LightItalic"),
+            url("fonts/OverpassNerdFont-LightItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "Overpass Nerd Font";
+    src:    local("OverpassNerdFont-Regular"),
+            url("fonts/OverpassNerdFont-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Overpass Nerd Font";
+    src:    local("OverpassNerdFont-SemiBold"),
+            url("fonts/OverpassNerdFont-SemiBold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "Overpass Nerd Font";
+    src:    local("OverpassNerdFont-SemiBoldItalic"),
+            url("fonts/OverpassNerdFont-SemiBoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "Overpass Nerd Font";
+    src:    local("OverpassNerdFont-Thin"),
+            url("fonts/OverpassNerdFont-Thin.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 100;
+}
+@font-face {
+    font-family: "Overpass Nerd Font";
+    src:    local("OverpassNerdFont-ThinItalic"),
+            url("fonts/OverpassNerdFont-ThinItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 100;
+}

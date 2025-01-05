@@ -1,0 +1,128 @@
+@font-face {
+    font-family: "Overpass Nerd Font Propo";
+    src:    local("OverpassNerdFontPropo-Bold"),
+            url("fonts/OverpassNerdFontPropo-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Overpass Nerd Font Propo";
+    src:    local("OverpassNerdFontPropo-BoldItalic"),
+            url("fonts/OverpassNerdFontPropo-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Overpass Nerd Font Propo";
+    src:    local("OverpassNerdFontPropo-ExtraBold"),
+            url("fonts/OverpassNerdFontPropo-ExtraBold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Overpass Nerd Font Propo";
+    src:    local("OverpassNerdFontPropo-ExtraBoldItalic"),
+            url("fonts/OverpassNerdFontPropo-ExtraBoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Overpass Nerd Font Propo";
+    src:    local("OverpassNerdFontPropo-ExtraLight"),
+            url("fonts/OverpassNerdFontPropo-ExtraLight.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 200;
+}
+@font-face {
+    font-family: "Overpass Nerd Font Propo";
+    src:    local("OverpassNerdFontPropo-ExtraLightItalic"),
+            url("fonts/OverpassNerdFontPropo-ExtraLightItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 200;
+}
+@font-face {
+    font-family: "Overpass Nerd Font Propo";
+    src:    local("OverpassNerdFontPropo-Heavy"),
+            url("fonts/OverpassNerdFontPropo-Heavy.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 900;
+}
+@font-face {
+    font-family: "Overpass Nerd Font Propo";
+    src:    local("OverpassNerdFontPropo-HeavyItalic"),
+            url("fonts/OverpassNerdFontPropo-HeavyItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 900;
+}
+@font-face {
+    font-family: "Overpass Nerd Font Propo";
+    src:    local("OverpassNerdFontPropo-Italic"),
+            url("fonts/OverpassNerdFontPropo-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Overpass Nerd Font Propo";
+    src:    local("OverpassNerdFontPropo-Light"),
+            url("fonts/OverpassNerdFontPropo-Light.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "Overpass Nerd Font Propo";
+    src:    local("OverpassNerdFontPropo-LightItalic"),
+            url("fonts/OverpassNerdFontPropo-LightItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "Overpass Nerd Font Propo";
+    src:    local("OverpassNerdFontPropo-Regular"),
+            url("fonts/OverpassNerdFontPropo-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Overpass Nerd Font Propo";
+    src:    local("OverpassNerdFontPropo-SemiBold"),
+            url("fonts/OverpassNerdFontPropo-SemiBold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "Overpass Nerd Font Propo";
+    src:    local("OverpassNerdFontPropo-SemiBoldItalic"),
+            url("fonts/OverpassNerdFontPropo-SemiBoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "Overpass Nerd Font Propo";
+    src:    local("OverpassNerdFontPropo-Thin"),
+            url("fonts/OverpassNerdFontPropo-Thin.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 100;
+}
+@font-face {
+    font-family: "Overpass Nerd Font Propo";
+    src:    local("OverpassNerdFontPropo-ThinItalic"),
+            url("fonts/OverpassNerdFontPropo-ThinItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 100;
+}
