@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "ZedMono NFP Extd Med";
+    src:    local("ZedMonoNerdFontPropo-ExtendedMedium"),
+            url("fonts/ZedMonoNerdFontPropo-ExtendedMedium.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "ZedMono NFP Extd Med";
+    src:    local("ZedMonoNerdFontPropo-ExtendedMediumItalic"),
+            url("fonts/ZedMonoNerdFontPropo-ExtendedMediumItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 500;
+}

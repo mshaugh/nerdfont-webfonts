@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "ZedMono NF Extd Light";
+    src:    local("ZedMonoNerdFont-ExtendedLight"),
+            url("fonts/ZedMonoNerdFont-ExtendedLight.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "ZedMono NF Extd Light";
+    src:    local("ZedMonoNerdFont-ExtendedLightItalic"),
+            url("fonts/ZedMonoNerdFont-ExtendedLightItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 300;
+}

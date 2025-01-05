@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "ZedMono NF Extd Light Obl";
+    src:    local("ZedMonoNerdFont-ExtendedLightOblique"),
+            url("fonts/ZedMonoNerdFont-ExtendedLightOblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 300;
+}

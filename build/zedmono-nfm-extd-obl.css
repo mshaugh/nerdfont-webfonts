@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "ZedMono NFM Extd Obl";
+    src:    local("ZedMonoNerdFontMono-ExtendedBoldOblique"),
+            url("fonts/ZedMonoNerdFontMono-ExtendedBoldOblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "ZedMono NFM Extd Obl";
+    src:    local("ZedMonoNerdFontMono-ExtendedOblique"),
+            url("fonts/ZedMonoNerdFontMono-ExtendedOblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 400;
+}

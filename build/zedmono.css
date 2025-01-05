@@ -1,0 +1,720 @@
+@font-face {
+    font-family: "ZedMono NF";
+    src:    local("ZedMonoNerdFont-Bold"),
+            url("fonts/ZedMonoNerdFont-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "ZedMono NF";
+    src:    local("ZedMonoNerdFont-BoldItalic"),
+            url("fonts/ZedMonoNerdFont-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "ZedMono NF Obl";
+    src:    local("ZedMonoNerdFont-BoldOblique"),
+            url("fonts/ZedMonoNerdFont-BoldOblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "ZedMono NF Extd";
+    src:    local("ZedMonoNerdFont-Extended"),
+            url("fonts/ZedMonoNerdFont-Extended.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "ZedMono NF Extd";
+    src:    local("ZedMonoNerdFont-ExtendedBold"),
+            url("fonts/ZedMonoNerdFont-ExtendedBold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "ZedMono NF Extd";
+    src:    local("ZedMonoNerdFont-ExtendedBoldItalic"),
+            url("fonts/ZedMonoNerdFont-ExtendedBoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "ZedMono NF Extd Obl";
+    src:    local("ZedMonoNerdFont-ExtendedBoldOblique"),
+            url("fonts/ZedMonoNerdFont-ExtendedBoldOblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "ZedMono NF Extd ExtBd";
+    src:    local("ZedMonoNerdFont-ExtendedExtraBold"),
+            url("fonts/ZedMonoNerdFont-ExtendedExtraBold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "ZedMono NF Extd ExtBd";
+    src:    local("ZedMonoNerdFont-ExtendedExtraBoldItalic"),
+            url("fonts/ZedMonoNerdFont-ExtendedExtraBoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "ZedMono NF Extd ExtBd Obl";
+    src:    local("ZedMonoNerdFont-ExtendedExtraBoldOblique"),
+            url("fonts/ZedMonoNerdFont-ExtendedExtraBoldOblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "ZedMono NF Extd";
+    src:    local("ZedMonoNerdFont-ExtendedItalic"),
+            url("fonts/ZedMonoNerdFont-ExtendedItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "ZedMono NF Extd Light";
+    src:    local("ZedMonoNerdFont-ExtendedLight"),
+            url("fonts/ZedMonoNerdFont-ExtendedLight.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "ZedMono NF Extd Light";
+    src:    local("ZedMonoNerdFont-ExtendedLightItalic"),
+            url("fonts/ZedMonoNerdFont-ExtendedLightItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "ZedMono NF Extd Light Obl";
+    src:    local("ZedMonoNerdFont-ExtendedLightOblique"),
+            url("fonts/ZedMonoNerdFont-ExtendedLightOblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "ZedMono NF Extd Med";
+    src:    local("ZedMonoNerdFont-ExtendedMedium"),
+            url("fonts/ZedMonoNerdFont-ExtendedMedium.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "ZedMono NF Extd Med";
+    src:    local("ZedMonoNerdFont-ExtendedMediumItalic"),
+            url("fonts/ZedMonoNerdFont-ExtendedMediumItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "ZedMono NF Extd Med Obl";
+    src:    local("ZedMonoNerdFont-ExtendedMediumOblique"),
+            url("fonts/ZedMonoNerdFont-ExtendedMediumOblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "ZedMono NF Extd Obl";
+    src:    local("ZedMonoNerdFont-ExtendedOblique"),
+            url("fonts/ZedMonoNerdFont-ExtendedOblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "ZedMono NF ExtraBold";
+    src:    local("ZedMonoNerdFont-ExtraBold"),
+            url("fonts/ZedMonoNerdFont-ExtraBold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "ZedMono NF ExtraBold";
+    src:    local("ZedMonoNerdFont-ExtraBoldItalic"),
+            url("fonts/ZedMonoNerdFont-ExtraBoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "ZedMono NF ExtraBold Obl";
+    src:    local("ZedMonoNerdFont-ExtraBoldOblique"),
+            url("fonts/ZedMonoNerdFont-ExtraBoldOblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "ZedMono NF";
+    src:    local("ZedMonoNerdFont-Italic"),
+            url("fonts/ZedMonoNerdFont-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "ZedMono NF Light";
+    src:    local("ZedMonoNerdFont-Light"),
+            url("fonts/ZedMonoNerdFont-Light.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "ZedMono NF Light";
+    src:    local("ZedMonoNerdFont-LightItalic"),
+            url("fonts/ZedMonoNerdFont-LightItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "ZedMono NF Light Obl";
+    src:    local("ZedMonoNerdFont-LightOblique"),
+            url("fonts/ZedMonoNerdFont-LightOblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "ZedMono NF Medium";
+    src:    local("ZedMonoNerdFont-Medium"),
+            url("fonts/ZedMonoNerdFont-Medium.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "ZedMono NF Medium";
+    src:    local("ZedMonoNerdFont-MediumItalic"),
+            url("fonts/ZedMonoNerdFont-MediumItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "ZedMono NF Medium Obl";
+    src:    local("ZedMonoNerdFont-MediumOblique"),
+            url("fonts/ZedMonoNerdFont-MediumOblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "ZedMono NF Obl";
+    src:    local("ZedMonoNerdFont-Oblique"),
+            url("fonts/ZedMonoNerdFont-Oblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "ZedMono NF";
+    src:    local("ZedMonoNerdFont-Regular"),
+            url("fonts/ZedMonoNerdFont-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "ZedMono NFM";
+    src:    local("ZedMonoNerdFontMono-Bold"),
+            url("fonts/ZedMonoNerdFontMono-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "ZedMono NFM";
+    src:    local("ZedMonoNerdFontMono-BoldItalic"),
+            url("fonts/ZedMonoNerdFontMono-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "ZedMono NFM Obl";
+    src:    local("ZedMonoNerdFontMono-BoldOblique"),
+            url("fonts/ZedMonoNerdFontMono-BoldOblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "ZedMono NFM Extd";
+    src:    local("ZedMonoNerdFontMono-Extended"),
+            url("fonts/ZedMonoNerdFontMono-Extended.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "ZedMono NFM Extd";
+    src:    local("ZedMonoNerdFontMono-ExtendedBold"),
+            url("fonts/ZedMonoNerdFontMono-ExtendedBold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "ZedMono NFM Extd";
+    src:    local("ZedMonoNerdFontMono-ExtendedBoldItalic"),
+            url("fonts/ZedMonoNerdFontMono-ExtendedBoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "ZedMono NFM Extd Obl";
+    src:    local("ZedMonoNerdFontMono-ExtendedBoldOblique"),
+            url("fonts/ZedMonoNerdFontMono-ExtendedBoldOblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "ZedMono NFM Extd ExtBd";
+    src:    local("ZedMonoNerdFontMono-ExtendedExtraBold"),
+            url("fonts/ZedMonoNerdFontMono-ExtendedExtraBold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "ZedMono NFM Extd ExtBd";
+    src:    local("ZedMonoNerdFontMono-ExtendedExtraBoldItalic"),
+            url("fonts/ZedMonoNerdFontMono-ExtendedExtraBoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "ZedMono NFM Extd ExtBd Obl";
+    src:    local("ZedMonoNerdFontMono-ExtendedExtraBoldOblique"),
+            url("fonts/ZedMonoNerdFontMono-ExtendedExtraBoldOblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "ZedMono NFM Extd";
+    src:    local("ZedMonoNerdFontMono-ExtendedItalic"),
+            url("fonts/ZedMonoNerdFontMono-ExtendedItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "ZedMono NFM Extd Light";
+    src:    local("ZedMonoNerdFontMono-ExtendedLight"),
+            url("fonts/ZedMonoNerdFontMono-ExtendedLight.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "ZedMono NFM Extd Light";
+    src:    local("ZedMonoNerdFontMono-ExtendedLightItalic"),
+            url("fonts/ZedMonoNerdFontMono-ExtendedLightItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "ZedMono NFM Extd Light Obl";
+    src:    local("ZedMonoNerdFontMono-ExtendedLightOblique"),
+            url("fonts/ZedMonoNerdFontMono-ExtendedLightOblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "ZedMono NFM Extd Med";
+    src:    local("ZedMonoNerdFontMono-ExtendedMedium"),
+            url("fonts/ZedMonoNerdFontMono-ExtendedMedium.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "ZedMono NFM Extd Med";
+    src:    local("ZedMonoNerdFontMono-ExtendedMediumItalic"),
+            url("fonts/ZedMonoNerdFontMono-ExtendedMediumItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "ZedMono NFM Extd Med Obl";
+    src:    local("ZedMonoNerdFontMono-ExtendedMediumOblique"),
+            url("fonts/ZedMonoNerdFontMono-ExtendedMediumOblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "ZedMono NFM Extd Obl";
+    src:    local("ZedMonoNerdFontMono-ExtendedOblique"),
+            url("fonts/ZedMonoNerdFontMono-ExtendedOblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "ZedMono NFM ExtraBold";
+    src:    local("ZedMonoNerdFontMono-ExtraBold"),
+            url("fonts/ZedMonoNerdFontMono-ExtraBold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "ZedMono NFM ExtraBold";
+    src:    local("ZedMonoNerdFontMono-ExtraBoldItalic"),
+            url("fonts/ZedMonoNerdFontMono-ExtraBoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "ZedMono NFM ExtraBold Obl";
+    src:    local("ZedMonoNerdFontMono-ExtraBoldOblique"),
+            url("fonts/ZedMonoNerdFontMono-ExtraBoldOblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "ZedMono NFM";
+    src:    local("ZedMonoNerdFontMono-Italic"),
+            url("fonts/ZedMonoNerdFontMono-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "ZedMono NFM Light";
+    src:    local("ZedMonoNerdFontMono-Light"),
+            url("fonts/ZedMonoNerdFontMono-Light.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "ZedMono NFM Light";
+    src:    local("ZedMonoNerdFontMono-LightItalic"),
+            url("fonts/ZedMonoNerdFontMono-LightItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "ZedMono NFM Light Obl";
+    src:    local("ZedMonoNerdFontMono-LightOblique"),
+            url("fonts/ZedMonoNerdFontMono-LightOblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "ZedMono NFM Medium";
+    src:    local("ZedMonoNerdFontMono-Medium"),
+            url("fonts/ZedMonoNerdFontMono-Medium.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "ZedMono NFM Medium";
+    src:    local("ZedMonoNerdFontMono-MediumItalic"),
+            url("fonts/ZedMonoNerdFontMono-MediumItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "ZedMono NFM Medium Obl";
+    src:    local("ZedMonoNerdFontMono-MediumOblique"),
+            url("fonts/ZedMonoNerdFontMono-MediumOblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "ZedMono NFM Obl";
+    src:    local("ZedMonoNerdFontMono-Oblique"),
+            url("fonts/ZedMonoNerdFontMono-Oblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "ZedMono NFM";
+    src:    local("ZedMonoNerdFontMono-Regular"),
+            url("fonts/ZedMonoNerdFontMono-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "ZedMono NFP";
+    src:    local("ZedMonoNerdFontPropo-Bold"),
+            url("fonts/ZedMonoNerdFontPropo-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "ZedMono NFP";
+    src:    local("ZedMonoNerdFontPropo-BoldItalic"),
+            url("fonts/ZedMonoNerdFontPropo-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "ZedMono NFP Obl";
+    src:    local("ZedMonoNerdFontPropo-BoldOblique"),
+            url("fonts/ZedMonoNerdFontPropo-BoldOblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "ZedMono NFP Extd";
+    src:    local("ZedMonoNerdFontPropo-Extended"),
+            url("fonts/ZedMonoNerdFontPropo-Extended.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "ZedMono NFP Extd";
+    src:    local("ZedMonoNerdFontPropo-ExtendedBold"),
+            url("fonts/ZedMonoNerdFontPropo-ExtendedBold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "ZedMono NFP Extd";
+    src:    local("ZedMonoNerdFontPropo-ExtendedBoldItalic"),
+            url("fonts/ZedMonoNerdFontPropo-ExtendedBoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "ZedMono NFP Extd Obl";
+    src:    local("ZedMonoNerdFontPropo-ExtendedBoldOblique"),
+            url("fonts/ZedMonoNerdFontPropo-ExtendedBoldOblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "ZedMono NFP Extd ExtBd";
+    src:    local("ZedMonoNerdFontPropo-ExtendedExtraBold"),
+            url("fonts/ZedMonoNerdFontPropo-ExtendedExtraBold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "ZedMono NFP Extd ExtBd";
+    src:    local("ZedMonoNerdFontPropo-ExtendedExtraBoldItalic"),
+            url("fonts/ZedMonoNerdFontPropo-ExtendedExtraBoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "ZedMono NFP Extd ExtBd Obl";
+    src:    local("ZedMonoNerdFontPropo-ExtendedExtraBoldOblique"),
+            url("fonts/ZedMonoNerdFontPropo-ExtendedExtraBoldOblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "ZedMono NFP Extd";
+    src:    local("ZedMonoNerdFontPropo-ExtendedItalic"),
+            url("fonts/ZedMonoNerdFontPropo-ExtendedItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "ZedMono NFP Extd Light";
+    src:    local("ZedMonoNerdFontPropo-ExtendedLight"),
+            url("fonts/ZedMonoNerdFontPropo-ExtendedLight.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "ZedMono NFP Extd Light";
+    src:    local("ZedMonoNerdFontPropo-ExtendedLightItalic"),
+            url("fonts/ZedMonoNerdFontPropo-ExtendedLightItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "ZedMono NFP Extd Light Obl";
+    src:    local("ZedMonoNerdFontPropo-ExtendedLightOblique"),
+            url("fonts/ZedMonoNerdFontPropo-ExtendedLightOblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "ZedMono NFP Extd Med";
+    src:    local("ZedMonoNerdFontPropo-ExtendedMedium"),
+            url("fonts/ZedMonoNerdFontPropo-ExtendedMedium.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "ZedMono NFP Extd Med";
+    src:    local("ZedMonoNerdFontPropo-ExtendedMediumItalic"),
+            url("fonts/ZedMonoNerdFontPropo-ExtendedMediumItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "ZedMono NFP Extd Med Obl";
+    src:    local("ZedMonoNerdFontPropo-ExtendedMediumOblique"),
+            url("fonts/ZedMonoNerdFontPropo-ExtendedMediumOblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "ZedMono NFP Extd Obl";
+    src:    local("ZedMonoNerdFontPropo-ExtendedOblique"),
+            url("fonts/ZedMonoNerdFontPropo-ExtendedOblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "ZedMono NFP ExtraBold";
+    src:    local("ZedMonoNerdFontPropo-ExtraBold"),
+            url("fonts/ZedMonoNerdFontPropo-ExtraBold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "ZedMono NFP ExtraBold";
+    src:    local("ZedMonoNerdFontPropo-ExtraBoldItalic"),
+            url("fonts/ZedMonoNerdFontPropo-ExtraBoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "ZedMono NFP ExtraBold Obl";
+    src:    local("ZedMonoNerdFontPropo-ExtraBoldOblique"),
+            url("fonts/ZedMonoNerdFontPropo-ExtraBoldOblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "ZedMono NFP";
+    src:    local("ZedMonoNerdFontPropo-Italic"),
+            url("fonts/ZedMonoNerdFontPropo-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "ZedMono NFP Light";
+    src:    local("ZedMonoNerdFontPropo-Light"),
+            url("fonts/ZedMonoNerdFontPropo-Light.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "ZedMono NFP Light";
+    src:    local("ZedMonoNerdFontPropo-LightItalic"),
+            url("fonts/ZedMonoNerdFontPropo-LightItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "ZedMono NFP Light Obl";
+    src:    local("ZedMonoNerdFontPropo-LightOblique"),
+            url("fonts/ZedMonoNerdFontPropo-LightOblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "ZedMono NFP Medium";
+    src:    local("ZedMonoNerdFontPropo-Medium"),
+            url("fonts/ZedMonoNerdFontPropo-Medium.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "ZedMono NFP Medium";
+    src:    local("ZedMonoNerdFontPropo-MediumItalic"),
+            url("fonts/ZedMonoNerdFontPropo-MediumItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "ZedMono NFP Medium Obl";
+    src:    local("ZedMonoNerdFontPropo-MediumOblique"),
+            url("fonts/ZedMonoNerdFontPropo-MediumOblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "ZedMono NFP Obl";
+    src:    local("ZedMonoNerdFontPropo-Oblique"),
+            url("fonts/ZedMonoNerdFontPropo-Oblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "ZedMono NFP";
+    src:    local("ZedMonoNerdFontPropo-Regular"),
+            url("fonts/ZedMonoNerdFontPropo-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}

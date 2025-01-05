@@ -1,0 +1,32 @@
+@font-face {
+    font-family: "ZedMono NFP";
+    src:    local("ZedMonoNerdFontPropo-Bold"),
+            url("fonts/ZedMonoNerdFontPropo-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "ZedMono NFP";
+    src:    local("ZedMonoNerdFontPropo-BoldItalic"),
+            url("fonts/ZedMonoNerdFontPropo-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "ZedMono NFP";
+    src:    local("ZedMonoNerdFontPropo-Italic"),
+            url("fonts/ZedMonoNerdFontPropo-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "ZedMono NFP";
+    src:    local("ZedMonoNerdFontPropo-Regular"),
+            url("fonts/ZedMonoNerdFontPropo-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
