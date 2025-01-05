@@ -1,9 +1,0 @@
-@font-face {
-    font-family: "Monofuritalic Nerd Font Mono";
-    src:    local(monofur italic Nerd Font Complete Mono),
-            url("fonts/monofur italic Nerd Font Complete Mono.woff2") format("woff2"),
-            url("fonts/monofur italic Nerd Font Complete Mono.ttf") format("truetype");
-    font-stretch: normal;
-    font-style: normal;
-    font-weight: 400;
-}

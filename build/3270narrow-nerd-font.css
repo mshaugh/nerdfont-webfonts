@@ -1,9 +1,0 @@
-@font-face {
-    font-family: "3270Narrow Nerd Font";
-    src:    local(3270 Narrow Nerd Font Complete),
-            url("fonts/3270 Narrow Nerd Font Complete.woff2") format("woff2"),
-            url("fonts/3270 Narrow Nerd Font Complete.ttf") format("truetype");
-    font-stretch: normal;
-    font-style: normal;
-    font-weight: 400;
-}

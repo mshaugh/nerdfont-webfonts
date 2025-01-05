@@ -1,9 +1,0 @@
-@font-face {
-    font-family: "ProFontIIx Nerd Font Mono";
-    src:    local(ProFont IIx Nerd Font Complete Mono),
-            url("fonts/ProFont IIx Nerd Font Complete Mono.woff2") format("woff2"),
-            url("fonts/ProFont IIx Nerd Font Complete Mono.ttf") format("truetype");
-    font-stretch: normal;
-    font-style: normal;
-    font-weight: 400;
-}

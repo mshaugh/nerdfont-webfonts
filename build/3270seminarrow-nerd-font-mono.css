@@ -1,9 +1,0 @@
-@font-face {
-    font-family: "3270SemiNarrow Nerd Font Mono";
-    src:    local(3270 Semi-Narrow Nerd Font Complete Mono),
-            url("fonts/3270 Semi-Narrow Nerd Font Complete Mono.woff2") format("woff2"),
-            url("fonts/3270 Semi-Narrow Nerd Font Complete Mono.ttf") format("truetype");
-    font-stretch: normal;
-    font-style: normal;
-    font-weight: 400;
-}
