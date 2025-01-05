@@ -1,0 +1,48 @@
+@font-face {
+    font-family: "BigBlueTerm437 Nerd Font";
+    src:    local("BigBlueTerm437NerdFont-Regular"),
+            url("fonts/BigBlueTerm437NerdFont-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "BigBlueTerm437 Nerd Font Mono";
+    src:    local("BigBlueTerm437NerdFontMono-Regular"),
+            url("fonts/BigBlueTerm437NerdFontMono-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "BigBlueTerm437 Nerd Font Propo";
+    src:    local("BigBlueTerm437NerdFontPropo-Regular"),
+            url("fonts/BigBlueTerm437NerdFontPropo-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "BigBlueTermPlus Nerd Font";
+    src:    local("BigBlueTermPlusNerdFont-Regular"),
+            url("fonts/BigBlueTermPlusNerdFont-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "BigBlueTermPlus Nerd Font Mono";
+    src:    local("BigBlueTermPlusNerdFontMono-Regular"),
+            url("fonts/BigBlueTermPlusNerdFontMono-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "BigBlueTermPlus Nerd Font Propo";
+    src:    local("BigBlueTermPlusNerdFontPropo-Regular"),
+            url("fonts/BigBlueTermPlusNerdFontPropo-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}

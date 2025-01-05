@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "BigBlueTerm437 Nerd Font";
+    src:    local("BigBlueTerm437NerdFont-Regular"),
+            url("fonts/BigBlueTerm437NerdFont-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}

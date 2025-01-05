@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "BigBlueTermPlus Nerd Font Mono";
+    src:    local("BigBlueTermPlusNerdFontMono-Regular"),
+            url("fonts/BigBlueTermPlusNerdFontMono-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
