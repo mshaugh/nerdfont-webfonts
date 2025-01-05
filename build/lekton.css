@@ -1,0 +1,72 @@
+@font-face {
+    font-family: "Lekton Nerd Font";
+    src:    local("LektonNerdFont-Bold"),
+            url("fonts/LektonNerdFont-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Lekton Nerd Font";
+    src:    local("LektonNerdFont-Italic"),
+            url("fonts/LektonNerdFont-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Lekton Nerd Font";
+    src:    local("LektonNerdFont-Regular"),
+            url("fonts/LektonNerdFont-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Lekton Nerd Font Mono";
+    src:    local("LektonNerdFontMono-Bold"),
+            url("fonts/LektonNerdFontMono-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Lekton Nerd Font Mono";
+    src:    local("LektonNerdFontMono-Italic"),
+            url("fonts/LektonNerdFontMono-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Lekton Nerd Font Mono";
+    src:    local("LektonNerdFontMono-Regular"),
+            url("fonts/LektonNerdFontMono-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Lekton Nerd Font Propo";
+    src:    local("LektonNerdFontPropo-Bold"),
+            url("fonts/LektonNerdFontPropo-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Lekton Nerd Font Propo";
+    src:    local("LektonNerdFontPropo-Italic"),
+            url("fonts/LektonNerdFontPropo-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Lekton Nerd Font Propo";
+    src:    local("LektonNerdFontPropo-Regular"),
+            url("fonts/LektonNerdFontPropo-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}

@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "Lekton Nerd Font";
+    src:    local("LektonNerdFont-Bold"),
+            url("fonts/LektonNerdFont-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Lekton Nerd Font";
+    src:    local("LektonNerdFont-Italic"),
+            url("fonts/LektonNerdFont-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Lekton Nerd Font";
+    src:    local("LektonNerdFont-Regular"),
+            url("fonts/LektonNerdFont-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
