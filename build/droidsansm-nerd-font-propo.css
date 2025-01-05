@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "DroidSansM Nerd Font Propo";
+    src:    local("DroidSansMNerdFontPropo-Regular"),
+            url("fonts/DroidSansMNerdFontPropo-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
