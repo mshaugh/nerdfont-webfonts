@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "Iosevka NFP SemiBold";
+    src:    local("IosevkaNerdFontPropo-SemiBold"),
+            url("fonts/IosevkaNerdFontPropo-SemiBold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "Iosevka NFP SemiBold";
+    src:    local("IosevkaNerdFontPropo-SemiBoldItalic"),
+            url("fonts/IosevkaNerdFontPropo-SemiBoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 600;
+}

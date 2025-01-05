@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "Iosevka NF Light";
+    src:    local("IosevkaNerdFont-Light"),
+            url("fonts/IosevkaNerdFont-Light.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "Iosevka NF Light";
+    src:    local("IosevkaNerdFont-LightItalic"),
+            url("fonts/IosevkaNerdFont-LightItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 300;
+}

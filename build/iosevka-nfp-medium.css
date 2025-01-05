@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "Iosevka NFP Medium";
+    src:    local("IosevkaNerdFontPropo-Medium"),
+            url("fonts/IosevkaNerdFontPropo-Medium.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "Iosevka NFP Medium";
+    src:    local("IosevkaNerdFontPropo-MediumItalic"),
+            url("fonts/IosevkaNerdFontPropo-MediumItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 500;
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "Iosevka NFP SemiBold Obl";
+    src:    local("IosevkaNerdFontPropo-SemiBoldOblique"),
+            url("fonts/IosevkaNerdFontPropo-SemiBoldOblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 600;
+}

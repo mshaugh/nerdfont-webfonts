@@ -1,0 +1,32 @@
+@font-face {
+    font-family: "Iosevka NFM";
+    src:    local("IosevkaNerdFontMono-Bold"),
+            url("fonts/IosevkaNerdFontMono-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Iosevka NFM";
+    src:    local("IosevkaNerdFontMono-BoldItalic"),
+            url("fonts/IosevkaNerdFontMono-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Iosevka NFM";
+    src:    local("IosevkaNerdFontMono-Italic"),
+            url("fonts/IosevkaNerdFontMono-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Iosevka NFM";
+    src:    local("IosevkaNerdFontMono-Regular"),
+            url("fonts/IosevkaNerdFontMono-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}

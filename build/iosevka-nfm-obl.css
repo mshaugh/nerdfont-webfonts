@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "Iosevka NFM Obl";
+    src:    local("IosevkaNerdFontMono-BoldOblique"),
+            url("fonts/IosevkaNerdFontMono-BoldOblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Iosevka NFM Obl";
+    src:    local("IosevkaNerdFontMono-Oblique"),
+            url("fonts/IosevkaNerdFontMono-Oblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 400;
+}

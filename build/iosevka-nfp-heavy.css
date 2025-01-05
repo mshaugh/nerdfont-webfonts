@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "Iosevka NFP Heavy";
+    src:    local("IosevkaNerdFontPropo-Heavy"),
+            url("fonts/IosevkaNerdFontPropo-Heavy.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 900;
+}
+@font-face {
+    font-family: "Iosevka NFP Heavy";
+    src:    local("IosevkaNerdFontPropo-HeavyItalic"),
+            url("fonts/IosevkaNerdFontPropo-HeavyItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 900;
+}

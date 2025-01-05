@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "Iosevka NF Thin Obl";
+    src:    local("IosevkaNerdFont-ThinOblique"),
+            url("fonts/IosevkaNerdFont-ThinOblique.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 100;
+}

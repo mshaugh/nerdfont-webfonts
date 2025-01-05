@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "Iosevka NF ExtraBold";
+    src:    local("IosevkaNerdFont-ExtraBold"),
+            url("fonts/IosevkaNerdFont-ExtraBold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Iosevka NF ExtraBold";
+    src:    local("IosevkaNerdFont-ExtraBoldItalic"),
+            url("fonts/IosevkaNerdFont-ExtraBoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}

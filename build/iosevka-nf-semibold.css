@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "Iosevka NF SemiBold";
+    src:    local("IosevkaNerdFont-SemiBold"),
+            url("fonts/IosevkaNerdFont-SemiBold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "Iosevka NF SemiBold";
+    src:    local("IosevkaNerdFont-SemiBoldItalic"),
+            url("fonts/IosevkaNerdFont-SemiBoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 600;
+}
