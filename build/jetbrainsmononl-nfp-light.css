@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "JetBrainsMonoNL NFP Light";
+    src:    local("JetBrainsMonoNLNerdFontPropo-Light"),
+            url("fonts/JetBrainsMonoNLNerdFontPropo-Light.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "JetBrainsMonoNL NFP Light";
+    src:    local("JetBrainsMonoNLNerdFontPropo-LightItalic"),
+            url("fonts/JetBrainsMonoNLNerdFontPropo-LightItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 300;
+}

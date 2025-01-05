@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "JetBrainsMonoNL NFP ExtraBold";
+    src:    local("JetBrainsMonoNLNerdFontPropo-ExtraBold"),
+            url("fonts/JetBrainsMonoNLNerdFontPropo-ExtraBold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "JetBrainsMonoNL NFP ExtraBold";
+    src:    local("JetBrainsMonoNLNerdFontPropo-ExtraBoldItalic"),
+            url("fonts/JetBrainsMonoNLNerdFontPropo-ExtraBoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}

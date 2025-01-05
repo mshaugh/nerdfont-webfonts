@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "JetBrainsMonoNL NFM SemiBold";
+    src:    local("JetBrainsMonoNLNerdFontMono-SemiBold"),
+            url("fonts/JetBrainsMonoNLNerdFontMono-SemiBold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "JetBrainsMonoNL NFM SemiBold";
+    src:    local("JetBrainsMonoNLNerdFontMono-SemiBoldItalic"),
+            url("fonts/JetBrainsMonoNLNerdFontMono-SemiBoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 600;
+}
