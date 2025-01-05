@@ -1,0 +1,32 @@
+@font-face {
+    font-family: "SpaceMono Nerd Font Mono";
+    src:    local("SpaceMonoNerdFontMono-Bold"),
+            url("fonts/SpaceMonoNerdFontMono-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "SpaceMono Nerd Font Mono";
+    src:    local("SpaceMonoNerdFontMono-BoldItalic"),
+            url("fonts/SpaceMonoNerdFontMono-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "SpaceMono Nerd Font Mono";
+    src:    local("SpaceMonoNerdFontMono-Italic"),
+            url("fonts/SpaceMonoNerdFontMono-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "SpaceMono Nerd Font Mono";
+    src:    local("SpaceMonoNerdFontMono-Regular"),
+            url("fonts/SpaceMonoNerdFontMono-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
