@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "Ubuntu Nerd Font Propo Med";
+    src:    local("UbuntuNerdFontPropo-Medium"),
+            url("fonts/UbuntuNerdFontPropo-Medium.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "Ubuntu Nerd Font Propo Med";
+    src:    local("UbuntuNerdFontPropo-MediumItalic"),
+            url("fonts/UbuntuNerdFontPropo-MediumItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 500;
+}

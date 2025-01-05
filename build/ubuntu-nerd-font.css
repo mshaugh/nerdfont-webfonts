@@ -1,0 +1,32 @@
+@font-face {
+    font-family: "Ubuntu Nerd Font";
+    src:    local("UbuntuNerdFont-Bold"),
+            url("fonts/UbuntuNerdFont-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Ubuntu Nerd Font";
+    src:    local("UbuntuNerdFont-BoldItalic"),
+            url("fonts/UbuntuNerdFont-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Ubuntu Nerd Font";
+    src:    local("UbuntuNerdFont-Italic"),
+            url("fonts/UbuntuNerdFont-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Ubuntu Nerd Font";
+    src:    local("UbuntuNerdFont-Regular"),
+            url("fonts/UbuntuNerdFont-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
