@@ -1,0 +1,32 @@
+@font-face {
+    font-family: "FantasqueSansM Nerd Font";
+    src:    local("FantasqueSansMNerdFont-Bold"),
+            url("fonts/FantasqueSansMNerdFont-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "FantasqueSansM Nerd Font";
+    src:    local("FantasqueSansMNerdFont-BoldItalic"),
+            url("fonts/FantasqueSansMNerdFont-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "FantasqueSansM Nerd Font";
+    src:    local("FantasqueSansMNerdFont-Italic"),
+            url("fonts/FantasqueSansMNerdFont-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "FantasqueSansM Nerd Font";
+    src:    local("FantasqueSansMNerdFont-Regular"),
+            url("fonts/FantasqueSansMNerdFont-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
