@@ -1,0 +1,32 @@
+@font-face {
+    font-family: "Terminess Nerd Font Propo";
+    src:    local("TerminessNerdFontPropo-Bold"),
+            url("fonts/TerminessNerdFontPropo-Bold.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Terminess Nerd Font Propo";
+    src:    local("TerminessNerdFontPropo-BoldItalic"),
+            url("fonts/TerminessNerdFontPropo-BoldItalic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Terminess Nerd Font Propo";
+    src:    local("TerminessNerdFontPropo-Italic"),
+            url("fonts/TerminessNerdFontPropo-Italic.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Terminess Nerd Font Propo";
+    src:    local("TerminessNerdFontPropo-Regular"),
+            url("fonts/TerminessNerdFontPropo-Regular.woff2") format("woff2");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
